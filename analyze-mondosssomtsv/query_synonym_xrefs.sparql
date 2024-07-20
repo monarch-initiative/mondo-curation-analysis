@@ -1,0 +1,46 @@
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX oboInOwl: <http://www.geneontology.org/formats/oboInOwl#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT DISTINCT ?identifier ?synonym ?synonym_xref ?synonym_type ?synonym_type_value
+WHERE {
+    # Match the main class and get its identifier
+    ?entity rdfs:label ?label ;
+            oboInOwl:id ?identifier .
+
+    # Match the synonym properties and their values
+    VALUES ?synonym_property {
+        oboInOwl:hasRelatedSynonym
+        oboInOwl:hasExactSynonym
+        oboInOwl:hasNarrowSynonym
+        oboInOwl:hasBroadSynonym
+    }
+    ?entity ?synonym_property ?synonym .
+
+    # Match the annotations for the synonyms
+    OPTIONAL {
+        ?anno a owl:Axiom ;
+              owl:annotatedSource ?entity ;
+              owl:annotatedProperty ?synonym_property ;
+              owl:annotatedTarget ?synonym ;
+              oboInOwl:hasDbXref ?synonym_xref .
+        OPTIONAL {
+            ?anno oboInOwl:hasSynonymType ?synonym_type_value .
+        }
+    }
+
+    # Ensure the entity is the specific MONDO class
+    FILTER(STRSTARTS(STR(?entity), "http://purl.obolibrary.org/obo/MONDO_"))
+
+    # Bind the synonym type based on the property
+    BIND(
+        IF(?synonym_property = oboInOwl:hasExactSynonym, "exact",
+            IF(?synonym_property = oboInOwl:hasRelatedSynonym, "related",
+                IF(?synonym_property = oboInOwl:hasNarrowSynonym, "narrow",
+                    IF(?synonym_property = oboInOwl:hasBroadSynonym, "broad", "unknown")
+                )
+            )
+        ) AS ?synonym_type
+    )
+}
+ORDER BY ?identifier
