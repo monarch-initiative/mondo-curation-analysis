@@ -1,0 +1,15 @@
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX oboInOwl: <http://www.geneontology.org/formats/oboInOwl#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+
+# get all omim curies and labels from omim.owl where the omim class has an INCLUDED entry 
+
+SELECT ?curie ?label
+WHERE {
+    ?class a owl:Class ;
+           rdfs:comment "This term has one or more labels that end with ', INCLUDED'." ;
+           rdfs:label ?label .
+    BIND(REPLACE(STR(?class), "https://omim.org/entry/", "OMIM:") AS ?curie)
+}
+
