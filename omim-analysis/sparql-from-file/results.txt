@@ -1,0 +1,1736 @@
+Entity, Label, Xref, Source
+MONDO:0020742, 'obsolete cataract, microcephaly, failure to thrive, kyphoscoliosis syndrome', OMIM:212540, GARD:0001060
+MONDO:0020742, 'obsolete cataract, microcephaly, failure to thrive, kyphoscoliosis syndrome', OMIM:212540, MONDO:obsoleteEquivalent
+MONDO:0008030, 'facioscapulohumeral muscular dystrophy 1', OMIM:158900, GARD:0009941
+MONDO:0008030, 'facioscapulohumeral muscular dystrophy 1', OMIM:158900, MONDO:equivalentTo
+MONDO:0014448, 'hyperthyroxinemia, familial dysalbuminemic', OMIM:615999, MONDO:equivalentTo
+MONDO:0100528, 'Hao-Fountain syndrome due to 16p13.2 microdeletion', OMIM:616863, MONDO:includedEntryInOMIM
+MONDO:0958071, 'Hao-Fountain syndrome due to USP7 mutation', OMIM:616863, MONDO:equivalentTo
+MONDO:0011527, 'Charcot-Marie-Tooth disease type 4E', OMIM:605253, DOID:0110195
+MONDO:0011527, 'Charcot-Marie-Tooth disease type 4E', OMIM:605253, GARD:0006170
+MONDO:0011527, 'Charcot-Marie-Tooth disease type 4E', OMIM:605253, MONDO:equivalentTo
+MONDO:0011527, 'Charcot-Marie-Tooth disease type 4E', OMIM:605253, Orphanet:99951
+MONDO:0011527, 'Charcot-Marie-Tooth disease type 4E', OMIM:605253, Orphanet:99951/e
+MONDO:0007251, 'campomelic dysplasia', OMIM:114290, DOID:0050463
+MONDO:0007251, 'campomelic dysplasia', OMIM:114290, MONDO:equivalentTo
+MONDO:0007251, 'campomelic dysplasia', OMIM:114290, Orphanet:140
+MONDO:0007251, 'campomelic dysplasia', OMIM:114290, Orphanet:140/e
+MONDO:0007240, 'progressive familial heart block, type 1A', OMIM:113900, DOID:0111074
+MONDO:0007240, 'progressive familial heart block, type 1A', OMIM:113900, EFO:0004138
+MONDO:0007240, 'progressive familial heart block, type 1A', OMIM:113900, GARD:0001093
+MONDO:0007240, 'progressive familial heart block, type 1A', OMIM:113900, MONDO:equivalentTo
+MONDO:0011875, 'epilepsy, idiopathic generalized, susceptibility to, 11', OMIM:607628, MONDO:equivalentTo
+MONDO:0009459, 'channelopathy-associated congenital insensitivity to pain, autosomal recessive', OMIM:243000, MONDO:equivalentTo
+MONDO:0009459, 'channelopathy-associated congenital insensitivity to pain, autosomal recessive', OMIM:243000, Orphanet:88642
+MONDO:0009459, 'channelopathy-associated congenital insensitivity to pain, autosomal recessive', OMIM:243000, Orphanet:88642/e
+MONDO:0800304, 'neuropathy, hereditary sensory and autonomic, type IId', OMIM:243000, MONDO:includedEntryInOMIM
+MONDO:0010986, 'autosomal recessive nonsyndromic hearing loss 9', OMIM:601071, DOID:0110535
+MONDO:0010986, 'autosomal recessive nonsyndromic hearing loss 9', OMIM:601071, MONDO:equivalentTo
+MONDO:0100340, 'Friedreich ataxia 1', OMIM:229300, DOID:12705
+MONDO:0100340, 'Friedreich ataxia 1', OMIM:229300, MONDO:equivalentTo
+MONDO:0100340, 'Friedreich ataxia 1', OMIM:229300, Orphanet:95
+MONDO:0100340, 'Friedreich ataxia 1', OMIM:229300, Orphanet:95/e
+MONDO:0800301, 'Friedreich ataxia with retained reflexes', OMIM:229300, MONDO:includedEntryInOMIM
+MONDO:0009675, 'autosomal recessive limb-girdle muscular dystrophy type 2A', OMIM:253600, DOID:0110275
+MONDO:0009675, 'autosomal recessive limb-girdle muscular dystrophy type 2A', OMIM:253600, MONDO:equivalentTo
+MONDO:0009675, 'autosomal recessive limb-girdle muscular dystrophy type 2A', OMIM:253600, Orphanet:267
+MONDO:0009675, 'autosomal recessive limb-girdle muscular dystrophy type 2A', OMIM:253600, Orphanet:267/e
+MONDO:0010743, 'thrombocytopenia 1', OMIM:313900, MONDO:equivalentTo
+MONDO:0010743, 'thrombocytopenia 1', OMIM:313900, Orphanet:852
+MONDO:0010743, 'thrombocytopenia 1', OMIM:313900, Orphanet:852/e
+MONDO:0010038, 'growth delay due to insulin-like growth factor I resistance', OMIM:270450, GARD:0010609
+MONDO:0010038, 'growth delay due to insulin-like growth factor I resistance', OMIM:270450, MONDO:equivalentTo
+MONDO:0010038, 'growth delay due to insulin-like growth factor I resistance', OMIM:270450, Orphanet:73273
+MONDO:0010038, 'growth delay due to insulin-like growth factor I resistance', OMIM:270450, Orphanet:73273/e
+MONDO:0010117, '3M syndrome 1', OMIM:273750, MONDO:equivalentTo
+MONDO:0800412, 'yakut short stature syndrome', OMIM:273750, MONDO:includedEntryInOMIM
+MONDO:0012736, 'long QT syndrome 9', OMIM:611818, DOID:0110650
+MONDO:0012736, 'long QT syndrome 9', OMIM:611818, MONDO:equivalentTo
+MONDO:0009692, 'primary myelofibrosis', OMIM:254450, DOID:4971
+MONDO:0009692, 'primary myelofibrosis', OMIM:254450, EFO:0002430
+MONDO:0009692, 'primary myelofibrosis', OMIM:254450, MONDO:equivalentTo
+MONDO:0009692, 'primary myelofibrosis', OMIM:254450, Orphanet:824
+MONDO:0009692, 'primary myelofibrosis', OMIM:254450, Orphanet:824/e
+MONDO:0800305, 'myelofibrosis with myeloid metaplasia', OMIM:254450, MONDO:includedEntryInOMIM
+MONDO:0010206, 'hypotrichosis 8', OMIM:278150, DOID:0110705
+MONDO:0010206, 'hypotrichosis 8', OMIM:278150, MONDO:equivalentTo
+MONDO:0800312, 'wooly hair, autosomal recessive 1, with or without hypotrichosis', OMIM:278150, MONDO:includedEntryInOMIM
+MONDO:0013713, 'dengue virus, susceptibility to', OMIM:614371, MONDO:equivalentTo
+MONDO:0800426, 'dengue fever, susceptibility to', OMIM:614371, MONDO:includedEntryInOMIM
+MONDO:0800427, 'dengue hemorrhagic fever, susceptibility to', OMIM:614371, MONDO:includedEntryInOMIM
+MONDO:0800428, 'dengue shock syndrome, susceptibility to', OMIM:614371, MONDO:includedEntryInOMIM
+MONDO:0008903, 'lung cancer', OMIM:211980, DOID:1324
+MONDO:0008903, 'lung cancer', OMIM:211980, MONDO:equivalentTo
+MONDO:0011369, 'hypercholesterolemia, autosomal dominant, 3', OMIM:603776, MONDO:equivalentTo
+MONDO:0012763, 'epilepsy, childhood absence, susceptibility to, 6', OMIM:611942, MONDO:equivalentTo
+MONDO:0800279, 'epilepsy, idiopathic generalized, susceptibility to, 6', OMIM:611942, MONDO:includedEntryInOMIM
+MONDO:0008521, 'tarsal-carpal coalition syndrome', OMIM:186570, DOID:0050789
+MONDO:0008521, 'tarsal-carpal coalition syndrome', OMIM:186570, MONDO:equivalentTo
+MONDO:0008521, 'tarsal-carpal coalition syndrome', OMIM:186570, Orphanet:1412
+MONDO:0008521, 'tarsal-carpal coalition syndrome', OMIM:186570, Orphanet:1412/e
+MONDO:0012527, 'cataract 11 multiple types', OMIM:610623, DOID:0110249
+MONDO:0012527, 'cataract 11 multiple types', OMIM:610623, MONDO:equivalentTo
+MONDO:0008428, 'septooptic dysplasia', OMIM:182230, DOID:0060857
+MONDO:0008428, 'septooptic dysplasia', OMIM:182230, MONDO:equivalentTo
+MONDO:0008428, 'septooptic dysplasia', OMIM:182230, Orphanet:3157
+MONDO:0008428, 'septooptic dysplasia', OMIM:182230, Orphanet:3157/e
+MONDO:0007476, 'familial Dupuytren contracture', OMIM:126900, MONDO:equivalentTo
+MONDO:0007476, 'familial Dupuytren contracture', OMIM:126900, Orphanet:79142
+MONDO:0007476, 'familial Dupuytren contracture', OMIM:126900, Orphanet:79142/e
+MONDO:0016581, 'conotruncal heart malformations', OMIM:217095, MONDO:equivalentTo
+MONDO:0016581, 'conotruncal heart malformations', OMIM:217095, Orphanet:2445
+MONDO:0016581, 'conotruncal heart malformations', OMIM:217095, Orphanet:2445/e
+MONDO:0012744, 'dilated cardiomyopathy 1Y', OMIM:611878, DOID:0110457
+MONDO:0012744, 'dilated cardiomyopathy 1Y', OMIM:611878, MONDO:equivalentTo
+MONDO:0800346, 'left ventricular noncompaction 9', OMIM:611878, MONDO:includedEntryInOMIM
+MONDO:0010349, 'ovarian dysgenesis 2', OMIM:300510, MONDO:equivalentTo
+MONDO:0800317, 'premature ovarian failure 4', OMIM:300510, MONDO:includedEntryInOMIM
+MONDO:0013304, 'von Willebrand disease 2', OMIM:613554, DOID:0060574
+MONDO:0013304, 'von Willebrand disease 2', OMIM:613554, MONDO:equivalentTo
+MONDO:0013304, 'von Willebrand disease 2', OMIM:613554, Orphanet:166081
+MONDO:0013304, 'von Willebrand disease 2', OMIM:613554, Orphanet:166081/e
+MONDO:0008840, 'ataxia telangiectasia', OMIM:208900, DOID:12704
+MONDO:0008840, 'ataxia telangiectasia', OMIM:208900, MONDO:equivalentTo
+MONDO:0008840, 'ataxia telangiectasia', OMIM:208900, Orphanet:100
+MONDO:0008840, 'ataxia telangiectasia', OMIM:208900, Orphanet:100/e
+MONDO:0014763, 'obsolete Bombay phenotype', OMIM:616754, MONDO:obsoleteEquivalent
+MONDO:0013361, 'congenital prothrombin deficiency', OMIM:613679, DOID:2235
+MONDO:0013361, 'congenital prothrombin deficiency', OMIM:613679, MONDO:equivalentTo
+MONDO:0013361, 'congenital prothrombin deficiency', OMIM:613679, Orphanet:325
+MONDO:0013361, 'congenital prothrombin deficiency', OMIM:613679, Orphanet:325/e
+MONDO:0011386, 'microvascular complications of diabetes, susceptibility to, 1', OMIM:603933, MONDO:equivalentTo
+MONDO:0010139, 'isolated thyroid-stimulating hormone deficiency', OMIM:275100, DOID:0070123
+MONDO:0010139, 'isolated thyroid-stimulating hormone deficiency', OMIM:275100, MONDO:equivalentTo
+MONDO:0010139, 'isolated thyroid-stimulating hormone deficiency', OMIM:275100, Orphanet:90674
+MONDO:0010139, 'isolated thyroid-stimulating hormone deficiency', OMIM:275100, Orphanet:90674/e
+MONDO:0008434, 'Smith-Magenis syndrome', OMIM:182290, DOID:0060768
+MONDO:0008434, 'Smith-Magenis syndrome', OMIM:182290, MONDO:equivalentTo
+MONDO:0008434, 'Smith-Magenis syndrome', OMIM:182290, Orphanet:819
+MONDO:0008434, 'Smith-Magenis syndrome', OMIM:182290, Orphanet:819/e
+MONDO:0009179, 'recessive dystrophic epidermolysis bullosa', OMIM:226600, DOID:0060642
+MONDO:0009179, 'recessive dystrophic epidermolysis bullosa', OMIM:226600, MONDO:equivalentTo
+MONDO:0009179, 'recessive dystrophic epidermolysis bullosa', OMIM:226600, Orphanet:79408
+MONDO:0009179, 'recessive dystrophic epidermolysis bullosa', OMIM:226600, Orphanet:79408/e
+MONDO:0005298, 'osteoporosis', OMIM:166710, DOID:11476
+MONDO:0005298, 'osteoporosis', OMIM:166710, EFO:0003882
+MONDO:0005298, 'osteoporosis', OMIM:166710, MONDO:equivalentTo
+MONDO:0009107, 'diastrophic dysplasia', OMIM:222600, DOID:14687
+MONDO:0009107, 'diastrophic dysplasia', OMIM:222600, MONDO:equivalentTo
+MONDO:0009107, 'diastrophic dysplasia', OMIM:222600, Orphanet:628
+MONDO:0009107, 'diastrophic dysplasia', OMIM:222600, Orphanet:628/e
+MONDO:0007470, 'calvarial doughnut lesions-bone fragility syndrome', OMIM:126550, MONDO:equivalentTo
+MONDO:0007470, 'calvarial doughnut lesions-bone fragility syndrome', OMIM:126550, Orphanet:85192
+MONDO:0007470, 'calvarial doughnut lesions-bone fragility syndrome', OMIM:126550, Orphanet:85192/e
+MONDO:0800204, 'calvarial doughnut lesions with bone fragility and spondylometaphyseal dysplasia', OMIM:126550, MONDO:includedEntryInOMIM
+MONDO:0007767, 'hyperparathyroidism 1', OMIM:145000, MONDO:equivalentTo
+MONDO:0009484, 'primary ciliary dyskinesia 1', OMIM:244400, DOID:0110594
+MONDO:0009484, 'primary ciliary dyskinesia 1', OMIM:244400, MONDO:equivalentTo
+MONDO:0011415, 'Leber congenital amaurosis 3', OMIM:604232, DOID:0110331
+MONDO:0011415, 'Leber congenital amaurosis 3', OMIM:604232, MONDO:equivalentTo
+MONDO:0800328, 'retinitis pigmentosa 94, variable age at onset', OMIM:604232, MONDO:includedEntryInOMIM
+MONDO:0012793, 'hypouricemia, renal, 2', OMIM:612076, MONDO:equivalentTo
+MONDO:0100048, 'graft-versus-host disease, susceptibility to', OMIM:614395, MONDO:equivalentTo
+MONDO:0044269, 'obsolete novelty seeking personality trait', OMIM:601696, MONDO:obsoleteEquivalent
+MONDO:0007690, 'aromatase excess syndrome', OMIM:139300, DOID:0090122
+MONDO:0007690, 'aromatase excess syndrome', OMIM:139300, MONDO:equivalentTo
+MONDO:0007690, 'aromatase excess syndrome', OMIM:139300, Orphanet:178345
+MONDO:0007690, 'aromatase excess syndrome', OMIM:139300, Orphanet:178345/e
+MONDO:0007925, 'myelodysplastic syndrome associated with isolated del(5q)', OMIM:153550, DOID:0090016
+MONDO:0007925, 'myelodysplastic syndrome associated with isolated del(5q)', OMIM:153550, MONDO:equivalentTo
+MONDO:0007925, 'myelodysplastic syndrome associated with isolated del(5q)', OMIM:153550, Orphanet:86841
+MONDO:0007925, 'myelodysplastic syndrome associated with isolated del(5q)', OMIM:153550, Orphanet:86841/e
+MONDO:0013175, 'retinitis pigmentosa 50', OMIM:613194, DOID:0110396
+MONDO:0013175, 'retinitis pigmentosa 50', OMIM:613194, MONDO:equivalentTo
+MONDO:0011973, 'zinc deficiency, transient neonatal', OMIM:608118, MONDO:equivalentTo
+MONDO:0060593, 'obsolete actn3 deficiency', OMIM:617749, MONDO:obsoleteEquivalent
+MONDO:0009797, 'orotic aciduria', OMIM:258900, DOID:0050833
+MONDO:0009797, 'orotic aciduria', OMIM:258900, MONDO:equivalentTo
+MONDO:0009797, 'orotic aciduria', OMIM:258900, Orphanet:30
+MONDO:0009797, 'orotic aciduria', OMIM:258900, Orphanet:30/e
+MONDO:0800308, 'orotic aciduria without megaloblastic anemia', OMIM:258900, MONDO:includedEntryInOMIM
+MONDO:0013847, 'chromosome 16p11.2 duplication syndrome', OMIM:614671, DOID:0060430
+MONDO:0013847, 'chromosome 16p11.2 duplication syndrome', OMIM:614671, MONDO:equivalentTo
+MONDO:0013847, 'chromosome 16p11.2 duplication syndrome', OMIM:614671, Orphanet:370079
+MONDO:0013847, 'chromosome 16p11.2 duplication syndrome', OMIM:614671, Orphanet:370079/e
+MONDO:0800287, 'autism, susceptibility to, 14b', OMIM:614671, MONDO:includedEntryInOMIM
+MONDO:0007129, 'tooth agenesis, selective, 1', OMIM:106600, MONDO:equivalentTo
+MONDO:0100535, 'hypodontia/oligodontia with orofacial cleft', OMIM:106600, MONDO:includedEntryInOMIM
+MONDO:0100536, 'tooth agenesis, selective, with orofacial cleft', OMIM:106600, MONDO:includedEntryInOMIM
+MONDO:0020715, 'multiple system atrophy 1, susceptibility to', OMIM:146500, MONDO:equivalentTo
+MONDO:0008564, 'DiGeorge syndrome', OMIM:188400, DOID:11198
+MONDO:0008564, 'DiGeorge syndrome', OMIM:188400, MONDO:equivalentTo
+MONDO:0700087, 'Usher syndrome type 1B', OMIM:276900, MONDO:equivalentTo
+MONDO:0011094, 'dilated cardiomyopathy 1C', OMIM:601493, DOID:0110423
+MONDO:0011094, 'dilated cardiomyopathy 1C', OMIM:601493, MONDO:equivalentTo
+MONDO:0008157, 'Buschke-Ollendorff syndrome', OMIM:166700, MONDO:equivalentTo
+MONDO:0008157, 'Buschke-Ollendorff syndrome', OMIM:166700, Orphanet:1306
+MONDO:0008157, 'Buschke-Ollendorff syndrome', OMIM:166700, Orphanet:1306/e
+MONDO:0021056, 'familial adenomatous polyposis 1', OMIM:175100, MONDO:equivalentTo
+MONDO:0011377, 'long QT syndrome 3', OMIM:603830, DOID:0110646
+MONDO:0011377, 'long QT syndrome 3', OMIM:603830, MONDO:equivalentTo
+MONDO:0007172, 'atrial septal defect 1', OMIM:108800, DOID:0110106
+MONDO:0007172, 'atrial septal defect 1', OMIM:108800, MONDO:equivalentTo
+MONDO:0013262, 'dilated cardiomyopathy 1S', OMIM:613426, DOID:0110454
+MONDO:0013262, 'dilated cardiomyopathy 1S', OMIM:613426, MONDO:equivalentTo
+MONDO:0800351, 'left ventricular noncompaction 5', OMIM:613426, MONDO:includedEntryInOMIM
+MONDO:0008608, 'Down syndrome', OMIM:190685, DOID:14250
+MONDO:0008608, 'Down syndrome', OMIM:190685, MONDO:equivalentTo
+MONDO:0008608, 'Down syndrome', OMIM:190685, Orphanet:870
+MONDO:0008608, 'Down syndrome', OMIM:190685, Orphanet:870/e
+MONDO:0007664, 'glaucoma 1, open angle, A', OMIM:137750, MONDO:equivalentTo
+MONDO:0800210, 'glaucoma 1, open angle, l', OMIM:137750, MONDO:includedEntryInOMIM
+MONDO:0010526, 'Fabry disease', OMIM:301500, DOID:14499
+MONDO:0010526, 'Fabry disease', OMIM:301500, MONDO:equivalentTo
+MONDO:0010526, 'Fabry disease', OMIM:301500, Orphanet:324
+MONDO:0010526, 'Fabry disease', OMIM:301500, Orphanet:324/e
+MONDO:0010880, 'telangiectasia, hereditary hemorrhagic, type 2', OMIM:600376, MONDO:equivalentTo
+MONDO:0009606, 'methemoglobinemia due to deficiency of methemoglobin reductase', OMIM:250800, MONDO:equivalentTo
+MONDO:0014251, 'melioidosis, susceptibility to', OMIM:615557, MONDO:equivalentTo
+MONDO:0010100, 'Tay-Sachs disease', OMIM:272800, DOID:3320
+MONDO:0010100, 'Tay-Sachs disease', OMIM:272800, MONDO:equivalentTo
+MONDO:0010100, 'Tay-Sachs disease', OMIM:272800, Orphanet:845
+MONDO:0010100, 'Tay-Sachs disease', OMIM:272800, Orphanet:845/e
+MONDO:0008685, 'Wolff-Parkinson-White syndrome', OMIM:194200, DOID:384
+MONDO:0008685, 'Wolff-Parkinson-White syndrome', OMIM:194200, MONDO:equivalentTo
+MONDO:0012531, 'xeroderma pigmentosum group B', OMIM:610651, DOID:0110850
+MONDO:0012531, 'xeroderma pigmentosum group B', OMIM:610651, MONDO:equivalentTo
+MONDO:0012817, 'Ewing sarcoma', OMIM:612219, DOID:3369
+MONDO:0012817, 'Ewing sarcoma', OMIM:612219, EFO:0000174
+MONDO:0012817, 'Ewing sarcoma', OMIM:612219, MONDO:equivalentTo
+MONDO:0012817, 'Ewing sarcoma', OMIM:612219, Orphanet:319
+MONDO:0012817, 'Ewing sarcoma', OMIM:612219, Orphanet:319/e
+MONDO:0013348, 'cone-rod dystrophy 15', OMIM:613660, DOID:0111021
+MONDO:0013348, 'cone-rod dystrophy 15', OMIM:613660, MONDO:equivalentTo
+MONDO:0800352, 'retinitis pigmentosa 65', OMIM:613660, MONDO:includedEntryInOMIM
+MONDO:0008585, 'HELLP syndrome', OMIM:189800, MONDO:includedEntryInOMIM
+MONDO:0100467, 'preeclampsia/eclampsia 1', OMIM:189800, MONDO:equivalentTo
+MONDO:0014163, 'left ventricular noncompaction 10', OMIM:615396, MONDO:equivalentTo
+MONDO:0800368, 'cardiomyopathy, dilated, 1MM', OMIM:615396, MONDO:includedEntryInOMIM
+MONDO:0014207, 'age related macular degeneration 14', OMIM:615489, DOID:0110026
+MONDO:0014207, 'age related macular degeneration 14', OMIM:615489, MONDO:equivalentTo
+MONDO:0012544, 'brachydactyly-syndactyly syndrome', OMIM:610713, DOID:0050689
+MONDO:0012544, 'brachydactyly-syndactyly syndrome', OMIM:610713, MONDO:equivalentTo
+MONDO:0012544, 'brachydactyly-syndactyly syndrome', OMIM:610713, Orphanet:93409
+MONDO:0012544, 'brachydactyly-syndactyly syndrome', OMIM:610713, Orphanet:93409/e
+MONDO:0800344, 'brachydactyly-syndactyly-oligodactyly syndrome', OMIM:610713, MONDO:includedEntryInOMIM
+MONDO:0008799, 'anophthalmia/microphthalmia-esophageal atresia syndrome', OMIM:206900, MONDO:equivalentTo
+MONDO:0008799, 'anophthalmia/microphthalmia-esophageal atresia syndrome', OMIM:206900, Orphanet:77298
+MONDO:0008799, 'anophthalmia/microphthalmia-esophageal atresia syndrome', OMIM:206900, Orphanet:77298/e
+MONDO:0013185, 'leprosy, susceptibility to, 5', OMIM:613223, MONDO:equivalentTo
+MONDO:0012413, 'syndromic microphthalmia type 5', OMIM:610125, MONDO:equivalentTo
+MONDO:0012413, 'syndromic microphthalmia type 5', OMIM:610125, Orphanet:178364
+MONDO:0012413, 'syndromic microphthalmia type 5', OMIM:610125, Orphanet:178364/e
+MONDO:0013468, 'retinitis pigmentosa 59', OMIM:613861, DOID:0110352
+MONDO:0013468, 'retinitis pigmentosa 59', OMIM:613861, MONDO:equivalentTo
+MONDO:0800353, 'congenital disorder of glycosylation, type Ibb', OMIM:613861, MONDO:includedEntryInOMIM
+MONDO:0014741, 'DeSanto-Shinawi syndrome due to WAC point mutation', OMIM:616708, MONDO:equivalentTo
+MONDO:0014741, 'DeSanto-Shinawi syndrome due to WAC point mutation', OMIM:616708, Orphanet:466950
+MONDO:0011996, 'chronic myelogenous leukemia, BCR-ABL1 positive', OMIM:608232, DOID:8552
+MONDO:0011996, 'chronic myelogenous leukemia, BCR-ABL1 positive', OMIM:608232, EFO:0000339
+MONDO:0011996, 'chronic myelogenous leukemia, BCR-ABL1 positive', OMIM:608232, MONDO:equivalentTo
+MONDO:0011996, 'chronic myelogenous leukemia, BCR-ABL1 positive', OMIM:608232, Orphanet:521
+MONDO:0011996, 'chronic myelogenous leukemia, BCR-ABL1 positive', OMIM:608232, Orphanet:521/e
+MONDO:0010906, 'orofacial cleft 11', OMIM:600625, MONDO:equivalentTo
+MONDO:0012869, 'intellectual disability, autosomal dominant 22', OMIM:612337, DOID:0070052
+MONDO:0012869, 'intellectual disability, autosomal dominant 22', OMIM:612337, MONDO:equivalentTo
+MONDO:0012627, 'epilepsy, idiopathic generalized, susceptibility to, 13', OMIM:611136, MONDO:equivalentTo
+MONDO:0009472, 'acetylation, slow', OMIM:243400, MONDO:equivalentTo
+MONDO:8000011, 'visceral neuropathy, familial, 1, autosomal recessive', OMIM:243180, MONDO:equivalentTo
+MONDO:0009279, 'triple-A syndrome', OMIM:231550, DOID:0050602
+MONDO:0009279, 'triple-A syndrome', OMIM:231550, MONDO:equivalentTo
+MONDO:0009279, 'triple-A syndrome', OMIM:231550, Orphanet:869
+MONDO:0009279, 'triple-A syndrome', OMIM:231550, Orphanet:869/e
+MONDO:0800195, 'achalasia-alacrima syndrome', OMIM:231550, MONDO:includedEntryInOMIM
+MONDO:0013402, 'retinitis pigmentosa 27', OMIM:613750, DOID:0110397
+MONDO:0013402, 'retinitis pigmentosa 27', OMIM:613750, MONDO:equivalentTo
+MONDO:0044219, 'obsolete blood group, duffy system', OMIM:110700, MONDO:obsoleteEquivalent
+MONDO:0008021, 'Cowden syndrome 1', OMIM:158350, MONDO:equivalentTo
+MONDO:0007540, 'multiple endocrine neoplasia type 1', OMIM:131100, DOID:10017
+MONDO:0007540, 'multiple endocrine neoplasia type 1', OMIM:131100, MONDO:equivalentTo
+MONDO:0007540, 'multiple endocrine neoplasia type 1', OMIM:131100, Orphanet:652
+MONDO:0007540, 'multiple endocrine neoplasia type 1', OMIM:131100, Orphanet:652/e
+MONDO:0018875, 'Li-Fraumeni syndrome', OMIM:151623, MONDO:equivalentTo
+MONDO:0800290, 'Li-fraumeni-like syndrome', OMIM:151623, MONDO:includedEntryInOMIM
+MONDO:0044271, 'obsolete bone mineral density quantitative trait locus 1', OMIM:601884, MONDO:obsoleteEquivalent
+MONDO:0100489, 'Graves disease, susceptibility to, 1', OMIM:275000, MONDO:equivalentTo
+MONDO:0033552, 'obsolete blood group, lewis system', OMIM:618983, MONDO:obsoleteEquivalent
+MONDO:0008136, 'isolated optic nerve hypoplasia', OMIM:165550, MONDO:equivalentTo
+MONDO:0008136, 'isolated optic nerve hypoplasia', OMIM:165550, Orphanet:137902
+MONDO:0008136, 'isolated optic nerve hypoplasia', OMIM:165550, Orphanet:137902/e
+MONDO:0008737, 'congenital afibrinogenemia', OMIM:202400, DOID:2236
+MONDO:0008737, 'congenital afibrinogenemia', OMIM:202400, MONDO:equivalentTo
+MONDO:0008737, 'congenital afibrinogenemia', OMIM:202400, Orphanet:98880
+MONDO:0008737, 'congenital afibrinogenemia', OMIM:202400, Orphanet:98880/e
+MONDO:0008062, 'narcolepsy 1', OMIM:161400, MONDO:equivalentTo
+MONDO:0009999, 'autosomal recessive Robinow syndrome', OMIM:268310, DOID:0060764
+MONDO:0009999, 'autosomal recessive Robinow syndrome', OMIM:268310, MONDO:equivalentTo
+MONDO:0009999, 'autosomal recessive Robinow syndrome', OMIM:268310, Orphanet:1507
+MONDO:0009999, 'autosomal recessive Robinow syndrome', OMIM:268310, Orphanet:1507/e
+MONDO:0000070, 'Mycobacterium tuberculosis, susceptibility', OMIM:607948, GARD:0002456
+MONDO:0000070, 'Mycobacterium tuberculosis, susceptibility', OMIM:607948, MONDO:equivalentTo
+MONDO:0100568, 'obsolete Mycobacterium tuberculosis, protection against', OMIM:607948, MONDO:includedEntryInOMIM
+MONDO:0012342, '7q11.23 microduplication syndrome', OMIM:609757, MONDO:equivalentTo
+MONDO:0012342, '7q11.23 microduplication syndrome', OMIM:609757, Orphanet:96121
+MONDO:0012342, '7q11.23 microduplication syndrome', OMIM:609757, Orphanet:96121/e
+MONDO:0016281, '46,XX ovotesticular disorder of sex development', OMIM:400045, MONDO:includedEntryInOMIM
+MONDO:0016281, '46,XX ovotesticular disorder of sex development', OMIM:400045, Orphanet:2138
+MONDO:0016281, '46,XX ovotesticular disorder of sex development', OMIM:400045, Orphanet:2138/ntbt
+MONDO:0100250, '46,XX sex reversal 1', OMIM:400045, MONDO:equivalentTo
+MONDO:0100250, '46,XX sex reversal 1', OMIM:400045, Orphanet:393
+MONDO:0100250, '46,XX sex reversal 1', OMIM:400045, Orphanet:393/e
+MONDO:0011258, 'branchiootic syndrome 1', OMIM:602588, MONDO:equivalentTo
+MONDO:0007052, 'growth hormone secreting pituitary adenoma 1', OMIM:102200, DOID:6255
+MONDO:0007052, 'growth hormone secreting pituitary adenoma 1', OMIM:102200, MONDO:equivalentTo
+MONDO:0012737, 'long QT syndrome 10', OMIM:611819, DOID:0110651
+MONDO:0012737, 'long QT syndrome 10', OMIM:611819, MONDO:equivalentTo
+MONDO:0800345, 'atrial fibrillation, familial, 17', OMIM:611819, MONDO:includedEntryInOMIM
+MONDO:0009863, 'BH4-deficient hyperphenylalaninemia A', OMIM:261640, DOID:0090106
+MONDO:0009863, 'BH4-deficient hyperphenylalaninemia A', OMIM:261640, MEDIC:C535325
+MONDO:0009863, 'BH4-deficient hyperphenylalaninemia A', OMIM:261640, MONDO:equivalentTo
+MONDO:0009863, 'BH4-deficient hyperphenylalaninemia A', OMIM:261640, Orphanet:13
+MONDO:0009863, 'BH4-deficient hyperphenylalaninemia A', OMIM:261640, Orphanet:13/e
+MONDO:0013015, 'Brugada syndrome 5', OMIM:612838, DOID:0110222
+MONDO:0013015, 'Brugada syndrome 5', OMIM:612838, MONDO:equivalentTo
+MONDO:0024546, 'hypertrophic osteoarthropathy, primary, autosomal recessive, 1', OMIM:259100, MONDO:equivalentTo
+MONDO:0011892, 'epilepsy, idiopathic generalized, susceptibility to, 9', OMIM:607682, MONDO:equivalentTo
+MONDO:0800271, 'epilepsy, juvenile myoclonic, susceptibility to, 6', OMIM:607682, MONDO:includedEntryInOMIM
+MONDO:0013951, 'peroxisome biogenesis disorder 12A (Zellweger)', OMIM:614886, MONDO:equivalentTo
+MONDO:0009267, 'Gaucher disease type III', OMIM:231000, DOID:0110959
+MONDO:0009267, 'Gaucher disease type III', OMIM:231000, MONDO:equivalentTo
+MONDO:0009267, 'Gaucher disease type III', OMIM:231000, Orphanet:77261
+MONDO:0009267, 'Gaucher disease type III', OMIM:231000, Orphanet:77261/e
+MONDO:0044250, 'obsolete tongue curling, folding, or rolling', OMIM:189300, MONDO:obsoleteEquivalent
+MONDO:0029143, 'intellectual developmental disorder with hypertelorism and distinctive facies', OMIM:618147, MONDO:equivalentTo
+MONDO:0042486, 'polyposis syndrome, hereditary mixed, 1', OMIM:601228, MONDO:equivalentTo
+MONDO:0800423, 'colorectal cancer, susceptibility to, 4', OMIM:601228, MONDO:includedEntryInOMIM
+MONDO:0800424, 'colorectal cancer, susceptibility to, on chromosome 15', OMIM:601228, MONDO:includedEntryInOMIM
+MONDO:0008318, 'Proteus syndrome', OMIM:176920, DOID:13482
+MONDO:0008318, 'Proteus syndrome', OMIM:176920, MONDO:equivalentTo
+MONDO:0008318, 'Proteus syndrome', OMIM:176920, Orphanet:744
+MONDO:0008318, 'Proteus syndrome', OMIM:176920, Orphanet:744/e
+MONDO:0009727, 'atelosteogenesis type II', OMIM:256050, MONDO:equivalentTo
+MONDO:0009727, 'atelosteogenesis type II', OMIM:256050, Orphanet:56304
+MONDO:0009727, 'atelosteogenesis type II', OMIM:256050, Orphanet:56304/e
+MONDO:0800307, 'de la Chapelle dysplasia', OMIM:256050, MONDO:includedEntryInOMIM
+MONDO:0013512, 'hemoglobin H disease', OMIM:613978, DOID:0110031
+MONDO:0013512, 'hemoglobin H disease', OMIM:613978, MONDO:equivalentTo
+MONDO:0013512, 'hemoglobin H disease', OMIM:613978, Orphanet:93616
+MONDO:0013512, 'hemoglobin H disease', OMIM:613978, Orphanet:93616/e
+MONDO:0010566, 'X-linked cone-rod dystrophy 1', OMIM:304020, DOID:0111008
+MONDO:0010566, 'X-linked cone-rod dystrophy 1', OMIM:304020, MONDO:equivalentTo
+MONDO:0800320, 'cone dystrophy 1, X-linked', OMIM:304020, MONDO:includedEntryInOMIM
+MONDO:0013367, 'long QT syndrome 2', OMIM:613688, DOID:0110645
+MONDO:0013367, 'long QT syndrome 2', OMIM:613688, MONDO:equivalentTo
+MONDO:0010173, 'Mayer-Rokitansky-Kuster-Hauser syndrome type 1', OMIM:277000, GARD:0007100
+MONDO:0010173, 'Mayer-Rokitansky-Kuster-Hauser syndrome type 1', OMIM:277000, MONDO:equivalentTo
+MONDO:0010173, 'Mayer-Rokitansky-Kuster-Hauser syndrome type 1', OMIM:277000, Orphanet:247775
+MONDO:0010173, 'Mayer-Rokitansky-Kuster-Hauser syndrome type 1', OMIM:277000, Orphanet:247775/e
+MONDO:0800408, 'urogenital adysplasia', OMIM:277000, MONDO:includedEntryInOMIM
+MONDO:0009009, 'hypoplasminogenemia', OMIM:217090, MONDO:equivalentTo
+MONDO:0009009, 'hypoplasminogenemia', OMIM:217090, Orphanet:722
+MONDO:0009009, 'hypoplasminogenemia', OMIM:217090, Orphanet:722/e
+MONDO:0100537, 'plasminogen deficiency, type II', OMIM:217090, MONDO:includedEntryInOMIM
+MONDO:0100538, 'dysplasminogenemia', OMIM:217090, MONDO:includedEntryInOMIM
+MONDO:0100560, 'ligneous conjunctivitis', OMIM:217090, MONDO:includedEntryInOMIM
+MONDO:0007608, 'desmoid tumor', OMIM:135290, MONDO:equivalentTo
+MONDO:0007608, 'desmoid tumor', OMIM:135290, Orphanet:873/btnt
+MONDO:0100168, 'desmoid tumor caused by somatic mutation', OMIM:135290, MONDO:includedEntryInOMIM
+MONDO:0008269, 'polydactyly of a biphalangeal thumb', OMIM:174400, MONDO:equivalentTo
+MONDO:0008269, 'polydactyly of a biphalangeal thumb', OMIM:174400, Orphanet:93339
+MONDO:0008269, 'polydactyly of a biphalangeal thumb', OMIM:174400, Orphanet:93339/e
+MONDO:0010108, 'testicular germ cell tumor', OMIM:273300, DOID:5557
+MONDO:0010108, 'testicular germ cell tumor', OMIM:273300, EFO:1000566
+MONDO:0010108, 'testicular germ cell tumor', OMIM:273300, MONDO:equivalentTo
+MONDO:0010108, 'testicular germ cell tumor', OMIM:273300, Orphanet:363504
+MONDO:0010108, 'testicular germ cell tumor', OMIM:273300, Orphanet:363504/e
+MONDO:0012700, 'renal tubular acidosis, distal, 4, with hemolytic anemia', OMIM:611590, MONDO:equivalentTo
+MONDO:0012700, 'renal tubular acidosis, distal, 4, with hemolytic anemia', OMIM:611590, Orphanet:93610
+MONDO:0012700, 'renal tubular acidosis, distal, 4, with hemolytic anemia', OMIM:611590, Orphanet:93610/e
+MONDO:0013442, 'nephronophthisis 12', OMIM:613820, DOID:0111119
+MONDO:0013442, 'nephronophthisis 12', OMIM:613820, MONDO:equivalentTo
+MONDO:0800382, 'Joubert syndrome 11', OMIM:613820, MONDO:includedEntryInOMIM
+MONDO:0009352, 'classic homocystinuria', OMIM:236200, GARD:0006667
+MONDO:0009352, 'classic homocystinuria', OMIM:236200, MONDO:equivalentTo
+MONDO:0009352, 'classic homocystinuria', OMIM:236200, Orphanet:394
+MONDO:0009352, 'classic homocystinuria', OMIM:236200, Orphanet:394/e
+MONDO:0011120, 'neural tube defects, folate-sensitive', OMIM:601634, MONDO:equivalentTo
+MONDO:0009196, 'ermine phenotype', OMIM:227010, MONDO:equivalentTo
+MONDO:0009196, 'ermine phenotype', OMIM:227010, Orphanet:999
+MONDO:0009196, 'ermine phenotype', OMIM:227010, Orphanet:999/e
+MONDO:0009196, 'ermine phenotype', OMIM:227010, UMLS:C0268501
+MONDO:0800300, 'black locks with albinism and deafness syndrome', OMIM:227010, MONDO:includedEntryInOMIM
+MONDO:0018690, 'Holmes-Adie syndrome', OMIM:103100, DOID:11549
+MONDO:0018690, 'Holmes-Adie syndrome', OMIM:103100, EFO:0004126
+MONDO:0018690, 'Holmes-Adie syndrome', OMIM:103100, MONDO:equivalentTo
+MONDO:0018690, 'Holmes-Adie syndrome', OMIM:103100, Orphanet:454718
+MONDO:0018690, 'Holmes-Adie syndrome', OMIM:103100, Orphanet:454718/ntbt
+MONDO:0010304, 'Graves disease, susceptibility to, X-linked 1', OMIM:300351, MONDO:equivalentTo
+MONDO:0800250, 'Graves disease, susceptibility to, X-linked 2', OMIM:300351, MONDO:includedEntryInOMIM
+MONDO:0007817, 'IgE responsiveness, atopic', OMIM:147050, MONDO:equivalentTo
+MONDO:0010341, 'autism, susceptibility to, X-linked 2', OMIM:300495, MONDO:equivalentTo
+MONDO:0010343, 'Asperger syndrome, X-linked, susceptibility to, 2', OMIM:300495, MONDO:includedEntryInOMIM
+MONDO:0100553, 'OPTN-related open angle glaucoma', OMIM:137760, MONDO:equivalentTo
+MONDO:0011292, 'dermatitis, atopic', OMIM:603165, MONDO:equivalentTo
+MONDO:0100181, 'dermatitis, atopic, 1', OMIM:603165, MONDO:includedEntryInOMIM
+MONDO:0008200, 'autosomal dominant Parkinson disease 1', OMIM:168601, DOID:0060367
+MONDO:0008200, 'autosomal dominant Parkinson disease 1', OMIM:168601, MONDO:equivalentTo
+MONDO:0009747, 'mitochondrial DNA depletion syndrome 6 (hepatocerebral type)', OMIM:256810, DOID:0080125
+MONDO:0009747, 'mitochondrial DNA depletion syndrome 6 (hepatocerebral type)', OMIM:256810, MONDO:equivalentTo
+MONDO:0009747, 'mitochondrial DNA depletion syndrome 6 (hepatocerebral type)', OMIM:256810, Orphanet:255229
+MONDO:0009747, 'mitochondrial DNA depletion syndrome 6 (hepatocerebral type)', OMIM:256810, Orphanet:255229/e
+MONDO:0011565, 'metabolic syndrome X', OMIM:605552, DOID:14221
+MONDO:0011565, 'metabolic syndrome X', OMIM:605552, MONDO:equivalentTo
+MONDO:0013916, 'nephronophthisis 14', OMIM:614844, DOID:0111122
+MONDO:0013916, 'nephronophthisis 14', OMIM:614844, MONDO:equivalentTo
+MONDO:0800363, 'Joubert syndrome 19', OMIM:614844, MONDO:includedEntryInOMIM
+MONDO:0007043, 'Pfeiffer syndrome', OMIM:101600, DOID:14705
+MONDO:0007043, 'Pfeiffer syndrome', OMIM:101600, MONDO:equivalentTo
+MONDO:0007043, 'Pfeiffer syndrome', OMIM:101600, Orphanet:710
+MONDO:0007043, 'Pfeiffer syndrome', OMIM:101600, Orphanet:710/e
+MONDO:0011724, 'encephalopathy due to GLUT1 deficiency', OMIM:606777, GARD:0009265
+MONDO:0011724, 'encephalopathy due to GLUT1 deficiency', OMIM:606777, MONDO:equivalentTo
+MONDO:0011724, 'encephalopathy due to GLUT1 deficiency', OMIM:606777, Orphanet:71277
+MONDO:0011724, 'encephalopathy due to GLUT1 deficiency', OMIM:606777, Orphanet:71277/e
+MONDO:0008303, 'familial male-limited precocious puberty', OMIM:176410, MONDO:equivalentTo
+MONDO:0008303, 'familial male-limited precocious puberty', OMIM:176410, Orphanet:3000
+MONDO:0008303, 'familial male-limited precocious puberty', OMIM:176410, Orphanet:3000/e
+MONDO:0010584, 'dyskeratosis congenita, X-linked', OMIM:305000, DOID:0070025
+MONDO:0010584, 'dyskeratosis congenita, X-linked', OMIM:305000, MONDO:equivalentTo
+MONDO:0011908, 'juvenile myelomonocytic leukemia', OMIM:607785, DOID:0050458
+MONDO:0011908, 'juvenile myelomonocytic leukemia', OMIM:607785, EFO:1000309
+MONDO:0011908, 'juvenile myelomonocytic leukemia', OMIM:607785, MONDO:equivalentTo
+MONDO:0011908, 'juvenile myelomonocytic leukemia', OMIM:607785, Orphanet:86834
+MONDO:0011908, 'juvenile myelomonocytic leukemia', OMIM:607785, Orphanet:86834/e
+MONDO:0020311, 'chronic myelomonocytic leukemia', OMIM:607785, MONDO:includedEntryInOMIM
+MONDO:0008047, 'episodic ataxia type 1', OMIM:160120, DOID:0050989
+MONDO:0008047, 'episodic ataxia type 1', OMIM:160120, MONDO:equivalentTo
+MONDO:0008047, 'episodic ataxia type 1', OMIM:160120, Orphanet:37612
+MONDO:0008047, 'episodic ataxia type 1', OMIM:160120, Orphanet:37612/e
+MONDO:0007487, 'dyslexia, susceptibility to, 1', OMIM:127700, MONDO:equivalentTo
+MONDO:0800429, 'dyslexia, susceptibility to, 4', OMIM:127700, MONDO:includedEntryInOMIM
+MONDO:0800430, 'dyslexia, susceptibility to, 7', OMIM:127700, MONDO:includedEntryInOMIM
+MONDO:8000018, 'benign paroxysmal positional vertigo', OMIM:193007, DOID:13941
+MONDO:8000018, 'benign paroxysmal positional vertigo', OMIM:193007, MONDO:equivalentTo
+MONDO:8000019, 'vertigo, benign recurrent, 1', OMIM:193007, DOID:13941
+MONDO:8000019, 'vertigo, benign recurrent, 1', OMIM:193007, MONDO:includedEntryInOMIM
+MONDO:0958181, 'mitochondrial trifunctional protein deficiency 1', OMIM:609015, MONDO:equivalentTo
+MONDO:0020747, 'sitosterolemia 1', OMIM:210250, MONDO:equivalentTo
+MONDO:0008055, 'myotonia congenita, autosomal dominant', OMIM:160800, MONDO:equivalentTo
+MONDO:0011001, 'Brugada syndrome 1', OMIM:601144, DOID:0110218
+MONDO:0011001, 'Brugada syndrome 1', OMIM:601144, MONDO:equivalentTo
+MONDO:0008662, 'autosomal dominant vitreoretinochoroidopathy', OMIM:193220, MONDO:equivalentTo
+MONDO:0008662, 'autosomal dominant vitreoretinochoroidopathy', OMIM:193220, Orphanet:3086
+MONDO:0008662, 'autosomal dominant vitreoretinochoroidopathy', OMIM:193220, Orphanet:3086/e
+MONDO:0800296, 'microcornea, rod-cone dystrophy, cataract, and posterior staphyloma 2', OMIM:193220, MONDO:includedEntryInOMIM
+MONDO:0011749, 'oculocutaneous albinism type 1B', OMIM:606952, DOID:0070095
+MONDO:0011749, 'oculocutaneous albinism type 1B', OMIM:606952, MONDO:equivalentTo
+MONDO:0011749, 'oculocutaneous albinism type 1B', OMIM:606952, Orphanet:79434
+MONDO:0011749, 'oculocutaneous albinism type 1B', OMIM:606952, Orphanet:79434/e
+MONDO:0009067, 'cystinuria', OMIM:220100, DOID:9266
+MONDO:0009067, 'cystinuria', OMIM:220100, GARD:0006237
+MONDO:0009067, 'cystinuria', OMIM:220100, MONDO:equivalentTo
+MONDO:0009067, 'cystinuria', OMIM:220100, Orphanet:214
+MONDO:0009067, 'cystinuria', OMIM:220100, Orphanet:214/e
+MONDO:0011450, 'breast-ovarian cancer, familial, susceptibility to, 1', OMIM:604370, MONDO:equivalentTo
+MONDO:0800418, 'breast cancer, familial, susceptibility to, 1', OMIM:604370, MONDO:includedEntryInOMIM
+MONDO:0800433, 'ovarian cancer, familial, susceptibility to, 1', OMIM:604370, MONDO:includedEntryInOMIM
+MONDO:0013261, 'dilated cardiomyopathy 1R', OMIM:613424, DOID:0110456
+MONDO:0013261, 'dilated cardiomyopathy 1R', OMIM:613424, MONDO:equivalentTo
+MONDO:0800350, 'left ventricular noncompaction 4', OMIM:613424, MONDO:includedEntryInOMIM
+MONDO:0008458, 'spinocerebellar ataxia type 2', OMIM:183090, DOID:0050955
+MONDO:0008458, 'spinocerebellar ataxia type 2', OMIM:183090, MONDO:equivalentTo
+MONDO:0008458, 'spinocerebellar ataxia type 2', OMIM:183090, Orphanet:98756
+MONDO:0008458, 'spinocerebellar ataxia type 2', OMIM:183090, Orphanet:98756/e
+MONDO:0800224, 'amyotrophic lateral sclerosis, susceptibility to, 13', OMIM:183090, MONDO:includedEntryInOMIM
+MONDO:0008953, 'peroxisome biogenesis disorder 1A (Zellweger)', OMIM:214100, MONDO:equivalentTo
+MONDO:0012990, 'Leber congenital amaurosis 13', OMIM:612712, DOID:0110330
+MONDO:0012990, 'Leber congenital amaurosis 13', OMIM:612712, MONDO:equivalentTo
+MONDO:0800348, 'retinitis pigmentosa 53', OMIM:612712, MONDO:includedEntryInOMIM
+MONDO:0011200, 'torsion dystonia 7', OMIM:602124, DOID:0090040
+MONDO:0011200, 'torsion dystonia 7', OMIM:602124, MONDO:equivalentTo
+MONDO:0014059, 'microphthalmia, isolated, with coloboma 9', OMIM:615145, MONDO:equivalentTo
+MONDO:0009427, 'obsolete infantile hypophosphatasia', OMIM:241500, DOID:0110914
+MONDO:0009427, 'obsolete infantile hypophosphatasia', OMIM:241500, MONDO:obsoleteEquivalent
+MONDO:0009427, 'obsolete infantile hypophosphatasia', OMIM:241500, Orphanet:247651
+MONDO:0009427, 'obsolete infantile hypophosphatasia', OMIM:241500, Orphanet:247651/e
+MONDO:0016605, 'perinatal lethal hypophosphatasia', OMIM:241500, MONDO:includedEntryInOMIM
+MONDO:0016605, 'perinatal lethal hypophosphatasia', OMIM:241500, Orphanet:247623
+MONDO:0016605, 'perinatal lethal hypophosphatasia', OMIM:241500, Orphanet:247623/ntbt
+MONDO:0013065, 'premature ovarian failure 7', OMIM:612964, MONDO:equivalentTo
+MONDO:0007631, 'chromosome 16p12.1 deletion syndrome, 520kb', OMIM:136570, DOID:0060399
+MONDO:0007631, 'chromosome 16p12.1 deletion syndrome, 520kb', OMIM:136570, MONDO:equivalentTo
+MONDO:0012933, 'breast-ovarian cancer, familial, susceptibility to, 2', OMIM:612555, MONDO:equivalentTo
+MONDO:0800419, 'breast cancer, familial, susceptibility to, 2', OMIM:612555, MONDO:includedEntryInOMIM
+MONDO:0800434, 'ovarian cancer, familial, susceptibility to, 2', OMIM:612555, MONDO:includedEntryInOMIM
+MONDO:0010958, 'cardiac arrhythmia, ankyrin-B-related', OMIM:600919, MONDO:equivalentTo
+MONDO:0800323, 'long QT syndrome 4', OMIM:600919, MONDO:includedEntryInOMIM
+MONDO:0024506, 'Adams-Oliver syndrome 1', OMIM:100300, MONDO:equivalentTo
+MONDO:0012908, 'complement component 6 deficiency', OMIM:612446, DOID:0060299
+MONDO:0012908, 'complement component 6 deficiency', OMIM:612446, MONDO:equivalentTo
+MONDO:0054780, 'elliptocytosis 3', OMIM:617948, MONDO:equivalentTo
+MONDO:0009550, 'renal hypomagnesemia 3', OMIM:248250, DOID:0060880
+MONDO:0009550, 'renal hypomagnesemia 3', OMIM:248250, MONDO:equivalentTo
+MONDO:0009550, 'renal hypomagnesemia 3', OMIM:248250, Orphanet:31043
+MONDO:0009550, 'renal hypomagnesemia 3', OMIM:248250, Orphanet:31043/e
+MONDO:0002009, 'major depressive disorder', OMIM:608516, EFO:0003761
+MONDO:0002009, 'major depressive disorder', OMIM:608516, MONDO:equivalentTo
+MONDO:0800340, 'seasonal affective disorder, susceptibility to', OMIM:608516, MONDO:includedEntryInOMIM
+MONDO:0010778, 'cyclic vomiting syndrome', OMIM:500007, MONDO:equivalentTo
+MONDO:0044220, 'obsolete blood group, 1 system', OMIM:110800, MONDO:obsoleteEquivalent
+MONDO:0010563, 'blue cone monochromacy', OMIM:303700, GARD:0000917
+MONDO:0010563, 'blue cone monochromacy', OMIM:303700, MONDO:equivalentTo
+MONDO:0010563, 'blue cone monochromacy', OMIM:303700, Orphanet:16
+MONDO:0010563, 'blue cone monochromacy', OMIM:303700, Orphanet:16/e
+MONDO:0800319, 'cone dystrophy 5, X-linked', OMIM:303700, MONDO:includedEntryInOMIM
+MONDO:0011846, 'bulimia nervosa, susceptibility to, 1', OMIM:607499, MONDO:equivalentTo
+MONDO:0008161, 'otodental syndrome', OMIM:166750, MONDO:equivalentTo
+MONDO:0008161, 'otodental syndrome', OMIM:166750, Orphanet:2791
+MONDO:0008161, 'otodental syndrome', OMIM:166750, Orphanet:2791/e
+MONDO:0032832, 'intellectual developmental disorder with nasal speech, dysmorphic facies, and variable skeletal anomalies', OMIM:618608, MONDO:equivalentTo
+MONDO:0011409, 'hepatic fibrosis, severe, susceptibility to, due to Schistosoma mansoni infection', OMIM:604201, MONDO:equivalentTo
+MONDO:0044792, 'large congenital melanocytic nevus', OMIM:137550, GARD:0002469
+MONDO:0044792, 'large congenital melanocytic nevus', OMIM:137550, MONDO:equivalentTo
+MONDO:0044792, 'large congenital melanocytic nevus', OMIM:137550, Orphanet:626
+MONDO:0011650, 'atrioventricular septal defect, susceptibility to, 2', OMIM:606217, MONDO:equivalentTo
+MONDO:0010507, 'Xq25 microduplication syndrome', OMIM:300979, MONDO:equivalentTo
+MONDO:0010507, 'Xq25 microduplication syndrome', OMIM:300979, Orphanet:521258
+MONDO:0015167, 'amniotic band syndrome', OMIM:217100, MONDO:equivalentTo
+MONDO:0015167, 'amniotic band syndrome', OMIM:217100, Orphanet:295000
+MONDO:0015167, 'amniotic band syndrome', OMIM:217100, Orphanet:295000/e
+MONDO:0008702, 'achondrogenesis type II', OMIM:200610, DOID:0080056
+MONDO:0008702, 'achondrogenesis type II', OMIM:200610, MONDO:equivalentTo
+MONDO:0008702, 'achondrogenesis type II', OMIM:200610, Orphanet:93296
+MONDO:0008702, 'achondrogenesis type II', OMIM:200610, Orphanet:93296/e
+MONDO:0011378, 'obsolete CFM1', OMIM:603855, MONDO:obsoleteEquivalent
+MONDO:0013564, 'anhaptoglobinemia', OMIM:614081, MONDO:equivalentTo
+MONDO:0007813, 'superficial epidermolytic ichthyosis', OMIM:146800, DOID:0060877
+MONDO:0007813, 'superficial epidermolytic ichthyosis', OMIM:146800, MONDO:equivalentTo
+MONDO:0007813, 'superficial epidermolytic ichthyosis', OMIM:146800, Orphanet:455
+MONDO:0007813, 'superficial epidermolytic ichthyosis', OMIM:146800, Orphanet:455/e
+MONDO:0016419, 'hereditary breast carcinoma', OMIM:114480, MONDO:equivalentTo
+MONDO:0016419, 'hereditary breast carcinoma', OMIM:114480, Orphanet:227535
+MONDO:0016419, 'hereditary breast carcinoma', OMIM:114480, Orphanet:227535/ntbt
+MONDO:0009335, 'hemolytic uremic syndrome, atypical, susceptibility to, 1', OMIM:235400, MONDO:equivalentTo
+MONDO:0005579, 'epilepsy, idiopathic generalized', OMIM:600669, DOID:1827
+MONDO:0005579, 'epilepsy, idiopathic generalized', OMIM:600669, MONDO:equivalentTo
+MONDO:0010918, 'epilepsy, idiopathic generalized, susceptibility to, 1', OMIM:600669, MONDO:includedEntryInOMIM
+MONDO:0008832, 'right atrial isomerism', OMIM:208530, DOID:0060856
+MONDO:0008832, 'right atrial isomerism', OMIM:208530, MONDO:equivalentTo
+MONDO:0008832, 'right atrial isomerism', OMIM:208530, Orphanet:97548
+MONDO:0008832, 'right atrial isomerism', OMIM:208530, Orphanet:97548/e
+MONDO:0011822, 'Bartter disease type 3', OMIM:607364, DOID:0110144
+MONDO:0011822, 'Bartter disease type 3', OMIM:607364, MONDO:equivalentTo
+MONDO:0011822, 'Bartter disease type 3', OMIM:607364, Orphanet:93605
+MONDO:0011822, 'Bartter disease type 3', OMIM:607364, Orphanet:93605/e
+MONDO:0010395, 'phosphoribosylpyrophosphate synthetase superactivity', OMIM:300661, MONDO:equivalentTo
+MONDO:0010395, 'phosphoribosylpyrophosphate synthetase superactivity', OMIM:300661, Orphanet:3222
+MONDO:0010395, 'phosphoribosylpyrophosphate synthetase superactivity', OMIM:300661, Orphanet:3222/e
+MONDO:0020616, 'obsolete blood group, mn', OMIM:111300, MONDO:obsoleteEquivalent
+MONDO:0009612, 'methylmalonic aciduria due to methylmalonyl-CoA mutase deficiency', OMIM:251000, DOID:0060740
+MONDO:0009612, 'methylmalonic aciduria due to methylmalonyl-CoA mutase deficiency', OMIM:251000, MONDO:equivalentTo
+MONDO:0009612, 'methylmalonic aciduria due to methylmalonyl-CoA mutase deficiency', OMIM:251000, Orphanet:27
+MONDO:0009612, 'methylmalonic aciduria due to methylmalonyl-CoA mutase deficiency', OMIM:251000, Orphanet:27/e
+MONDO:0013263, 'retinitis pigmentosa 54', OMIM:613428, DOID:0110364
+MONDO:0013263, 'retinitis pigmentosa 54', OMIM:613428, MONDO:equivalentTo
+MONDO:0011888, 'immunodeficiency 67', OMIM:607676, MONDO:equivalentTo
+MONDO:0011888, 'immunodeficiency 67', OMIM:607676, Orphanet:70592
+MONDO:0011888, 'immunodeficiency 67', OMIM:607676, Orphanet:70592/e
+MONDO:0012310, 'fibrosis of extraocular muscles, congenital, with synergistic divergence', OMIM:609612, MONDO:equivalentTo
+MONDO:0044233, 'obsolete hair whorl', OMIM:139400, MONDO:obsoleteEquivalent
+MONDO:0010704, 'otopalatodigital syndrome type 1', OMIM:311300, MONDO:equivalentTo
+MONDO:0010704, 'otopalatodigital syndrome type 1', OMIM:311300, Orphanet:90650
+MONDO:0010704, 'otopalatodigital syndrome type 1', OMIM:311300, Orphanet:90650/e
+MONDO:0010239, 'lissencephaly type 1 due to doublecortin gene mutation', OMIM:300067, GARD:0006914
+MONDO:0010239, 'lissencephaly type 1 due to doublecortin gene mutation', OMIM:300067, MONDO:equivalentTo
+MONDO:0010239, 'lissencephaly type 1 due to doublecortin gene mutation', OMIM:300067, Orphanet:2148
+MONDO:0010239, 'lissencephaly type 1 due to doublecortin gene mutation', OMIM:300067, Orphanet:2148/e
+MONDO:0020724, 'cerebral cavernous malformation 1', OMIM:116860, MONDO:equivalentTo
+MONDO:0020724, 'cerebral cavernous malformation 1', OMIM:116860, Orphanet:221061
+MONDO:0020724, 'cerebral cavernous malformation 1', OMIM:116860, Orphanet:221061/e
+MONDO:0011500, 'Becker nevus syndrome', OMIM:604919, MONDO:equivalentTo
+MONDO:0011500, 'Becker nevus syndrome', OMIM:604919, Orphanet:64755
+MONDO:0011500, 'Becker nevus syndrome', OMIM:604919, Orphanet:64755/e
+MONDO:0009892, 'Chuvash polycythemia', OMIM:263400, DOID:0060474
+MONDO:0009892, 'Chuvash polycythemia', OMIM:263400, MONDO:equivalentTo
+MONDO:0009892, 'Chuvash polycythemia', OMIM:263400, Orphanet:238557
+MONDO:0009892, 'Chuvash polycythemia', OMIM:263400, Orphanet:238557/e
+MONDO:0007340, 'cleidocranial dysplasia 1', OMIM:119600, DOID:13994
+MONDO:0007340, 'cleidocranial dysplasia 1', OMIM:119600, MONDO:equivalentTo
+MONDO:0007340, 'cleidocranial dysplasia 1', OMIM:119600, Orphanet:1452
+MONDO:0007340, 'cleidocranial dysplasia 1', OMIM:119600, Orphanet:1452/e
+MONDO:0100151, 'nephropathic cystinosis', OMIM:219800, MONDO:equivalentTo
+MONDO:0100151, 'nephropathic cystinosis', OMIM:219800, Orphanet:411629
+MONDO:0007576, 'esophageal cancer', OMIM:133239, DOID:5041
+MONDO:0007576, 'esophageal cancer', OMIM:133239, MONDO:equivalentTo
+MONDO:0010964, 'epiphyseal dysplasia, multiple, 3', OMIM:600969, MONDO:equivalentTo
+MONDO:0011733, 'parasomnia, sleep bruxism type', OMIM:606840, MONDO:equivalentTo
+MONDO:0013949, 'peroxisome biogenesis disorder 11A (Zellweger)', OMIM:614883, MONDO:equivalentTo
+MONDO:0007316, 'Chiari malformation type I', OMIM:118420, MONDO:equivalentTo
+MONDO:0007316, 'Chiari malformation type I', OMIM:118420, Orphanet:268882
+MONDO:0007316, 'Chiari malformation type I', OMIM:118420, Orphanet:268882/e
+MONDO:0013952, 'peroxisome biogenesis disorder 13A (Zellweger)', OMIM:614887, MONDO:equivalentTo
+MONDO:0800365, 'peroxisome biogenesis disorder, complementation group K', OMIM:614887, MONDO:includedEntryInOMIM
+MONDO:0010623, 'ichthyosis and male hypogonadism', OMIM:308200, MONDO:equivalentTo
+MONDO:0010401, 'X-linked myopathy with postural muscle atrophy', OMIM:300696, MONDO:equivalentTo
+MONDO:0010401, 'X-linked myopathy with postural muscle atrophy', OMIM:300696, Orphanet:178461
+MONDO:0010401, 'X-linked myopathy with postural muscle atrophy', OMIM:300696, Orphanet:178461/e
+MONDO:0800318, 'Emery-Dreifuss muscular dystrophy 6, X-linked', OMIM:300696, MONDO:includedEntryInOMIM
+MONDO:0009234, 'congenital high-molecular-weight kininogen deficiency', OMIM:228960, GARD:0002684
+MONDO:0009234, 'congenital high-molecular-weight kininogen deficiency', OMIM:228960, MONDO:equivalentTo
+MONDO:0009234, 'congenital high-molecular-weight kininogen deficiency', OMIM:228960, Orphanet:483
+MONDO:0009234, 'congenital high-molecular-weight kininogen deficiency', OMIM:228960, Orphanet:483/e
+MONDO:0018264, 'oculocutaneous albinism type 6', OMIM:113750, MONDO:equivalentTo
+MONDO:0018264, 'oculocutaneous albinism type 6', OMIM:113750, Orphanet:370097
+MONDO:0018264, 'oculocutaneous albinism type 6', OMIM:113750, Orphanet:370097/ntbt
+MONDO:0018881, 'myelodysplastic syndrome', OMIM:614286, DOID:0050908
+MONDO:0018881, 'myelodysplastic syndrome', OMIM:614286, EFO:0000198
+MONDO:0018881, 'myelodysplastic syndrome', OMIM:614286, MONDO:equivalentTo
+MONDO:0018881, 'myelodysplastic syndrome', OMIM:614286, Orphanet:52688
+MONDO:0018881, 'myelodysplastic syndrome', OMIM:614286, Orphanet:52688/e
+MONDO:0013927, 'peroxisome biogenesis disorder 3A (Zellweger)', OMIM:614859, MONDO:equivalentTo
+MONDO:0800364, 'peroxisome biogenesis disorder, complementation group 3', OMIM:614859, MONDO:includedEntryInOMIM
+MONDO:0005147, 'type 1 diabetes mellitus', OMIM:222100, DOID:9744
+MONDO:0005147, 'type 1 diabetes mellitus', OMIM:222100, EFO:0001359
+MONDO:0005147, 'type 1 diabetes mellitus', OMIM:222100, MONDO:equivalentTo
+MONDO:0010857, 'semantic dementia', OMIM:600274, MONDO:equivalentTo
+MONDO:0010857, 'semantic dementia', OMIM:600274, Orphanet:100069
+MONDO:0009260, 'GM1 gangliosidosis type 1', OMIM:230500, GARD:0006479
+MONDO:0009260, 'GM1 gangliosidosis type 1', OMIM:230500, MONDO:equivalentTo
+MONDO:0009260, 'GM1 gangliosidosis type 1', OMIM:230500, Orphanet:79255
+MONDO:0009260, 'GM1 gangliosidosis type 1', OMIM:230500, Orphanet:79255/e
+MONDO:0009151, 'cleft lip/palate-ectodermal dysplasia syndrome', OMIM:225060, DOID:0060773
+MONDO:0009151, 'cleft lip/palate-ectodermal dysplasia syndrome', OMIM:225060, GARD:0001045
+MONDO:0009151, 'cleft lip/palate-ectodermal dysplasia syndrome', OMIM:225060, MONDO:equivalentTo
+MONDO:0009151, 'cleft lip/palate-ectodermal dysplasia syndrome', OMIM:225060, Orphanet:3253
+MONDO:0009151, 'cleft lip/palate-ectodermal dysplasia syndrome', OMIM:225060, Orphanet:3253/e
+MONDO:0700251, 'orofacial cleft 7', OMIM:225060, MONDO:includedEntryInOMIM
+MONDO:0024559, 'aortic aneurysm, familial thoracic 1', OMIM:607086, MONDO:equivalentTo
+MONDO:0010232, 'intestinal pseudoobstruction, neuronal, chronic idiopathic, X-linked', OMIM:300048, MONDO:equivalentTo
+MONDO:0011558, 'Usher syndrome type 2C', OMIM:605472, DOID:0110839
+MONDO:0011558, 'Usher syndrome type 2C', OMIM:605472, MONDO:equivalentTo
+MONDO:0008491, 'stiff-person syndrome', OMIM:184850, DOID:13366
+MONDO:0008491, 'stiff-person syndrome', OMIM:184850, MONDO:equivalentTo
+MONDO:0008491, 'stiff-person syndrome', OMIM:184850, Orphanet:3198
+MONDO:0008491, 'stiff-person syndrome', OMIM:184850, Orphanet:3198/e
+MONDO:0018581, 'progressive encephalomyelitis with rigidity and myoclonus', OMIM:184850, MONDO:includedEntryInOMIM
+MONDO:0010940, 'inherited susceptibility to asthma', OMIM:600807, MONDO:equivalentTo
+MONDO:0011231, 'febrile seizures, familial, 2', OMIM:602477, MONDO:includedEntryInOMIM
+MONDO:0100519, 'epilepsy, idiopathic generalized, susceptibility to, 17', OMIM:602477, MONDO:equivalentTo
+MONDO:0008734, 'adrenocortical carcinoma, hereditary', OMIM:202300, MONDO:equivalentTo
+MONDO:0013700, 'pancreatic triacylglycerol lipase deficiency', OMIM:614338, MONDO:equivalentTo
+MONDO:0013700, 'pancreatic triacylglycerol lipase deficiency', OMIM:614338, Orphanet:309031
+MONDO:0013700, 'pancreatic triacylglycerol lipase deficiency', OMIM:614338, Orphanet:309031/e
+MONDO:0013819, 'intellectual disability, autosomal dominant 14', OMIM:614607, DOID:0070044
+MONDO:0013819, 'intellectual disability, autosomal dominant 14', OMIM:614607, MONDO:equivalentTo
+MONDO:0007354, 'coloboma of optic nerve', OMIM:120430, DOID:11975
+MONDO:0007354, 'coloboma of optic nerve', OMIM:120430, MONDO:equivalentTo
+MONDO:0013143, 'hereditary thrombophilia due to congenital histidine-rich (poly-L) glycoprotein deficiency', OMIM:613116, MONDO:equivalentTo
+MONDO:0013143, 'hereditary thrombophilia due to congenital histidine-rich (poly-L) glycoprotein deficiency', OMIM:613116, Orphanet:217467
+MONDO:0013143, 'hereditary thrombophilia due to congenital histidine-rich (poly-L) glycoprotein deficiency', OMIM:613116, Orphanet:217467/e
+MONDO:0007549, 'generalized dominant dystrophic epidermolysis bullosa', OMIM:131750, DOID:0080224
+MONDO:0007549, 'generalized dominant dystrophic epidermolysis bullosa', OMIM:131750, MONDO:equivalentTo
+MONDO:0007549, 'generalized dominant dystrophic epidermolysis bullosa', OMIM:131750, Orphanet:231568
+MONDO:0007549, 'generalized dominant dystrophic epidermolysis bullosa', OMIM:131750, Orphanet:231568/e
+MONDO:0800206, 'epidermolysis bullosa dystrophica with subcorneal cleavage', OMIM:131750, MONDO:includedEntryInOMIM
+MONDO:0013256, 'chromosome 15q24 deletion syndrome', OMIM:613406, DOID:0060395
+MONDO:0013256, 'chromosome 15q24 deletion syndrome', OMIM:613406, MONDO:equivalentTo
+MONDO:0013256, 'chromosome 15q24 deletion syndrome', OMIM:613406, Orphanet:94065
+MONDO:0013256, 'chromosome 15q24 deletion syndrome', OMIM:613406, Orphanet:94065/ntbt
+MONDO:0100199, 'diffuse gastric and lobular breast cancer syndrome with or without cleft lip and/or palate', OMIM:137215, MONDO:includedEntryInOMIM
+MONDO:0100488, 'CDH1-related diffuse gastric and lobular breast cancer syndrome', OMIM:137215, MONDO:equivalentTo
+MONDO:0012872, 'thrombophilia, familial, due to decreased release of tissue plasminogen activator', OMIM:612348, MONDO:equivalentTo
+MONDO:0013000, 'porphyria due to ALA dehydratase deficiency', OMIM:612740, MONDO:equivalentTo
+MONDO:0013000, 'porphyria due to ALA dehydratase deficiency', OMIM:612740, Orphanet:100924
+MONDO:0013000, 'porphyria due to ALA dehydratase deficiency', OMIM:612740, Orphanet:100924/e
+MONDO:0008234, 'multiple endocrine neoplasia type 2A', OMIM:171400, DOID:0050430
+MONDO:0008234, 'multiple endocrine neoplasia type 2A', OMIM:171400, MONDO:equivalentTo
+MONDO:0008234, 'multiple endocrine neoplasia type 2A', OMIM:171400, Orphanet:247698
+MONDO:0008234, 'multiple endocrine neoplasia type 2A', OMIM:171400, Orphanet:247698/e
+MONDO:0021571, 'multiple sclerosis, susceptibility to 1', OMIM:126200, MONDO:equivalentTo
+MONDO:0012170, 'autosomal recessive nonsyndromic hearing loss 36', OMIM:609006, DOID:0110494
+MONDO:0012170, 'autosomal recessive nonsyndromic hearing loss 36', OMIM:609006, MONDO:equivalentTo
+MONDO:0007127, 'diffuse idiopathic skeletal hyperostosis', OMIM:106400, DOID:6652
+MONDO:0007127, 'diffuse idiopathic skeletal hyperostosis', OMIM:106400, MONDO:includedEntryInOMIM
+MONDO:0007127, 'diffuse idiopathic skeletal hyperostosis', OMIM:106400, Orphanet:2206
+MONDO:0007127, 'diffuse idiopathic skeletal hyperostosis', OMIM:106400, Orphanet:2206/e
+MONDO:0020614, 'obsolete blood group--lutheran system', OMIM:111200, MONDO:obsoleteEquivalent
+MONDO:0007250, 'camptodactyly of fingers', OMIM:114200, GARD:0009448
+MONDO:0007250, 'camptodactyly of fingers', OMIM:114200, MONDO:equivalentTo
+MONDO:0007250, 'camptodactyly of fingers', OMIM:114200, Orphanet:295016
+MONDO:0007250, 'camptodactyly of fingers', OMIM:114200, Orphanet:295016/e
+MONDO:0007845, 'Kaposi sarcoma, susceptibility to', OMIM:148000, MONDO:equivalentTo
+MONDO:0800215, 'multicentric Castleman disease, susceptibility to', OMIM:148000, MONDO:includedEntryInOMIM
+MONDO:0013129, 'cone dystrophy 4', OMIM:613093, MONDO:equivalentTo
+MONDO:0800196, 'achromatopsia 5', OMIM:613093, MONDO:includedEntryInOMIM
+MONDO:0008728, 'classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency', OMIM:201910, GARD:0005757
+MONDO:0008728, 'classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency', OMIM:201910, MONDO:equivalentTo
+MONDO:0008728, 'classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency', OMIM:201910, Orphanet:90794
+MONDO:0008728, 'classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency', OMIM:201910, Orphanet:90794/e
+MONDO:0007615, 'laurin-Sandrow syndrome', OMIM:135750, MONDO:equivalentTo
+MONDO:0007615, 'laurin-Sandrow syndrome', OMIM:135750, Orphanet:2378
+MONDO:0007615, 'laurin-Sandrow syndrome', OMIM:135750, Orphanet:2378/e
+MONDO:0012208, 'congenital reticular ichthyosiform erythroderma', OMIM:609165, MONDO:equivalentTo
+MONDO:0012208, 'congenital reticular ichthyosiform erythroderma', OMIM:609165, Orphanet:281190
+MONDO:0012208, 'congenital reticular ichthyosiform erythroderma', OMIM:609165, Orphanet:281190/e
+MONDO:0010598, 'glycogen storage disease IXa1', OMIM:306000, DOID:0111042
+MONDO:0010598, 'glycogen storage disease IXa1', OMIM:306000, MONDO:equivalentTo
+MONDO:0010598, 'glycogen storage disease IXa1', OMIM:306000, https://www.ncbi.nlm.nih.gov/books/NBK55061/
+MONDO:0030087, 'diabetes mellitus, permanent neonatal 2', OMIM:618856, MONDO:equivalentTo
+MONDO:0800375, 'developmental delay, epilepsy, and neonatal diabetes 1', OMIM:618856, MONDO:includedEntryInOMIM
+MONDO:0009076, 'autosomal recessive nonsyndromic hearing loss 1A', OMIM:220290, DOID:0110475
+MONDO:0009076, 'autosomal recessive nonsyndromic hearing loss 1A', OMIM:220290, GARD:0001697
+MONDO:0009076, 'autosomal recessive nonsyndromic hearing loss 1A', OMIM:220290, MONDO:equivalentTo
+MONDO:0009532, 'Miller-Dieker lissencephaly syndrome', OMIM:247200, DOID:0060469
+MONDO:0009532, 'Miller-Dieker lissencephaly syndrome', OMIM:247200, MONDO:equivalentTo
+MONDO:0009532, 'Miller-Dieker lissencephaly syndrome', OMIM:247200, Orphanet:531
+MONDO:0009532, 'Miller-Dieker lissencephaly syndrome', OMIM:247200, Orphanet:531/e
+MONDO:0011420, 'short stature due to partial GHR deficiency', OMIM:604271, MEDIC:C565805
+MONDO:0011420, 'short stature due to partial GHR deficiency', OMIM:604271, MONDO:equivalentTo
+MONDO:0011420, 'short stature due to partial GHR deficiency', OMIM:604271, Orphanet:314802
+MONDO:0011420, 'short stature due to partial GHR deficiency', OMIM:604271, Orphanet:314802/e
+MONDO:0017380, 'juvenile polyposis syndrome', OMIM:174900, MONDO:equivalentTo
+MONDO:0017380, 'juvenile polyposis syndrome', OMIM:174900, Orphanet:2929
+MONDO:0017380, 'juvenile polyposis syndrome', OMIM:174900, Orphanet:2929/btnt
+MONDO:0014005, 'immunoglobulin-mediated membranoproliferative glomerulonephritis', OMIM:615008, MONDO:equivalentTo
+MONDO:0014005, 'immunoglobulin-mediated membranoproliferative glomerulonephritis', OMIM:615008, Orphanet:329903
+MONDO:0014005, 'immunoglobulin-mediated membranoproliferative glomerulonephritis', OMIM:615008, Orphanet:329903/e
+MONDO:0009861, 'phenylketonuria', OMIM:261600, DOID:9281
+MONDO:0009861, 'phenylketonuria', OMIM:261600, MONDO:equivalentTo
+MONDO:0009861, 'phenylketonuria', OMIM:261600, Orphanet:716
+MONDO:0009861, 'phenylketonuria', OMIM:261600, Orphanet:716/e
+MONDO:0014359, 'pigmented nodular adrenocortical disease, primary, 4', OMIM:615830, MONDO:equivalentTo
+MONDO:0800377, 'ACTH-independent adrenal Cushing syndrome, somatic', OMIM:615830, MONDO:includedEntryInOMIM
+MONDO:0011613, 'autosomal recessive early-onset Parkinson disease 6', OMIM:605909, DOID:0060369
+MONDO:0011613, 'autosomal recessive early-onset Parkinson disease 6', OMIM:605909, MONDO:equivalentTo
+MONDO:0044222, 'obsolete blood group, p1pk system', OMIM:111400, MONDO:obsoleteEquivalent
+MONDO:0008842, 'ataxia, early-onset, with oculomotor apraxia and hypoalbuminemia', OMIM:208920, DOID:0050754
+MONDO:0008842, 'ataxia, early-onset, with oculomotor apraxia and hypoalbuminemia', OMIM:208920, MONDO:equivalentTo
+MONDO:0008842, 'ataxia, early-onset, with oculomotor apraxia and hypoalbuminemia', OMIM:208920, Orphanet:1168
+MONDO:0008842, 'ataxia, early-onset, with oculomotor apraxia and hypoalbuminemia', OMIM:208920, Orphanet:1168/e
+MONDO:0007699, 'Hashimoto thyroiditis', OMIM:140300, EFO:0003779
+MONDO:0007699, 'Hashimoto thyroiditis', OMIM:140300, MONDO:equivalentTo
+MONDO:0012221, 'alpha-N-acetylgalactosaminidase deficiency type 1', OMIM:609241, GARD:0000116
+MONDO:0012221, 'alpha-N-acetylgalactosaminidase deficiency type 1', OMIM:609241, GARD:0003903
+MONDO:0012221, 'alpha-N-acetylgalactosaminidase deficiency type 1', OMIM:609241, MONDO:equivalentTo
+MONDO:0012221, 'alpha-N-acetylgalactosaminidase deficiency type 1', OMIM:609241, Orphanet:79279
+MONDO:0012221, 'alpha-N-acetylgalactosaminidase deficiency type 1', OMIM:609241, Orphanet:79279/e
+MONDO:0007436, 'dentin dysplasia type I', OMIM:125400, MONDO:equivalentTo
+MONDO:0013372, 'long QT syndrome 5', OMIM:613695, DOID:0110647
+MONDO:0013372, 'long QT syndrome 5', OMIM:613695, MONDO:equivalentTo
+MONDO:0009629, 'Desbuquois dysplasia 1', OMIM:251450, MONDO:equivalentTo
+MONDO:0100226, 'parasomnia, sleepwalking type', OMIM:613938, MONDO:equivalentTo
+MONDO:0800355, 'parasomnia, sleep terrors type', OMIM:613938, MONDO:includedEntryInOMIM
+MONDO:0012506, 'arrhythmogenic right ventricular dysplasia 11', OMIM:610476, DOID:0110082
+MONDO:0012506, 'arrhythmogenic right ventricular dysplasia 11', OMIM:610476, MONDO:equivalentTo
+MONDO:0012849, 'Joubert syndrome 9', OMIM:612285, DOID:0111004
+MONDO:0012849, 'Joubert syndrome 9', OMIM:612285, MONDO:equivalentTo
+MONDO:0012408, 'microphthalmia, isolated, with coloboma 3', OMIM:610092, MONDO:equivalentTo
+MONDO:0007502, 'ear pits, posterior helical', OMIM:128710, MONDO:equivalentTo
+MONDO:0007763, 'nonpapillary renal cell carcinoma', OMIM:144700, DOID:0050387
+MONDO:0007763, 'nonpapillary renal cell carcinoma', OMIM:144700, MONDO:equivalentTo
+MONDO:0008730, 'congenital adrenal hyperplasia due to 17-alpha-hydroxylase deficiency', OMIM:202110, MONDO:equivalentTo
+MONDO:0008730, 'congenital adrenal hyperplasia due to 17-alpha-hydroxylase deficiency', OMIM:202110, Orphanet:90793
+MONDO:0008730, 'congenital adrenal hyperplasia due to 17-alpha-hydroxylase deficiency', OMIM:202110, Orphanet:90793/e
+MONDO:0800378, '17,20-lyase deficiency, isolated', OMIM:202110, MONDO:includedEntryInOMIM
+MONDO:0800379, '17-alpha-hydroxylase/17,20-lyase deficiency, combined complete', OMIM:202110, MONDO:includedEntryInOMIM
+MONDO:0800380, '17-alpha-hydroxylase/17,20-lyase deficiency, combined partial', OMIM:202110, MONDO:includedEntryInOMIM
+MONDO:0009288, 'glycogen storage disease Ib', OMIM:232240, MONDO:equivalentTo
+MONDO:0009288, 'glycogen storage disease Ib', OMIM:232240, MONDO:preferredExternal
+MONDO:0009288, 'glycogen storage disease Ib', OMIM:232240, Orphanet:79259
+MONDO:0009288, 'glycogen storage disease Ib', OMIM:232240, Orphanet:79259/btnt
+MONDO:0800302, 'glycogen storage disease Id', OMIM:232240, MONDO:includedEntryInOMIM
+MONDO:0014100, 'dilated cardiomyopathy 1KK', OMIM:615248, DOID:0110445
+MONDO:0014100, 'dilated cardiomyopathy 1KK', OMIM:615248, MONDO:equivalentTo
+MONDO:0958185, 'mitochondrial trifunctional protein deficiency 2', OMIM:620300, MONDO:equivalentTo
+MONDO:0008195, 'paramyotonia congenita of Von Eulenburg', OMIM:168300, MONDO:equivalentTo
+MONDO:0008195, 'paramyotonia congenita of Von Eulenburg', OMIM:168300, Orphanet:684
+MONDO:0008195, 'paramyotonia congenita of Von Eulenburg', OMIM:168300, Orphanet:684/e
+MONDO:0009384, 'Leydig cell hypoplasia, type 1', OMIM:238320, MONDO:equivalentTo
+MONDO:0009488, 'keratoconus posticus circumscriptus', OMIM:244600, MONDO:equivalentTo
+MONDO:0007974, 'intellectual disability, autosomal dominant 1', OMIM:156200, DOID:0070031
+MONDO:0007974, 'intellectual disability, autosomal dominant 1', OMIM:156200, MONDO:equivalentTo
+MONDO:0011350, 'autosomal dominant nonsyndromic hearing loss 17', OMIM:603622, DOID:0110548
+MONDO:0011350, 'autosomal dominant nonsyndromic hearing loss 17', OMIM:603622, MONDO:equivalentTo
+MONDO:0700039, 'bladder exstrophy-epispadias-cloacal extrophy complex', OMIM:600057, MONDO:equivalentTo
+MONDO:0007791, 'familial hypocalciuric hypercalcemia 1', OMIM:145980, DOID:0060700
+MONDO:0007791, 'familial hypocalciuric hypercalcemia 1', OMIM:145980, MONDO:equivalentTo
+MONDO:0007791, 'familial hypocalciuric hypercalcemia 1', OMIM:145980, Orphanet:93372
+MONDO:0007791, 'familial hypocalciuric hypercalcemia 1', OMIM:145980, Orphanet:93372/e
+MONDO:0010580, 'immune dysregulation-polyendocrinopathy-enteropathy-X-linked syndrome', OMIM:304790, DOID:0090110
+MONDO:0010580, 'immune dysregulation-polyendocrinopathy-enteropathy-X-linked syndrome', OMIM:304790, MONDO:equivalentTo
+MONDO:0010580, 'immune dysregulation-polyendocrinopathy-enteropathy-X-linked syndrome', OMIM:304790, Orphanet:37042
+MONDO:0010580, 'immune dysregulation-polyendocrinopathy-enteropathy-X-linked syndrome', OMIM:304790, Orphanet:37042/e
+MONDO:0019182, 'inherited obesity', OMIM:601665, MONDO:equivalentTo
+MONDO:0012927, 'chromosome 1q41-q42 deletion syndrome', OMIM:612530, DOID:0060412
+MONDO:0012927, 'chromosome 1q41-q42 deletion syndrome', OMIM:612530, MONDO:equivalentTo
+MONDO:0012927, 'chromosome 1q41-q42 deletion syndrome', OMIM:612530, Orphanet:250999
+MONDO:0012927, 'chromosome 1q41-q42 deletion syndrome', OMIM:612530, Orphanet:250999/e
+MONDO:0014152, 'left ventricular noncompaction 8', OMIM:615373, MONDO:equivalentTo
+MONDO:0800367, 'cardiomyopathy, dilated, 1LL', OMIM:615373, MONDO:includedEntryInOMIM
+MONDO:0007488, 'Lewy body dementia', OMIM:127750, DOID:12217
+MONDO:0007488, 'Lewy body dementia', OMIM:127750, MONDO:equivalentTo
+MONDO:0009744, 'neuronal ceroid lipofuscinosis 1', OMIM:256730, DOID:0110721
+MONDO:0009744, 'neuronal ceroid lipofuscinosis 1', OMIM:256730, MONDO:equivalentTo
+MONDO:0009744, 'neuronal ceroid lipofuscinosis 1', OMIM:256730, MONDO:preferredExternal
+MONDO:0009744, 'neuronal ceroid lipofuscinosis 1', OMIM:256730, Orphanet:228329
+MONDO:0009744, 'neuronal ceroid lipofuscinosis 1', OMIM:256730, Orphanet:228329/e
+MONDO:0033946, 'hereditary angioedema with C1Inh deficiency', OMIM:106100, MONDO:equivalentTo
+MONDO:0009387, 'familial lipoprotein lipase deficiency', OMIM:238600, DOID:14118
+MONDO:0009387, 'familial lipoprotein lipase deficiency', OMIM:238600, MONDO:equivalentTo
+MONDO:0009387, 'familial lipoprotein lipase deficiency', OMIM:238600, Orphanet:309015
+MONDO:0009387, 'familial lipoprotein lipase deficiency', OMIM:238600, Orphanet:309015/e
+MONDO:0011198, 'spondyloepimetaphyseal dysplasia, Missouri type', OMIM:602111, DOID:0080030
+MONDO:0011198, 'spondyloepimetaphyseal dysplasia, Missouri type', OMIM:602111, MONDO:equivalentTo
+MONDO:0011198, 'spondyloepimetaphyseal dysplasia, Missouri type', OMIM:602111, Orphanet:93356
+MONDO:0011198, 'spondyloepimetaphyseal dysplasia, Missouri type', OMIM:602111, Orphanet:93356/e
+MONDO:0009411, 'autoimmune polyendocrine syndrome type 1', OMIM:240300, DOID:0050167
+MONDO:0009411, 'autoimmune polyendocrine syndrome type 1', OMIM:240300, MONDO:equivalentTo
+MONDO:0009411, 'autoimmune polyendocrine syndrome type 1', OMIM:240300, Orphanet:3453
+MONDO:0009411, 'autoimmune polyendocrine syndrome type 1', OMIM:240300, Orphanet:3453/e
+MONDO:0011727, 'anorexia nervosa, susceptibility to, 1', OMIM:606788, MONDO:equivalentTo
+MONDO:0007103, 'amyotrophic lateral sclerosis type 1', OMIM:105400, DOID:0060193
+MONDO:0007103, 'amyotrophic lateral sclerosis type 1', OMIM:105400, MEDIC:C531617
+MONDO:0007103, 'amyotrophic lateral sclerosis type 1', OMIM:105400, MONDO:equivalentTo
+MONDO:0013299, 'chromosome 6q11-q14 deletion syndrome', OMIM:613544, DOID:0060423
+MONDO:0013299, 'chromosome 6q11-q14 deletion syndrome', OMIM:613544, MONDO:equivalentTo
+MONDO:0700041, 'neuroblastoma, susceptibility to, 2', OMIM:613013, MONDO:equivalentTo
+MONDO:0007113, 'Angelman syndrome', OMIM:105830, DOID:1932
+MONDO:0007113, 'Angelman syndrome', OMIM:105830, MONDO:equivalentTo
+MONDO:0007113, 'Angelman syndrome', OMIM:105830, Orphanet:72
+MONDO:0007113, 'Angelman syndrome', OMIM:105830, Orphanet:72/e
+MONDO:0800199, 'obsolete Angelman syndrome chromosome region', OMIM:105830, MONDO:includedEntryInOMIM
+MONDO:0009615, 'methylmalonic acidemia due to methylmalonyl-CoA epimerase deficiency', OMIM:251120, MONDO:equivalentTo
+MONDO:0009615, 'methylmalonic acidemia due to methylmalonyl-CoA epimerase deficiency', OMIM:251120, Orphanet:308425
+MONDO:0009615, 'methylmalonic acidemia due to methylmalonyl-CoA epimerase deficiency', OMIM:251120, Orphanet:308425/e
+MONDO:0800026, 'central hypoventilation syndrome, congenital, 1, with or without Hirschsprung disease', OMIM:209880, DOID:0060731
+MONDO:0800026, 'central hypoventilation syndrome, congenital, 1, with or without Hirschsprung disease', OMIM:209880, MONDO:equivalentTo
+MONDO:0800026, 'central hypoventilation syndrome, congenital, 1, with or without Hirschsprung disease', OMIM:209880, Orphanet:661
+MONDO:0800026, 'central hypoventilation syndrome, congenital, 1, with or without Hirschsprung disease', OMIM:209880, Orphanet:661/e
+MONDO:0008310, 'Hutchinson-Gilford progeria syndrome', OMIM:176670, DOID:3911
+MONDO:0008310, 'Hutchinson-Gilford progeria syndrome', OMIM:176670, MONDO:equivalentTo
+MONDO:0008310, 'Hutchinson-Gilford progeria syndrome', OMIM:176670, Orphanet:740
+MONDO:0008310, 'Hutchinson-Gilford progeria syndrome', OMIM:176670, Orphanet:740/e
+MONDO:0007768, 'hyperparathyroidism 2 with jaw tumors', OMIM:145001, MONDO:equivalentTo
+MONDO:0007768, 'hyperparathyroidism 2 with jaw tumors', OMIM:145001, Orphanet:99880
+MONDO:0007768, 'hyperparathyroidism 2 with jaw tumors', OMIM:145001, Orphanet:99880/e
+MONDO:0008080, 'neurofibromatosis, type III, mixed central and peripheral', OMIM:162260, MONDO:equivalentTo
+MONDO:0018874, 'acute myeloid leukemia', OMIM:601626, DOID:9119
+MONDO:0018874, 'acute myeloid leukemia', OMIM:601626, EFO:0000222
+MONDO:0018874, 'acute myeloid leukemia', OMIM:601626, MONDO:equivalentTo
+MONDO:0018874, 'acute myeloid leukemia', OMIM:601626, Orphanet:519
+MONDO:0018874, 'acute myeloid leukemia', OMIM:601626, Orphanet:519/e
+MONDO:0100173, 'leukemia, acute myeloid, susceptibility to', OMIM:601626, MONDO:includedEntryInOMIM
+MONDO:0008559, 'thrombophilia due to thrombin defect', OMIM:188050, MONDO:equivalentTo
+MONDO:0014452, 'familial dysfibrinogenemia', OMIM:616004, GARD:0002004
+MONDO:0014452, 'familial dysfibrinogenemia', OMIM:616004, MONDO:equivalentTo
+MONDO:0014452, 'familial dysfibrinogenemia', OMIM:616004, Orphanet:98881
+MONDO:0014452, 'familial dysfibrinogenemia', OMIM:616004, Orphanet:98881/e
+MONDO:0009591, 'metachromatic leukodystrophy, juvenile form', OMIM:250100, GARD:0003230
+MONDO:0009591, 'metachromatic leukodystrophy, juvenile form', OMIM:250100, MONDO:equivalentTo
+MONDO:0010172, 'VACTERL with hydrocephalus', OMIM:276950, MONDO:equivalentTo
+MONDO:0010172, 'VACTERL with hydrocephalus', OMIM:276950, Orphanet:3412
+MONDO:0010172, 'VACTERL with hydrocephalus', OMIM:276950, Orphanet:3412/e
+MONDO:0020730, 'carpal tunnel syndrome 1', OMIM:115430, DOID:12169
+MONDO:0020730, 'carpal tunnel syndrome 1', OMIM:115430, EFO:0004143
+MONDO:0020730, 'carpal tunnel syndrome 1', OMIM:115430, MONDO:equivalentTo
+MONDO:0014678, 'intellectual disability, autosomal dominant 39', OMIM:616521, DOID:0070069
+MONDO:0014678, 'intellectual disability, autosomal dominant 39', OMIM:616521, MONDO:equivalentTo
+MONDO:0012595, 'leprosy, susceptibility to, 4', OMIM:610988, MONDO:equivalentTo
+MONDO:0010557, 'choroideremia', OMIM:303100, DOID:9821
+MONDO:0010557, 'choroideremia', OMIM:303100, MONDO:equivalentTo
+MONDO:0010557, 'choroideremia', OMIM:303100, Orphanet:180
+MONDO:0010557, 'choroideremia', OMIM:303100, Orphanet:180/e
+MONDO:0011452, 'hypotrichosis 7', OMIM:604379, DOID:0110704
+MONDO:0011452, 'hypotrichosis 7', OMIM:604379, MONDO:equivalentTo
+MONDO:0007082, 'alopecia areata 1', OMIM:104000, MONDO:equivalentTo
+MONDO:0800198, 'alopecia universalis', OMIM:104000, MONDO:includedEntryInOMIM
+MONDO:0011974, 'retinitis pigmentosa 7', OMIM:608133, DOID:0110383
+MONDO:0011974, 'retinitis pigmentosa 7', OMIM:608133, MONDO:equivalentTo
+MONDO:0007915, 'systemic lupus erythematosus', OMIM:152700, DOID:9074
+MONDO:0007915, 'systemic lupus erythematosus', OMIM:152700, EFO:0002690
+MONDO:0007915, 'systemic lupus erythematosus', OMIM:152700, MONDO:equivalentTo
+MONDO:0007915, 'systemic lupus erythematosus', OMIM:152700, https://orcid.org/0000-0002-6601-2165
+MONDO:0009738, 'sialidosis type 2', OMIM:256550, DOID:3343
+MONDO:0009738, 'sialidosis type 2', OMIM:256550, MONDO:equivalentTo
+MONDO:0009738, 'sialidosis type 2', OMIM:256550, MONDO:preferredExternal
+MONDO:0009738, 'sialidosis type 2', OMIM:256550, Orphanet:87876
+MONDO:0009738, 'sialidosis type 2', OMIM:256550, Orphanet:87876/e
+MONDO:0019346, 'sialidosis type 1', OMIM:256550, MONDO:includedEntryInOMIM
+MONDO:0019346, 'sialidosis type 1', OMIM:256550, Orphanet:812
+MONDO:0019346, 'sialidosis type 1', OMIM:256550, Orphanet:812/ntbt
+MONDO:0007154, 'arteriovenous malformations of the brain', OMIM:108010, DOID:0060688
+MONDO:0007154, 'arteriovenous malformations of the brain', OMIM:108010, MONDO:equivalentTo
+MONDO:0007154, 'arteriovenous malformations of the brain', OMIM:108010, Orphanet:46724
+MONDO:0007154, 'arteriovenous malformations of the brain', OMIM:108010, Orphanet:46724/e
+MONDO:0024498, 'glioma susceptibility 1', OMIM:137800, MONDO:equivalentTo
+MONDO:0008270, 'polydactyly of a triphalangeal thumb', OMIM:174500, MONDO:equivalentTo
+MONDO:0008270, 'polydactyly of a triphalangeal thumb', OMIM:174500, Orphanet:93336
+MONDO:0008270, 'polydactyly of a triphalangeal thumb', OMIM:174500, Orphanet:93336/ntbt
+MONDO:0021083, 'congenital fibrosis of extraocular muscles type 1', OMIM:135700, MONDO:equivalentTo
+MONDO:0800209, 'fibrosis of extraocular muscles, congenital, 3b', OMIM:135700, MONDO:includedEntryInOMIM
+MONDO:0007661, 'Tourette syndrome', OMIM:137580, DOID:11119
+MONDO:0007661, 'Tourette syndrome', OMIM:137580, EFO:0004895
+MONDO:0007661, 'Tourette syndrome', OMIM:137580, MONDO:equivalentTo
+MONDO:0010690, 'congenital stationary night blindness 1A', OMIM:310500, DOID:0110870
+MONDO:0010690, 'congenital stationary night blindness 1A', OMIM:310500, MONDO:equivalentTo
+MONDO:0010052, 'spermatogenic failure 4', OMIM:270960, MONDO:equivalentTo
+MONDO:0800310, 'pregnancy loss, recurrent, 4', OMIM:270960, MONDO:includedEntryInOMIM
+MONDO:0011146, 'tetrasomy 12p', OMIM:601803, MONDO:equivalentTo
+MONDO:0011146, 'tetrasomy 12p', OMIM:601803, Orphanet:884
+MONDO:0011146, 'tetrasomy 12p', OMIM:601803, Orphanet:884/e
+MONDO:0007152, 'arrhythmogenic right ventricular dysplasia 1', OMIM:107970, DOID:0110070
+MONDO:0007152, 'arrhythmogenic right ventricular dysplasia 1', OMIM:107970, MONDO:equivalentTo
+MONDO:0012474, 'autosomal dominant nocturnal frontal lobe epilepsy 4', OMIM:610353, DOID:0060685
+MONDO:0012474, 'autosomal dominant nocturnal frontal lobe epilepsy 4', OMIM:610353, MONDO:equivalentTo
+MONDO:0009839, 'progressive supranuclear palsy-parkinsonism syndrome', OMIM:260540, MONDO:equivalentTo
+MONDO:0009839, 'progressive supranuclear palsy-parkinsonism syndrome', OMIM:260540, Orphanet:240085
+MONDO:0009839, 'progressive supranuclear palsy-parkinsonism syndrome', OMIM:260540, Orphanet:240085/e
+MONDO:0007365, 'seizures, benign familial neonatal, 1', OMIM:121200, MONDO:equivalentTo
+MONDO:0011935, 'retinitis pigmentosa 30', OMIM:607921, DOID:0110406
+MONDO:0011935, 'retinitis pigmentosa 30', OMIM:607921, MONDO:equivalentTo
+MONDO:0009292, 'glycogen storage disease due to glycogen branching enzyme deficiency', OMIM:232500, DOID:2750
+MONDO:0009292, 'glycogen storage disease due to glycogen branching enzyme deficiency', OMIM:232500, MONDO:equivalentTo
+MONDO:0009292, 'glycogen storage disease due to glycogen branching enzyme deficiency', OMIM:232500, Orphanet:367
+MONDO:0009292, 'glycogen storage disease due to glycogen branching enzyme deficiency', OMIM:232500, Orphanet:367/btnt
+MONDO:0009557, 'mandibuloacral dysplasia with type A lipodystrophy', OMIM:248370, MONDO:equivalentTo
+MONDO:0009557, 'mandibuloacral dysplasia with type A lipodystrophy', OMIM:248370, Orphanet:90153
+MONDO:0009557, 'mandibuloacral dysplasia with type A lipodystrophy', OMIM:248370, Orphanet:90153/e
+MONDO:0013723, 'bacteremia, susceptibility to, 1', OMIM:614382, MONDO:equivalentTo
+MONDO:0008305, 'Currarino triad', OMIM:176450, MONDO:equivalentTo
+MONDO:0008305, 'Currarino triad', OMIM:176450, Orphanet:1552
+MONDO:0008305, 'Currarino triad', OMIM:176450, Orphanet:1552/e
+MONDO:0014544, 'osteogenesis imperfecta type 16', OMIM:616229, DOID:0110345
+MONDO:0014544, 'osteogenesis imperfecta type 16', OMIM:616229, MONDO:equivalentTo
+MONDO:0013231, 'Leber congenital amaurosis 14', OMIM:613341, DOID:0110188
+MONDO:0013231, 'Leber congenital amaurosis 14', OMIM:613341, MONDO:equivalentTo
+MONDO:0013930, 'peroxisome biogenesis disorder 4A (Zellweger)', OMIM:614862, MONDO:equivalentTo
+MONDO:0010607, 'heterotaxy, visceral, 1, X-linked', OMIM:306955, MONDO:equivalentTo
+MONDO:0800321, 'congenital heart defects, multiple types, 1, X-linked', OMIM:306955, MONDO:includedEntryInOMIM
+MONDO:0008316, 'thrombophilia due to protein C deficiency, autosomal dominant', OMIM:176860, MONDO:equivalentTo
+MONDO:0013609, 'Meckel syndrome, type 10', OMIM:614175, MONDO:equivalentTo
+MONDO:0800383, 'Joubert syndrome 34', OMIM:614175, MONDO:includedEntryInOMIM
+MONDO:0011556, 'basal cell carcinoma, susceptibility to, 1', OMIM:605462, MONDO:equivalentTo
+MONDO:0011095, 'dilated cardiomyopathy 1D', OMIM:601494, DOID:0110426
+MONDO:0011095, 'dilated cardiomyopathy 1D', OMIM:601494, MONDO:equivalentTo
+MONDO:0011835, 'sensory ataxic neuropathy, dysarthria, and ophthalmoparesis', OMIM:607459, MONDO:equivalentTo
+MONDO:0011835, 'sensory ataxic neuropathy, dysarthria, and ophthalmoparesis', OMIM:607459, MONDO:preferredExternal
+MONDO:0011835, 'sensory ataxic neuropathy, dysarthria, and ophthalmoparesis', OMIM:607459, Orphanet:70595
+MONDO:0011835, 'sensory ataxic neuropathy, dysarthria, and ophthalmoparesis', OMIM:607459, Orphanet:70595/e
+MONDO:0007723, 'Hirschsprung disease, susceptibility to, 1', OMIM:142623, MONDO:equivalentTo
+MONDO:0012488, 'hepatitis B virus, susceptibility to', OMIM:610424, MONDO:equivalentTo
+MONDO:0020611, 'obsolete blood group--kell system', OMIM:110900, MONDO:obsoleteEquivalent
+MONDO:0008397, 'aplasia of lacrimal and salivary glands', OMIM:180920, MONDO:equivalentTo
+MONDO:0008397, 'aplasia of lacrimal and salivary glands', OMIM:180920, Orphanet:86815
+MONDO:0008397, 'aplasia of lacrimal and salivary glands', OMIM:180920, Orphanet:86815/e
+MONDO:0044282, 'obsolete blood group, vel system', OMIM:615264, MONDO:obsoleteEquivalent
+MONDO:0010726, 'Rett syndrome', OMIM:312750, DOID:1206
+MONDO:0010726, 'Rett syndrome', OMIM:312750, MONDO:equivalentTo
+MONDO:0010726, 'Rett syndrome', OMIM:312750, Orphanet:778
+MONDO:0010726, 'Rett syndrome', OMIM:312750, Orphanet:778/e
+MONDO:0009258, 'classic galactosemia', OMIM:230400, MONDO:equivalentTo
+MONDO:0009258, 'classic galactosemia', OMIM:230400, Orphanet:79239
+MONDO:0009258, 'classic galactosemia', OMIM:230400, Orphanet:79239/e
+MONDO:0011913, 'Alzheimer disease 3', OMIM:607822, DOID:0110042
+MONDO:0011913, 'Alzheimer disease 3', OMIM:607822, MONDO:equivalentTo
+MONDO:0012808, 'dilated cardiomyopathy 1AA', OMIM:612158, DOID:0110428
+MONDO:0012808, 'dilated cardiomyopathy 1AA', OMIM:612158, MONDO:equivalentTo
+MONDO:0800347, 'cardiomyopathy, familial hypertrophic, 23, with or without ventricular noncompaction', OMIM:612158, MONDO:includedEntryInOMIM
+MONDO:0014252, 'familial hypobetalipoproteinemia 1', OMIM:615558, DOID:0111062
+MONDO:0014252, 'familial hypobetalipoproteinemia 1', OMIM:615558, MONDO:equivalentTo
+MONDO:0010130, 'dihydropyrimidine dehydrogenase deficiency', OMIM:274270, DOID:14218
+MONDO:0010130, 'dihydropyrimidine dehydrogenase deficiency', OMIM:274270, MONDO:equivalentTo
+MONDO:0010130, 'dihydropyrimidine dehydrogenase deficiency', OMIM:274270, Orphanet:1675
+MONDO:0010130, 'dihydropyrimidine dehydrogenase deficiency', OMIM:274270, Orphanet:1675/e
+MONDO:0027652, '5-fluorouracil toxicity', OMIM:274270, MONDO:includedEntryInOMIM
+MONDO:0013457, 'Leber congenital amaurosis 15', OMIM:613843, DOID:0110189
+MONDO:0013457, 'Leber congenital amaurosis 15', OMIM:613843, MONDO:equivalentTo
+MONDO:0010713, 'properdin deficiency, X-linked', OMIM:312060, MONDO:equivalentTo
+MONDO:0010713, 'properdin deficiency, X-linked', OMIM:312060, Orphanet:2966
+MONDO:0010713, 'properdin deficiency, X-linked', OMIM:312060, Orphanet:2966/e
+MONDO:0011216, 'hemochromatosis type 2A', OMIM:602390, DOID:0111027
+MONDO:0011216, 'hemochromatosis type 2A', OMIM:602390, MONDO:equivalentTo
+MONDO:0008817, 'arterial calcification, generalized, of infancy, 1', OMIM:208000, MONDO:equivalentTo
+MONDO:0011674, 'Charcot-Marie-Tooth disease dominant intermediate B', OMIM:606482, DOID:0110197
+MONDO:0011674, 'Charcot-Marie-Tooth disease dominant intermediate B', OMIM:606482, MONDO:equivalentTo
+MONDO:0011674, 'Charcot-Marie-Tooth disease dominant intermediate B', OMIM:606482, Orphanet:100044
+MONDO:0011674, 'Charcot-Marie-Tooth disease dominant intermediate B', OMIM:606482, Orphanet:100044/e
+MONDO:0011475, 'Charcot-Marie-Tooth disease type 4B2', OMIM:604563, DOID:0110190
+MONDO:0011475, 'Charcot-Marie-Tooth disease type 4B2', OMIM:604563, MONDO:equivalentTo
+MONDO:0011475, 'Charcot-Marie-Tooth disease type 4B2', OMIM:604563, Orphanet:99956
+MONDO:0011475, 'Charcot-Marie-Tooth disease type 4B2', OMIM:604563, Orphanet:99956/e
+MONDO:0012292, 'hepatitis C virus, susceptibility to', OMIM:609532, MONDO:equivalentTo
+MONDO:0008691, 'zinc, elevated plasma', OMIM:194470, MONDO:equivalentTo
+MONDO:0007041, 'Apert syndrome', OMIM:101200, MONDO:equivalentTo
+MONDO:0007041, 'Apert syndrome', OMIM:101200, Orphanet:87
+MONDO:0007041, 'Apert syndrome', OMIM:101200, Orphanet:87/e
+MONDO:0044280, 'obsolete glycerol quantitative trait locus', OMIM:614411, MONDO:obsoleteEquivalent
+MONDO:0009421, 'hypogonadism, male', OMIM:241100, MONDO:equivalentTo
+MONDO:0013569, 'short-rib thoracic dysplasia 7 with or without polydactyly', OMIM:614091, DOID:0110090
+MONDO:0013569, 'short-rib thoracic dysplasia 7 with or without polydactyly', OMIM:614091, MONDO:equivalentTo
+MONDO:0013569, 'short-rib thoracic dysplasia 7 with or without polydactyly', OMIM:614091, Orphanet:498497
+MONDO:0800356, 'short-rib thoracic dysplasia 7/20 with polydactyly, digenic', OMIM:614091, MONDO:includedEntryInOMIM
+MONDO:0012626, 'Meckel syndrome, type 4', OMIM:611134, DOID:0070118
+MONDO:0012626, 'Meckel syndrome, type 4', OMIM:611134, MONDO:equivalentTo
+MONDO:0015339, 'adrenomyeloneuropathy', OMIM:300100, MONDO:includedEntryInOMIM
+MONDO:0015339, 'adrenomyeloneuropathy', OMIM:300100, Orphanet:139399
+MONDO:0015339, 'adrenomyeloneuropathy', OMIM:300100, Orphanet:139399/ntbt
+MONDO:0018544, 'adrenoleukodystrophy', OMIM:300100, DOID:10588
+MONDO:0018544, 'adrenoleukodystrophy', OMIM:300100, MONDO:equivalentTo
+MONDO:0018544, 'adrenoleukodystrophy', OMIM:300100, Orphanet:43
+MONDO:0018544, 'adrenoleukodystrophy', OMIM:300100, Orphanet:43/e
+MONDO:0012854, 'bilateral microtia-deafness-cleft palate syndrome', OMIM:612290, MONDO:equivalentTo
+MONDO:0012854, 'bilateral microtia-deafness-cleft palate syndrome', OMIM:612290, Orphanet:140963
+MONDO:0012854, 'bilateral microtia-deafness-cleft palate syndrome', OMIM:612290, Orphanet:140963/e
+MONDO:0009970, 'renal tubular dysgenesis of genetic origin', OMIM:267430, MONDO:equivalentTo
+MONDO:0009970, 'renal tubular dysgenesis of genetic origin', OMIM:267430, Orphanet:97369
+MONDO:0009970, 'renal tubular dysgenesis of genetic origin', OMIM:267430, Orphanet:97369/e
+MONDO:0008418, 'scleroderma, familial progressive', OMIM:181750, MONDO:equivalentTo
+MONDO:0010318, 'FG syndrome 4', OMIM:300422, GARD:0009925
+MONDO:0010318, 'FG syndrome 4', OMIM:300422, MONDO:equivalentTo
+MONDO:0013370, 'long QT syndrome 6', OMIM:613693, DOID:0110648
+MONDO:0013370, 'long QT syndrome 6', OMIM:613693, MONDO:equivalentTo
+MONDO:0011461, 'generalized epilepsy with febrile seizures plus, type 2', OMIM:604403, MONDO:equivalentTo
+MONDO:0800329, 'febrile seizures, familial, 3a', OMIM:604403, MONDO:includedEntryInOMIM
+MONDO:0010442, '46,XX sex reversal 3', OMIM:300833, MONDO:equivalentTo
+MONDO:0008274, 'polyostotic fibrous dysplasia', OMIM:174800, MONDO:includedEntryInOMIM
+MONDO:0018919, 'McCune-Albright syndrome', OMIM:174800, DOID:1858
+MONDO:0018919, 'McCune-Albright syndrome', OMIM:174800, MONDO:equivalentTo
+MONDO:0018919, 'McCune-Albright syndrome', OMIM:174800, Orphanet:562
+MONDO:0018919, 'McCune-Albright syndrome', OMIM:174800, Orphanet:562/e
+MONDO:0014278, 'immunodeficiency 18', OMIM:615615, MONDO:equivalentTo
+MONDO:0020609, 'obsolete blood group, colton system', OMIM:110450, MONDO:obsoleteEquivalent
+MONDO:0014231, 'juvenile onset Parkinson disease 19A', OMIM:615528, DOID:0060891
+MONDO:0014231, 'juvenile onset Parkinson disease 19A', OMIM:615528, MONDO:equivalentTo
+MONDO:0800369, 'parkinson disease 19B, early-onset', OMIM:615528, MONDO:includedEntryInOMIM
+MONDO:0010215, 'xeroderma pigmentosum group F', OMIM:278760, DOID:0110848
+MONDO:0010215, 'xeroderma pigmentosum group F', OMIM:278760, MONDO:equivalentTo
+MONDO:0800313, 'xeroderma pigmentosum, type F/Cockayne syndrome', OMIM:278760, MONDO:includedEntryInOMIM
+MONDO:0007819, 'solitary median maxillary central incisor syndrome', OMIM:147250, MONDO:equivalentTo
+MONDO:0007819, 'solitary median maxillary central incisor syndrome', OMIM:147250, Orphanet:2286
+MONDO:0007819, 'solitary median maxillary central incisor syndrome', OMIM:147250, Orphanet:2286/e
+MONDO:0800331, 'hyperglycinemia, transient neonatal', OMIM:605899, MONDO:includedEntryInOMIM
+MONDO:0958179, 'glycine encephalopathy 1', OMIM:605899, MONDO:equivalentTo
+MONDO:0013146, 'Brugada syndrome 7', OMIM:613120, DOID:0110224
+MONDO:0013146, 'Brugada syndrome 7', OMIM:613120, MONDO:equivalentTo
+MONDO:0800349, 'atrial fibrillation, familial, 16', OMIM:613120, MONDO:includedEntryInOMIM
+MONDO:0010185, 'methylmalonic aciduria and homocystinuria type cblD', OMIM:277410, DOID:0050716
+MONDO:0010185, 'methylmalonic aciduria and homocystinuria type cblD', OMIM:277410, MONDO:equivalentTo
+MONDO:0010185, 'methylmalonic aciduria and homocystinuria type cblD', OMIM:277410, Orphanet:79283
+MONDO:0010185, 'methylmalonic aciduria and homocystinuria type cblD', OMIM:277410, Orphanet:79283/e
+MONDO:0021024, 'malaria, susceptibility to', OMIM:611162, MONDO:equivalentTo
+MONDO:0021024, 'malaria, susceptibility to', OMIM:611162, Orphanet:673
+MONDO:0012572, 'Sakoda complex', OMIM:610871, MONDO:equivalentTo
+MONDO:0010525, 'neural tube defects, X-linked', OMIM:301410, GARD:0000669
+MONDO:0010525, 'neural tube defects, X-linked', OMIM:301410, MONDO:equivalentTo
+MONDO:0009693, 'plasma cell myeloma', OMIM:254500, DOID:9538
+MONDO:0009693, 'plasma cell myeloma', OMIM:254500, MONDO:equivalentTo
+MONDO:0009693, 'plasma cell myeloma', OMIM:254500, Orphanet:29073
+MONDO:0009693, 'plasma cell myeloma', OMIM:254500, Orphanet:29073/e
+MONDO:0013266, 'intellectual disability, autosomal dominant 20', OMIM:613443, DOID:0070050
+MONDO:0013266, 'intellectual disability, autosomal dominant 20', OMIM:613443, MONDO:equivalentTo
+MONDO:0012702, 'celiac disease, susceptibility to, 6', OMIM:611598, MONDO:equivalentTo
+MONDO:0800274, 'autoimmune disease, susceptibility to, 5', OMIM:611598, MONDO:includedEntryInOMIM
+MONDO:0010564, 'red-green color blindness', OMIM:303800, DOID:13909
+MONDO:0010564, 'red-green color blindness', OMIM:303800, EFO:0005581
+MONDO:0010564, 'red-green color blindness', OMIM:303800, MONDO:equivalentTo
+MONDO:0012675, 'corticosteroid-binding globulin deficiency', OMIM:611489, DOID:0090030
+MONDO:0012675, 'corticosteroid-binding globulin deficiency', OMIM:611489, MONDO:equivalentTo
+MONDO:0012675, 'corticosteroid-binding globulin deficiency', OMIM:611489, Orphanet:199247
+MONDO:0012675, 'corticosteroid-binding globulin deficiency', OMIM:611489, Orphanet:199247/e
+MONDO:0011138, 'systemic lupus erythematosus, susceptibility to, 1', OMIM:601744, MONDO:equivalentTo
+MONDO:0009696, 'juvenile myoclonic epilepsy', OMIM:254770, DOID:4890
+MONDO:0009696, 'juvenile myoclonic epilepsy', OMIM:254770, MONDO:equivalentTo
+MONDO:0009696, 'juvenile myoclonic epilepsy', OMIM:254770, Orphanet:307
+MONDO:0009696, 'juvenile myoclonic epilepsy', OMIM:254770, Orphanet:307/e
+MONDO:0020752, 'myoclonic epilepsy, juvenile, susceptibility to, 1', OMIM:254770, MONDO:includedEntryInOMIM
+MONDO:0007639, 'fundus albipunctatus', OMIM:136880, DOID:11105
+MONDO:0007639, 'fundus albipunctatus', OMIM:136880, MONDO:equivalentTo
+MONDO:0007639, 'fundus albipunctatus', OMIM:136880, Orphanet:227796
+MONDO:0007639, 'fundus albipunctatus', OMIM:136880, Orphanet:227796/e
+MONDO:0007867, 'nonsyndromic congenital nail disorder 2', OMIM:149300, DOID:0080080
+MONDO:0007867, 'nonsyndromic congenital nail disorder 2', OMIM:149300, MONDO:equivalentTo
+MONDO:0800029, 'interstitial lung disease 2', OMIM:178500, DOID:0050156
+MONDO:0800029, 'interstitial lung disease 2', OMIM:178500, EFO:0000768
+MONDO:0800029, 'interstitial lung disease 2', OMIM:178500, MONDO:equivalentTo
+MONDO:0800029, 'interstitial lung disease 2', OMIM:178500, Orphanet:2032
+MONDO:0800029, 'interstitial lung disease 2', OMIM:178500, Orphanet:2032/e
+MONDO:0008708, 'acrocallosal syndrome', OMIM:200990, DOID:9250
+MONDO:0008708, 'acrocallosal syndrome', OMIM:200990, MONDO:equivalentTo
+MONDO:0008708, 'acrocallosal syndrome', OMIM:200990, Orphanet:36
+MONDO:0008708, 'acrocallosal syndrome', OMIM:200990, Orphanet:36/e
+MONDO:0007691, 'Guillain-Barre syndrome, familial', OMIM:139393, DOID:12842
+MONDO:0007691, 'Guillain-Barre syndrome, familial', OMIM:139393, MONDO:equivalentTo
+MONDO:0100169, 'polyneuropathy, inflammatory demyelinating, chronic', OMIM:139393, MONDO:includedEntryInOMIM
+MONDO:0013938, 'peroxisome biogenesis disorder 7A (Zellweger)', OMIM:614872, MONDO:equivalentTo
+MONDO:0012756, 'proximal 16p11.2 microdeletion syndrome', OMIM:611913, GARD:0010740
+MONDO:0012756, 'proximal 16p11.2 microdeletion syndrome', OMIM:611913, MONDO:equivalentTo
+MONDO:0012756, 'proximal 16p11.2 microdeletion syndrome', OMIM:611913, Orphanet:261197
+MONDO:0012756, 'proximal 16p11.2 microdeletion syndrome', OMIM:611913, Orphanet:261197/e
+MONDO:0800275, 'autism, susceptibility to, 14a', OMIM:611913, MONDO:includedEntryInOMIM
+MONDO:0013942, 'peroxisome biogenesis disorder 8A (Zellweger)', OMIM:614876, MONDO:equivalentTo
+MONDO:0015270, 'butyrylcholinesterase deficiency', OMIM:617936, MONDO:equivalentTo
+MONDO:0044248, 'obsolete thiourea tasting', OMIM:171200, MONDO:obsoleteEquivalent
+MONDO:0012792, 'mitochondrial DNA depletion syndrome 8a', OMIM:612075, DOID:0080127
+MONDO:0012792, 'mitochondrial DNA depletion syndrome 8a', OMIM:612075, MONDO:equivalentTo
+MONDO:0012792, 'mitochondrial DNA depletion syndrome 8a', OMIM:612075, Orphanet:255235
+MONDO:0012792, 'mitochondrial DNA depletion syndrome 8a', OMIM:612075, Orphanet:255235/e
+MONDO:0014883, 'hypertrophic cardiomyopathy 26', OMIM:617047, DOID:0110327
+MONDO:0014883, 'hypertrophic cardiomyopathy 26', OMIM:617047, MONDO:equivalentTo
+MONDO:0800371, 'cardiomyopathy, familial restrictive, 5', OMIM:617047, MONDO:includedEntryInOMIM
+MONDO:0013267, 'distal 16p11.2 microdeletion syndrome', OMIM:613444, DOID:0060398
+MONDO:0013267, 'distal 16p11.2 microdeletion syndrome', OMIM:613444, MONDO:equivalentTo
+MONDO:0013267, 'distal 16p11.2 microdeletion syndrome', OMIM:613444, Orphanet:261222
+MONDO:0013267, 'distal 16p11.2 microdeletion syndrome', OMIM:613444, Orphanet:261222/e
+MONDO:0800432, 'obesity, susceptibility to', OMIM:613444, MONDO:includedEntryInOMIM
+MONDO:0010831, 'familial caudal dysgenesis', OMIM:600145, GARD:0004751
+MONDO:0010831, 'familial caudal dysgenesis', OMIM:600145, MONDO:equivalentTo
+MONDO:0009916, '46,XY disorder of sex development due to 17-beta-hydroxysteroid dehydrogenase 3 deficiency', OMIM:264300, MONDO:equivalentTo
+MONDO:0009916, '46,XY disorder of sex development due to 17-beta-hydroxysteroid dehydrogenase 3 deficiency', OMIM:264300, Orphanet:752
+MONDO:0009916, '46,XY disorder of sex development due to 17-beta-hydroxysteroid dehydrogenase 3 deficiency', OMIM:264300, Orphanet:752/e
+MONDO:0016489, 'delta-beta-thalassemia', OMIM:141749, MONDO:relatedTo
+MONDO:0016489, 'delta-beta-thalassemia', OMIM:141749, Orphanet:231237
+MONDO:0016489, 'delta-beta-thalassemia', OMIM:141749, Orphanet:231237/ntbt
+MONDO:0016672, 'hereditary persistence of fetal hemoglobin-sickle cell disease syndrome', OMIM:141749, MONDO:relatedTo
+MONDO:0016672, 'hereditary persistence of fetal hemoglobin-sickle cell disease syndrome', OMIM:141749, Orphanet:251380
+MONDO:0016672, 'hereditary persistence of fetal hemoglobin-sickle cell disease syndrome', OMIM:141749, Orphanet:251380/btnt
+MONDO:0018749, 'hereditary persistence of fetal hemoglobin-beta-thalassemia syndrome', OMIM:141749, MONDO:relatedTo
+MONDO:0018749, 'hereditary persistence of fetal hemoglobin-beta-thalassemia syndrome', OMIM:141749, Orphanet:46532
+MONDO:0018749, 'hereditary persistence of fetal hemoglobin-beta-thalassemia syndrome', OMIM:141749, Orphanet:46532/btnt
+MONDO:0007534, 'Beckwith-Wiedemann syndrome', OMIM:130650, DOID:5572
+MONDO:0007534, 'Beckwith-Wiedemann syndrome', OMIM:130650, MONDO:equivalentTo
+MONDO:0007534, 'Beckwith-Wiedemann syndrome', OMIM:130650, Orphanet:116
+MONDO:0007534, 'Beckwith-Wiedemann syndrome', OMIM:130650, Orphanet:116/e
+MONDO:0014076, 'dyskeratosis congenita, autosomal recessive 5', OMIM:615190, DOID:0070022
+MONDO:0014076, 'dyskeratosis congenita, autosomal recessive 5', OMIM:615190, MONDO:equivalentTo
+MONDO:0800366, 'dyskeratosis congenita, autosomal dominant 4', OMIM:615190, MONDO:includedEntryInOMIM
+MONDO:0011843, 'hypertrophic cardiomyopathy 25', OMIM:607487, DOID:0110328
+MONDO:0011843, 'hypertrophic cardiomyopathy 25', OMIM:607487, MONDO:equivalentTo
+MONDO:0004951, 'susceptibility to HIV infection', OMIM:609423, EFO:0000180
+MONDO:0004951, 'susceptibility to HIV infection', OMIM:609423, MONDO:equivalentTo
+MONDO:0032915, 'long QT syndrome 16', OMIM:618782, MONDO:equivalentTo
+MONDO:0800374, 'ventricular tachycardia, catecholaminergic polymorphic 6', OMIM:618782, MONDO:includedEntryInOMIM
+MONDO:0009756, 'Niemann-Pick disease type A', OMIM:257200, DOID:0070111
+MONDO:0009756, 'Niemann-Pick disease type A', OMIM:257200, MONDO:equivalentTo
+MONDO:0009756, 'Niemann-Pick disease type A', OMIM:257200, Orphanet:77292
+MONDO:0009756, 'Niemann-Pick disease type A', OMIM:257200, Orphanet:77292/e
+MONDO:0008746, 'oculocutaneous albinism type 2', OMIM:203200, DOID:0070096
+MONDO:0008746, 'oculocutaneous albinism type 2', OMIM:203200, MONDO:equivalentTo
+MONDO:0008746, 'oculocutaneous albinism type 2', OMIM:203200, Orphanet:79432
+MONDO:0008746, 'oculocutaneous albinism type 2', OMIM:203200, Orphanet:79432/e
+MONDO:0010604, 'hemophilia B', OMIM:306900, DOID:12259
+MONDO:0010604, 'hemophilia B', OMIM:306900, MONDO:equivalentTo
+MONDO:0010604, 'hemophilia B', OMIM:306900, Orphanet:98879
+MONDO:0010604, 'hemophilia B', OMIM:306900, Orphanet:98879/e
+MONDO:0010600, 'granulomatous disease, chronic, X-linked', OMIM:306400, MONDO:equivalentTo
+MONDO:0010600, 'granulomatous disease, chronic, X-linked', OMIM:306400, MONDO:preferredExternal
+MONDO:0044259, 'obsolete skin/hair/eye pigmentation, variation in, 2', OMIM:266300, MONDO:obsoleteEquivalent
+MONDO:0800410, 'UV-induced skin damage, susceptibility to', OMIM:266300, MONDO:includedEntryInOMIM
+MONDO:0007798, 'obsolete adult hypophosphatasia', OMIM:146300, DOID:0110913
+MONDO:0007798, 'obsolete adult hypophosphatasia', OMIM:146300, MONDO:obsoleteEquivalent
+MONDO:0007798, 'obsolete adult hypophosphatasia', OMIM:146300, Orphanet:247676
+MONDO:0007798, 'obsolete adult hypophosphatasia', OMIM:146300, Orphanet:247676/e
+MONDO:0016607, 'odontohypophosphatasia', OMIM:146300, MONDO:includedEntryInOMIM
+MONDO:0016607, 'odontohypophosphatasia', OMIM:146300, Orphanet:247685
+MONDO:0016607, 'odontohypophosphatasia', OMIM:146300, Orphanet:247685/ntbt
+MONDO:0013253, 'breast-ovarian cancer, familial, susceptibility to, 3', OMIM:613399, MONDO:equivalentTo
+MONDO:0800420, 'breast cancer, familial, susceptibility to, 3', OMIM:613399, MONDO:includedEntryInOMIM
+MONDO:0800435, 'ovarian cancer, familial, susceptibility to, 3', OMIM:613399, MONDO:includedEntryInOMIM
+MONDO:0013688, 'linear and whorled nevoid hypermelanosis', OMIM:614323, MONDO:equivalentTo
+MONDO:0013688, 'linear and whorled nevoid hypermelanosis', OMIM:614323, Orphanet:79150
+MONDO:0013688, 'linear and whorled nevoid hypermelanosis', OMIM:614323, Orphanet:79150/e
+MONDO:0800357, 'hyperpigmentation, progressive cribriform and zosteriform', OMIM:614323, MONDO:includedEntryInOMIM
+MONDO:0011193, 'cone dystrophy 3', OMIM:602093, DOID:0080314
+MONDO:0011193, 'cone dystrophy 3', OMIM:602093, MONDO:equivalentTo
+MONDO:0800326, 'cone-rod dystrophy 14', OMIM:602093, MONDO:includedEntryInOMIM
+MONDO:0007750, 'hypercholesterolemia, familial, 1', OMIM:143890, MONDO:equivalentTo
+MONDO:0010622, 'recessive X-linked ichthyosis', OMIM:308100, DOID:1700
+MONDO:0010622, 'recessive X-linked ichthyosis', OMIM:308100, MONDO:equivalentTo
+MONDO:0010622, 'recessive X-linked ichthyosis', OMIM:308100, Orphanet:461
+MONDO:0010622, 'recessive X-linked ichthyosis', OMIM:308100, Orphanet:461/e
+MONDO:0007256, 'hepatocellular carcinoma', OMIM:114550, DOID:684
+MONDO:0007256, 'hepatocellular carcinoma', OMIM:114550, EFO:0000182
+MONDO:0007256, 'hepatocellular carcinoma', OMIM:114550, MONDO:equivalentTo
+MONDO:0007256, 'hepatocellular carcinoma', OMIM:114550, Orphanet:88673
+MONDO:0007256, 'hepatocellular carcinoma', OMIM:114550, Orphanet:88673/e
+MONDO:0007390, 'coumarin resistance', OMIM:122700, MONDO:equivalentTo
+MONDO:0007201, 'blepharophimosis, ptosis, and epicanthus inversus syndrome', OMIM:110100, DOID:14778
+MONDO:0007201, 'blepharophimosis, ptosis, and epicanthus inversus syndrome', OMIM:110100, GARD:0000023
+MONDO:0007201, 'blepharophimosis, ptosis, and epicanthus inversus syndrome', OMIM:110100, MONDO:equivalentTo
+MONDO:0007201, 'blepharophimosis, ptosis, and epicanthus inversus syndrome', OMIM:110100, Orphanet:126
+MONDO:0007201, 'blepharophimosis, ptosis, and epicanthus inversus syndrome', OMIM:110100, Orphanet:126/e
+MONDO:0010379, 'Brunner syndrome', OMIM:300615, DOID:0060693
+MONDO:0010379, 'Brunner syndrome', OMIM:300615, MONDO:equivalentTo
+MONDO:0010379, 'Brunner syndrome', OMIM:300615, Orphanet:3057
+MONDO:0010379, 'Brunner syndrome', OMIM:300615, Orphanet:3057/e
+MONDO:0800413, 'antisocial behavior, susceptibility to', OMIM:300615, MONDO:includedEntryInOMIM
+MONDO:0009353, 'homocystinuria due to methylene tetrahydrofolate reductase deficiency', OMIM:236250, MONDO:equivalentTo
+MONDO:0009353, 'homocystinuria due to methylene tetrahydrofolate reductase deficiency', OMIM:236250, Orphanet:395
+MONDO:0009353, 'homocystinuria due to methylene tetrahydrofolate reductase deficiency', OMIM:236250, Orphanet:395/e
+MONDO:0012444, 'neurodegeneration with brain iron accumulation 2B', OMIM:610217, DOID:0110736
+MONDO:0012444, 'neurodegeneration with brain iron accumulation 2B', OMIM:610217, MONDO:equivalentTo
+MONDO:0007744, 'cholesterol-ester transfer protein deficiency', OMIM:143470, MONDO:equivalentTo
+MONDO:0007744, 'cholesterol-ester transfer protein deficiency', OMIM:143470, Orphanet:79506
+MONDO:0007744, 'cholesterol-ester transfer protein deficiency', OMIM:143470, Orphanet:79506/e
+MONDO:0012830, 'chromosome 10q23 deletion syndrome', OMIM:612242, DOID:0060389
+MONDO:0012830, 'chromosome 10q23 deletion syndrome', OMIM:612242, MONDO:equivalentTo
+MONDO:0012830, 'chromosome 10q23 deletion syndrome', OMIM:612242, Orphanet:276413
+MONDO:0012830, 'chromosome 10q23 deletion syndrome', OMIM:612242, Orphanet:276413/e
+MONDO:0008834, 'asthma, nasal polyps, and aspirin intolerance', OMIM:208550, MONDO:equivalentTo
+MONDO:0800415, 'asthma, aspirin-induced, susceptibility to', OMIM:208550, MONDO:includedEntryInOMIM
+MONDO:0011669, 'hypotonia-cystinuria syndrome', OMIM:606407, DOID:0060858
+MONDO:0011669, 'hypotonia-cystinuria syndrome', OMIM:606407, MONDO:equivalentTo
+MONDO:0011669, 'hypotonia-cystinuria syndrome', OMIM:606407, Orphanet:163690
+MONDO:0011669, 'hypotonia-cystinuria syndrome', OMIM:606407, Orphanet:163690/e
+MONDO:0008262, 'Poland syndrome', OMIM:173800, DOID:12961
+MONDO:0008262, 'Poland syndrome', OMIM:173800, MONDO:equivalentTo
+MONDO:0008262, 'Poland syndrome', OMIM:173800, Orphanet:2911
+MONDO:0008262, 'Poland syndrome', OMIM:173800, Orphanet:2911/e
+MONDO:0011561, 'Alzheimer disease 6', OMIM:605526, DOID:0110038
+MONDO:0011561, 'Alzheimer disease 6', OMIM:605526, MONDO:equivalentTo
+MONDO:0008104, 'Noonan syndrome 1', OMIM:163950, DOID:0060578
+MONDO:0008104, 'Noonan syndrome 1', OMIM:163950, MONDO:equivalentTo
+MONDO:0008846, 'atransferrinemia', OMIM:209300, DOID:0050649
+MONDO:0008846, 'atransferrinemia', OMIM:209300, MONDO:equivalentTo
+MONDO:0008846, 'atransferrinemia', OMIM:209300, Orphanet:1195
+MONDO:0008846, 'atransferrinemia', OMIM:209300, Orphanet:1195/e
+MONDO:0011775, 'nasopharyngeal carcinoma, susceptibility to, 1', OMIM:607107, MONDO:equivalentTo
+MONDO:0010717, 'pyruvate dehydrogenase E1-alpha deficiency', OMIM:312170, GARD:0004620
+MONDO:0010717, 'pyruvate dehydrogenase E1-alpha deficiency', OMIM:312170, MONDO:equivalentTo
+MONDO:0010717, 'pyruvate dehydrogenase E1-alpha deficiency', OMIM:312170, Orphanet:79243
+MONDO:0010717, 'pyruvate dehydrogenase E1-alpha deficiency', OMIM:312170, Orphanet:79243/e
+MONDO:0012930, 'autosomal recessive severe congenital neutropenia due to G6PC3 deficiency', OMIM:612541, MONDO:equivalentTo
+MONDO:0012930, 'autosomal recessive severe congenital neutropenia due to G6PC3 deficiency', OMIM:612541, Orphanet:331176
+MONDO:0012930, 'autosomal recessive severe congenital neutropenia due to G6PC3 deficiency', OMIM:612541, Orphanet:331176/e
+MONDO:0004129, 'cloacogenic carcinoma', OMIM:105580, MONDO:includedEntryInOMIM
+MONDO:0007108, 'anal canal carcinoma', OMIM:105580, DOID:6126
+MONDO:0007108, 'anal canal carcinoma', OMIM:105580, MONDO:equivalentTo
+MONDO:0100098, 'dystonia, dopa-responsive, with or without hyperphenylalaninemia, autosomal recessive', OMIM:233910, MONDO:includedEntryInOMIM
+MONDO:0100186, 'GTP cyclohydrolase I deficiency with hyperphenylalaninemia', OMIM:233910, MONDO:equivalentTo
+MONDO:0100186, 'GTP cyclohydrolase I deficiency with hyperphenylalaninemia', OMIM:233910, Orphanet:2102
+MONDO:0100186, 'GTP cyclohydrolase I deficiency with hyperphenylalaninemia', OMIM:233910, Orphanet:2102/e
+MONDO:0009072, 'Dandy-Walker syndrome', OMIM:220200, DOID:2785
+MONDO:0009072, 'Dandy-Walker syndrome', OMIM:220200, MONDO:equivalentTo
+MONDO:0009072, 'Dandy-Walker syndrome', OMIM:220200, Orphanet:217
+MONDO:0009072, 'Dandy-Walker syndrome', OMIM:220200, Orphanet:217/e
+MONDO:0009331, 'isolated hemihyperplasia', OMIM:235000, MONDO:equivalentTo
+MONDO:0009331, 'isolated hemihyperplasia', OMIM:235000, Orphanet:2128
+MONDO:0009331, 'isolated hemihyperplasia', OMIM:235000, Orphanet:2128/e
+MONDO:0007064, 'severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-negative, NK cell-negative, due to adenosine deaminase deficiency', OMIM:102700, DOID:5810
+MONDO:0007064, 'severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-negative, NK cell-negative, due to adenosine deaminase deficiency', OMIM:102700, MONDO:equivalentTo
+MONDO:0007064, 'severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-negative, NK cell-negative, due to adenosine deaminase deficiency', OMIM:102700, Orphanet:277
+MONDO:0007064, 'severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-negative, NK cell-negative, due to adenosine deaminase deficiency', OMIM:102700, Orphanet:277/e
+MONDO:0018931, 'mucolipidosis type III, alpha/beta', OMIM:252600, DOID:0080071
+MONDO:0018931, 'mucolipidosis type III, alpha/beta', OMIM:252600, GARD:0003806
+MONDO:0018931, 'mucolipidosis type III, alpha/beta', OMIM:252600, MONDO:equivalentTo
+MONDO:0018931, 'mucolipidosis type III, alpha/beta', OMIM:252600, Orphanet:423461
+MONDO:0018931, 'mucolipidosis type III, alpha/beta', OMIM:252600, Orphanet:577
+MONDO:0018931, 'mucolipidosis type III, alpha/beta', OMIM:252600, Orphanet:577/btnt
+MONDO:0009356, 'autosomal recessive humeroradial synostosis', OMIM:236400, MONDO:equivalentTo
+MONDO:0009277, 'glaucoma 3A', OMIM:231300, DOID:11211
+MONDO:0009277, 'glaucoma 3A', OMIM:231300, MONDO:equivalentTo
+MONDO:0007073, 'Hypoglossia-hypodactyly syndrome', OMIM:103300, GARD:0000068
+MONDO:0007073, 'Hypoglossia-hypodactyly syndrome', OMIM:103300, MONDO:equivalentTo
+MONDO:0007073, 'Hypoglossia-hypodactyly syndrome', OMIM:103300, Orphanet:989
+MONDO:0007073, 'Hypoglossia-hypodactyly syndrome', OMIM:103300, Orphanet:989/e
+MONDO:0009291, 'glycogen storage disease III', OMIM:232400, DOID:2748
+MONDO:0009291, 'glycogen storage disease III', OMIM:232400, MONDO:equivalentTo
+MONDO:0009291, 'glycogen storage disease III', OMIM:232400, Orphanet:366
+MONDO:0009291, 'glycogen storage disease III', OMIM:232400, Orphanet:366/e
+MONDO:0007922, 'lymphedema-distichiasis syndrome', OMIM:153400, MONDO:equivalentTo
+MONDO:0007922, 'lymphedema-distichiasis syndrome', OMIM:153400, Orphanet:33001
+MONDO:0007922, 'lymphedema-distichiasis syndrome', OMIM:153400, Orphanet:33001/e
+MONDO:0011167, 'type 1 diabetes mellitus 6', OMIM:601941, DOID:0110745
+MONDO:0011167, 'type 1 diabetes mellitus 6', OMIM:601941, MONDO:equivalentTo
+MONDO:0800261, 'autoimmune thyroid disease, susceptibility to, 5', OMIM:601941, MONDO:includedEntryInOMIM
+MONDO:0008294, 'acute intermittent porphyria', OMIM:176000, DOID:3890
+MONDO:0008294, 'acute intermittent porphyria', OMIM:176000, MONDO:equivalentTo
+MONDO:0008294, 'acute intermittent porphyria', OMIM:176000, Orphanet:79276
+MONDO:0008294, 'acute intermittent porphyria', OMIM:176000, Orphanet:79276/e
+MONDO:0009623, 'Nijmegen breakage syndrome', OMIM:251260, DOID:7400
+MONDO:0009623, 'Nijmegen breakage syndrome', OMIM:251260, MONDO:equivalentTo
+MONDO:0009623, 'Nijmegen breakage syndrome', OMIM:251260, Orphanet:647
+MONDO:0009623, 'Nijmegen breakage syndrome', OMIM:251260, Orphanet:647/e
+MONDO:0013945, 'peroxisome biogenesis disorder 9B', OMIM:614879, MONDO:equivalentTo
+MONDO:0012522, 'diabetes mellitus, transient neonatal, 3', OMIM:610582, MONDO:equivalentTo
+MONDO:0010693, 'nystagmus 1, congenital, X-linked', OMIM:310700, MONDO:equivalentTo
+MONDO:0011660, 'autosomal dominant nonsyndromic hearing loss 22', OMIM:606346, DOID:0110552
+MONDO:0011660, 'autosomal dominant nonsyndromic hearing loss 22', OMIM:606346, MONDO:equivalentTo
+MONDO:0007268, 'hypertrophic cardiomyopathy 4', OMIM:115197, DOID:0110310
+MONDO:0007268, 'hypertrophic cardiomyopathy 4', OMIM:115197, MONDO:equivalentTo
+MONDO:0800421, 'cardiomyopathy, familial hypertrophic, 4, susceptibility to', OMIM:115197, MONDO:includedEntryInOMIM
+MONDO:0011925, 'congenital merosin-deficient muscular dystrophy 1A', OMIM:607855, DOID:0110636
+MONDO:0011925, 'congenital merosin-deficient muscular dystrophy 1A', OMIM:607855, MONDO:equivalentTo
+MONDO:0011925, 'congenital merosin-deficient muscular dystrophy 1A', OMIM:607855, Orphanet:258
+MONDO:0011925, 'congenital merosin-deficient muscular dystrophy 1A', OMIM:607855, Orphanet:258/e
+MONDO:0007184, 'alopecia, androgenetic, 1', OMIM:109200, MONDO:equivalentTo
+MONDO:0800201, 'baldness, male pattern', OMIM:109200, MONDO:includedEntryInOMIM
+MONDO:0011491, 'epilepsy, idiopathic generalized, susceptibility to, 7', OMIM:604827, MONDO:equivalentTo
+MONDO:0800330, 'myoclonic epilepsy, juvenile, 2', OMIM:604827, MONDO:includedEntryInOMIM
+MONDO:0008530, 'teeth, odd shapes of', OMIM:187000, MONDO:equivalentTo
+MONDO:0011010, 'Matthew-Wood syndrome', OMIM:601186, DOID:0050819
+MONDO:0011010, 'Matthew-Wood syndrome', OMIM:601186, MONDO:equivalentTo
+MONDO:0011010, 'Matthew-Wood syndrome', OMIM:601186, Orphanet:2470
+MONDO:0011010, 'Matthew-Wood syndrome', OMIM:601186, Orphanet:2470/e
+MONDO:0800324, 'microphthalmia, isolated, with coloboma 8', OMIM:601186, MONDO:includedEntryInOMIM
+MONDO:0033044, 'Meckel syndrome 13', OMIM:617562, DOID:0080253
+MONDO:0033044, 'Meckel syndrome 13', OMIM:617562, MONDO:equivalentTo
+MONDO:0800372, 'Joubert syndrome 29', OMIM:617562, MONDO:includedEntryInOMIM
+MONDO:0007895, 'platyspondylic dysplasia, Torrance type', OMIM:151210, MONDO:equivalentTo
+MONDO:0007895, 'platyspondylic dysplasia, Torrance type', OMIM:151210, Orphanet:85166
+MONDO:0007895, 'platyspondylic dysplasia, Torrance type', OMIM:151210, Orphanet:85166/e
+MONDO:0010742, 'pentalogy of Cantrell', OMIM:313850, MONDO:equivalentTo
+MONDO:0010742, 'pentalogy of Cantrell', OMIM:313850, Orphanet:1335
+MONDO:0010742, 'pentalogy of Cantrell', OMIM:313850, Orphanet:1335/e
+MONDO:0012454, 'alcohol sensitivity, acute', OMIM:610251, MONDO:equivalentTo
+MONDO:0013199, 'tuberous sclerosis 2', OMIM:613254, MONDO:equivalentTo
+MONDO:0012398, 'retinal cone dystrophy 3A', OMIM:610024, MONDO:equivalentTo
+MONDO:0800197, 'achromatopsia 6', OMIM:610024, MONDO:includedEntryInOMIM
+MONDO:0019023, 'cutaneous mastocytosis', OMIM:154800, MONDO:equivalentTo
+MONDO:0009837, 'choroid plexus papilloma', OMIM:260500, DOID:2626
+MONDO:0009837, 'choroid plexus papilloma', OMIM:260500, MONDO:equivalentTo
+MONDO:0009837, 'choroid plexus papilloma', OMIM:260500, Orphanet:2807
+MONDO:0009837, 'choroid plexus papilloma', OMIM:260500, Orphanet:2807/e
+MONDO:0016718, 'choroid plexus carcinoma', OMIM:260500, MONDO:includedEntryInOMIM
+MONDO:0016718, 'choroid plexus carcinoma', OMIM:260500, Orphanet:251899
+MONDO:0016718, 'choroid plexus carcinoma', OMIM:260500, Orphanet:251899/ntbt
+MONDO:0013180, 'asthma-related traits, susceptibility to, 8', OMIM:613207, MONDO:equivalentTo
+MONDO:0008954, 'peroxisome biogenesis disorder 2A (Zellweger)', OMIM:214110, MONDO:equivalentTo
+MONDO:0800298, 'peroxisome biogenesis disorder, complementation group 2', OMIM:214110, MONDO:includedEntryInOMIM
+MONDO:0010421, 'Bruton-type agammaglobulinemia', OMIM:300755, DOID:14179
+MONDO:0010421, 'Bruton-type agammaglobulinemia', OMIM:300755, MONDO:equivalentTo
+MONDO:0010421, 'Bruton-type agammaglobulinemia', OMIM:300755, Orphanet:47
+MONDO:0010421, 'Bruton-type agammaglobulinemia', OMIM:300755, Orphanet:47/e
+MONDO:0005148, 'type 2 diabetes mellitus', OMIM:125853, DOID:9352
+MONDO:0005148, 'type 2 diabetes mellitus', OMIM:125853, EFO:0001360
+MONDO:0005148, 'type 2 diabetes mellitus', OMIM:125853, MONDO:equivalentTo
+MONDO:0007418, 'Darwinian tubercle of pinna', OMIM:124300, MONDO:equivalentTo
+MONDO:0007418, 'Darwinian tubercle of pinna', OMIM:124300, MONDO:preferredExternal
+MONDO:0013108, 'leukemia, acute lymphocytic, susceptibility to, 1', OMIM:613065, MONDO:equivalentTo
+MONDO:0012287, 'Stickler syndrome, type I, nonsyndromic ocular', OMIM:609508, MONDO:equivalentTo
+MONDO:0016202, 'autosomal dominant rhegmatogenous retinal detachment', OMIM:609508, MONDO:includedEntryInOMIM
+MONDO:0016202, 'autosomal dominant rhegmatogenous retinal detachment', OMIM:609508, Orphanet:209867
+MONDO:0016202, 'autosomal dominant rhegmatogenous retinal detachment', OMIM:609508, Orphanet:209867/ntbt
+MONDO:0018959, 'potassium-aggravated myotonia', OMIM:608390, MONDO:equivalentTo
+MONDO:0018959, 'potassium-aggravated myotonia', OMIM:608390, Orphanet:612
+MONDO:0018959, 'potassium-aggravated myotonia', OMIM:608390, Orphanet:612/e
+MONDO:0800339, 'laryngospasm, severe neonatal episodic', OMIM:608390, MONDO:includedEntryInOMIM
+MONDO:0009264, 'gastroschisis', OMIM:230750, DOID:11044
+MONDO:0009264, 'gastroschisis', OMIM:230750, MONDO:equivalentTo
+MONDO:0009264, 'gastroschisis', OMIM:230750, Orphanet:2368
+MONDO:0009264, 'gastroschisis', OMIM:230750, Orphanet:2368/e
+MONDO:0024533, 'pulmonary hypertension, primary, 1', OMIM:178600, MONDO:equivalentTo
+MONDO:0044776, 'premature ovarian failure 10', OMIM:612885, MONDO:equivalentTo
+MONDO:0012197, 'idiopathic aplastic anemia', OMIM:609135, MONDO:equivalentTo
+MONDO:0012197, 'idiopathic aplastic anemia', OMIM:609135, Orphanet:88
+MONDO:0012197, 'idiopathic aplastic anemia', OMIM:609135, Orphanet:88/e
+MONDO:0800414, 'aplastic anemia, susceptibility to', OMIM:609135, MONDO:includedEntryInOMIM
+MONDO:0020712, '46,XY sex reversal 1', OMIM:400044, MONDO:equivalentTo
+MONDO:0011830, 'lissencephaly due to LIS1 mutation', OMIM:607432, MONDO:equivalentTo
+MONDO:0011830, 'lissencephaly due to LIS1 mutation', OMIM:607432, Orphanet:95232
+MONDO:0011830, 'lissencephaly due to LIS1 mutation', OMIM:607432, Orphanet:95232/e
+MONDO:0009261, 'GM1 gangliosidosis type 2', OMIM:230600, MONDO:equivalentTo
+MONDO:0009261, 'GM1 gangliosidosis type 2', OMIM:230600, Orphanet:79256
+MONDO:0009261, 'GM1 gangliosidosis type 2', OMIM:230600, Orphanet:79256/e
+MONDO:0006065, 'lactose intolerance adult type', OMIM:223100, MONDO:equivalentTo
+MONDO:0007571, 'primary erythermalgia', OMIM:133020, MONDO:equivalentTo
+MONDO:0007571, 'primary erythermalgia', OMIM:133020, Orphanet:90026
+MONDO:0007571, 'primary erythermalgia', OMIM:133020, Orphanet:90026/e
+MONDO:0800207, 'neuropathy, small fiber', OMIM:133020, MONDO:includedEntryInOMIM
+MONDO:0011891, 'febrile seizures, familial, 8', OMIM:607681, MONDO:equivalentTo
+MONDO:0005002, 'chronic obstructive pulmonary disease', OMIM:606963, MONDO:equivalentTo
+MONDO:0011751, 'COPD, severe early onset', OMIM:606963, MONDO:includedEntryInOMIM
+MONDO:0100167, 'pulmonary disease, chronic obstructive, susceptibility to', OMIM:606963, MONDO:includedEntryInOMIM
+MONDO:0007900, 'nonsyndromic congenital nail disorder 3', OMIM:151600, DOID:0080081
+MONDO:0007900, 'nonsyndromic congenital nail disorder 3', OMIM:151600, GARD:0002555
+MONDO:0007900, 'nonsyndromic congenital nail disorder 3', OMIM:151600, MONDO:equivalentTo
+MONDO:0033010, 'erythrokeratodermia variabilis et progressiva 1', OMIM:133200, MONDO:equivalentTo
+MONDO:0010178, 'congenital bilateral aplasia of vas deferens from CFTR mutation', OMIM:277180, MONDO:equivalentTo
+MONDO:0800311, 'vas deferens, congenital unilateral aplasia of', OMIM:277180, MONDO:includedEntryInOMIM
+MONDO:0009509, 'Landau-Kleffner syndrome', OMIM:245570, DOID:2538
+MONDO:0009509, 'Landau-Kleffner syndrome', OMIM:245570, MONDO:equivalentTo
+MONDO:0009509, 'Landau-Kleffner syndrome', OMIM:245570, Orphanet:98818
+MONDO:0009509, 'Landau-Kleffner syndrome', OMIM:245570, Orphanet:98818/ntbt
+MONDO:0010984, 'Usher syndrome type 1D', OMIM:601067, DOID:0110831
+MONDO:0010984, 'Usher syndrome type 1D', OMIM:601067, MONDO:equivalentTo
+MONDO:0100050, 'Usher syndrome, type 1D/F', OMIM:601067, MONDO:includedEntryInOMIM
+MONDO:0010432, 'thrombophilia, X-linked, due to factor 9 defect', OMIM:300807, MONDO:equivalentTo
+MONDO:0013786, 'cone-rod dystrophy 16', OMIM:614500, DOID:0111022
+MONDO:0013786, 'cone-rod dystrophy 16', OMIM:614500, MONDO:equivalentTo
+MONDO:0800359, 'retinitis pigmentosa 64', OMIM:614500, MONDO:includedEntryInOMIM
+MONDO:0009681, 'Ullrich congenital muscular dystrophy 1A', OMIM:254090, MONDO:equivalentTo
+MONDO:0009681, 'Ullrich congenital muscular dystrophy 1A', OMIM:254090, Orphanet:75840
+MONDO:0011099, 'human HOXA1 syndromes', OMIM:601536, DOID:0050682
+MONDO:0011099, 'human HOXA1 syndromes', OMIM:601536, MONDO:equivalentTo
+MONDO:0011099, 'human HOXA1 syndromes', OMIM:601536, Orphanet:69739
+MONDO:0011099, 'human HOXA1 syndromes', OMIM:601536, Orphanet:69739/e
+MONDO:0019075, 'Bosley-Salih-Alorainy syndrome', OMIM:601536, MONDO:includedEntryInOMIM
+MONDO:0019075, 'Bosley-Salih-Alorainy syndrome', OMIM:601536, Orphanet:69737
+MONDO:0019075, 'Bosley-Salih-Alorainy syndrome', OMIM:601536, Orphanet:69737/ntbt
+MONDO:0007403, 'inherited Creutzfeldt-Jakob disease', OMIM:123400, MONDO:equivalentTo
+MONDO:0007403, 'inherited Creutzfeldt-Jakob disease', OMIM:123400, Orphanet:282166
+MONDO:0007403, 'inherited Creutzfeldt-Jakob disease', OMIM:123400, Orphanet:282166/e
+MONDO:0013936, 'peroxisome biogenesis disorder 6A (Zellweger)', OMIM:614870, MONDO:equivalentTo
+MONDO:0011242, 'Bartter disease type 4A', OMIM:602522, DOID:0110145
+MONDO:0011242, 'Bartter disease type 4A', OMIM:602522, MONDO:equivalentTo
+MONDO:0008082, 'multiple endocrine neoplasia type 2B', OMIM:162300, DOID:10016
+MONDO:0008082, 'multiple endocrine neoplasia type 2B', OMIM:162300, MONDO:equivalentTo
+MONDO:0008082, 'multiple endocrine neoplasia type 2B', OMIM:162300, Orphanet:247709
+MONDO:0008082, 'multiple endocrine neoplasia type 2B', OMIM:162300, Orphanet:247709/e
+MONDO:0012252, 'rhabdoid tumor predisposition syndrome 1', OMIM:609322, MONDO:equivalentTo
+MONDO:0001056, 'gastric cancer', OMIM:613659, DOID:10534
+MONDO:0001056, 'gastric cancer', OMIM:613659, MONDO:equivalentTo
+MONDO:0007561, 'multiple epiphyseal dysplasia type 1', OMIM:132400, GARD:0002180
+MONDO:0007561, 'multiple epiphyseal dysplasia type 1', OMIM:132400, MONDO:equivalentTo
+MONDO:0007561, 'multiple epiphyseal dysplasia type 1', OMIM:132400, Orphanet:93308
+MONDO:0007561, 'multiple epiphyseal dysplasia type 1', OMIM:132400, Orphanet:93308/e
+MONDO:0010233, 'heterotopia, periventricular, X-linked dominant', OMIM:300049, MONDO:equivalentTo
+MONDO:0013799, 'obsolete efavirenz, poor metabolism of', OMIM:614546, MONDO:obsoleteEquivalent
+MONDO:0800431, 'efavirenz central nervous system toxicity, susceptibility to', OMIM:614546, MONDO:includedEntryInOMIM
+MONDO:0011158, 'autoimmune lymphoproliferative syndrome type 1', OMIM:601859, MONDO:equivalentTo
+MONDO:0013696, 'chromosome 2p16.3 deletion syndrome', OMIM:614332, MONDO:equivalentTo
+MONDO:0800358, 'schizophrenia 17', OMIM:614332, MONDO:includedEntryInOMIM
+MONDO:0008667, 'von Hippel-Lindau disease', OMIM:193300, DOID:14175
+MONDO:0008667, 'von Hippel-Lindau disease', OMIM:193300, MONDO:equivalentTo
+MONDO:0008667, 'von Hippel-Lindau disease', OMIM:193300, Orphanet:892
+MONDO:0008667, 'von Hippel-Lindau disease', OMIM:193300, Orphanet:892/e
+MONDO:0010184, 'methylmalonic aciduria and homocystinuria type cblC', OMIM:277400, DOID:0050715
+MONDO:0010184, 'methylmalonic aciduria and homocystinuria type cblC', OMIM:277400, MONDO:equivalentTo
+MONDO:0010184, 'methylmalonic aciduria and homocystinuria type cblC', OMIM:277400, Orphanet:79282
+MONDO:0010184, 'methylmalonic aciduria and homocystinuria type cblC', OMIM:277400, Orphanet:79282/e
+MONDO:0004975, 'Alzheimer disease', OMIM:104300, DOID:10652
+MONDO:0004975, 'Alzheimer disease', OMIM:104300, EFO:0000249
+MONDO:0004975, 'Alzheimer disease', OMIM:104300, MONDO:includedEntryInOMIM
+MONDO:0007088, 'Alzheimer disease type 1', OMIM:104300, DOID:0080348
+MONDO:0007088, 'Alzheimer disease type 1', OMIM:104300, MONDO:equivalentTo
+MONDO:0006952, 'retinopathy of prematurity', OMIM:133780, MONDO:includedEntryInOMIM
+MONDO:0006952, 'retinopathy of prematurity', OMIM:133780, Orphanet:90050
+MONDO:0006952, 'retinopathy of prematurity', OMIM:133780, Orphanet:90050/ntbt
+MONDO:0007589, 'exudative vitreoretinopathy 1', OMIM:133780, MONDO:equivalentTo
+MONDO:0013932, 'peroxisome biogenesis disorder 5A (Zellweger)', OMIM:614866, MONDO:equivalentTo
+MONDO:0009165, 'Aicardi-Goutieres syndrome 1', OMIM:225750, MONDO:equivalentTo
+MONDO:0011885, 'tubulointerstitial nephritis and uveitis syndrome', OMIM:607665, MONDO:equivalentTo
+MONDO:0011885, 'tubulointerstitial nephritis and uveitis syndrome', OMIM:607665, Orphanet:91500
+MONDO:0011885, 'tubulointerstitial nephritis and uveitis syndrome', OMIM:607665, Orphanet:91500/e
+MONDO:0800337, 'acute tubulointerstitial nephritis', OMIM:607665, MONDO:includedEntryInOMIM
+MONDO:0008300, 'Prader-Willi syndrome', OMIM:176270, DOID:11983
+MONDO:0008300, 'Prader-Willi syndrome', OMIM:176270, MONDO:equivalentTo
+MONDO:0008300, 'Prader-Willi syndrome', OMIM:176270, Orphanet:739
+MONDO:0008300, 'Prader-Willi syndrome', OMIM:176270, Orphanet:739/e
+MONDO:0009026, 'Costello syndrome', OMIM:218040, DOID:0050469
+MONDO:0009026, 'Costello syndrome', OMIM:218040, MONDO:equivalentTo
+MONDO:0009026, 'Costello syndrome', OMIM:218040, Orphanet:3071
+MONDO:0009026, 'Costello syndrome', OMIM:218040, Orphanet:3071/e
+MONDO:0800299, 'myopathy, congenital, with excess of muscle spindles', OMIM:218040, MONDO:includedEntryInOMIM
+MONDO:0010298, 'Lesch-Nyhan syndrome', OMIM:300322, DOID:1919
+MONDO:0010298, 'Lesch-Nyhan syndrome', OMIM:300322, MONDO:equivalentTo
+MONDO:0010298, 'Lesch-Nyhan syndrome', OMIM:300322, Orphanet:510
+MONDO:0010298, 'Lesch-Nyhan syndrome', OMIM:300322, Orphanet:510/e
+MONDO:0012650, 'Cernunnos-XLF deficiency', OMIM:611291, MONDO:equivalentTo
+MONDO:0012650, 'Cernunnos-XLF deficiency', OMIM:611291, Orphanet:169079
+MONDO:0012650, 'Cernunnos-XLF deficiency', OMIM:611291, Orphanet:169079/e
+MONDO:0018229, 'Stevens-Johnson syndrome', OMIM:608579, EFO:0004276
+MONDO:0018229, 'Stevens-Johnson syndrome', OMIM:608579, MONDO:equivalentTo
+MONDO:0018229, 'Stevens-Johnson syndrome', OMIM:608579, Orphanet:36426
+MONDO:0018229, 'Stevens-Johnson syndrome', OMIM:608579, Orphanet:36426/ntbt
+MONDO:0011918, 'anxiety', OMIM:607834, MONDO:equivalentTo
+MONDO:0020705, 'neural tube defects, susceptibility to', OMIM:182940, MONDO:equivalentTo
+MONDO:0032931, 'pontocerebellar hypoplasia, hypotonia, and respiratory insufficiency syndrome, neonatal lethal', OMIM:618810, MONDO:equivalentTo
+MONDO:0009995, 'obsolete rheumatic fever-related antigen', OMIM:268240, MONDO:obsoleteEquivalent
+MONDO:0009741, 'neuroblastoma, susceptibility to, 1', OMIM:256700, MONDO:equivalentTo
+MONDO:0013003, 'isolated congenital hypoglossia/aglossia', OMIM:612776, MONDO:equivalentTo
+MONDO:0013003, 'isolated congenital hypoglossia/aglossia', OMIM:612776, Orphanet:141152
+MONDO:0013003, 'isolated congenital hypoglossia/aglossia', OMIM:612776, Orphanet:141152/e
+MONDO:0009282, 'multiple acyl-CoA dehydrogenase deficiency', OMIM:231680, DOID:0060358
+MONDO:0009282, 'multiple acyl-CoA dehydrogenase deficiency', OMIM:231680, MONDO:equivalentTo
+MONDO:0009282, 'multiple acyl-CoA dehydrogenase deficiency', OMIM:231680, Orphanet:26791
+MONDO:0009282, 'multiple acyl-CoA dehydrogenase deficiency', OMIM:231680, Orphanet:26791/e
+MONDO:0700073, 'glutaric acidemia IIa', OMIM:231680, MONDO:includedEntryInOMIM
+MONDO:0700074, 'glutaric acidemia IIb', OMIM:231680, MONDO:includedEntryInOMIM
+MONDO:0700076, 'glutaric acidemia IIc', OMIM:231680, MONDO:includedEntryInOMIM
+MONDO:0044871, 'dystonia, focal, task-specific', OMIM:611284, MONDO:equivalentTo
+MONDO:0007233, 'second branchial cleft anomaly', OMIM:113600, MONDO:equivalentTo
+MONDO:0007233, 'second branchial cleft anomaly', OMIM:113600, Orphanet:141022
+MONDO:0007233, 'second branchial cleft anomaly', OMIM:113600, Orphanet:141022/e
+MONDO:0012530, 'palmoplantar keratoderma-XX sex reversal-predisposition to squamous cell carcinoma syndrome', OMIM:610644, MONDO:equivalentTo
+MONDO:0012530, 'palmoplantar keratoderma-XX sex reversal-predisposition to squamous cell carcinoma syndrome', OMIM:610644, Orphanet:85112
+MONDO:0012530, 'palmoplantar keratoderma-XX sex reversal-predisposition to squamous cell carcinoma syndrome', OMIM:610644, Orphanet:85112/e
+MONDO:0005260, 'autism', OMIM:209850, DOID:12849
+MONDO:0005260, 'autism', OMIM:209850, MONDO:equivalentTo
+MONDO:0800416, 'autism, susceptibility to, 1', OMIM:209850, MONDO:includedEntryInOMIM
+MONDO:0018473, 'hyperlipoproteinemia type 3', OMIM:617347, MONDO:equivalentTo
+MONDO:0018473, 'hyperlipoproteinemia type 3', OMIM:617347, Orphanet:412
+MONDO:0800425, 'coronary artery disease, severe, susceptibility to', OMIM:617347, MONDO:includedEntryInOMIM
+MONDO:0008185, 'hereditary chronic pancreatitis', OMIM:167800, GARD:0006632
+MONDO:0008185, 'hereditary chronic pancreatitis', OMIM:167800, MONDO:equivalentTo
+MONDO:0008185, 'hereditary chronic pancreatitis', OMIM:167800, Orphanet:676
+MONDO:0008185, 'hereditary chronic pancreatitis', OMIM:167800, Orphanet:676/e
+MONDO:0030088, 'diabetes mellitus, permanent neonatal 3', OMIM:618857, MONDO:equivalentTo
+MONDO:0800376, 'developmental delay, epilepsy, and neonatal diabetes 2', OMIM:618857, MONDO:includedEntryInOMIM
+MONDO:0013396, 'chromosome 1p32-p31 deletion syndrome', OMIM:613735, DOID:0060409
+MONDO:0013396, 'chromosome 1p32-p31 deletion syndrome', OMIM:613735, MONDO:includedEntryInOMIM
+MONDO:0013396, 'chromosome 1p32-p31 deletion syndrome', OMIM:613735, Orphanet:401986
+MONDO:0013396, 'chromosome 1p32-p31 deletion syndrome', OMIM:613735, Orphanet:401986/e
+MONDO:0100478, 'brain malformations with or without urinary tract defects', OMIM:613735, MONDO:equivalentTo
+MONDO:0009925, 'autosomal recessive inherited pseudoxanthoma elasticum', OMIM:264800, DOID:2738
+MONDO:0009925, 'autosomal recessive inherited pseudoxanthoma elasticum', OMIM:264800, MONDO:equivalentTo
+MONDO:0009925, 'autosomal recessive inherited pseudoxanthoma elasticum', OMIM:264800, Orphanet:758
+MONDO:0009925, 'autosomal recessive inherited pseudoxanthoma elasticum', OMIM:264800, Orphanet:758/e
+MONDO:0010334, 'severe motor and intellectual disabilities-sensorineural deafness-dystonia syndrome', OMIM:300475, MONDO:equivalentTo
+MONDO:0010334, 'severe motor and intellectual disabilities-sensorineural deafness-dystonia syndrome', OMIM:300475, Orphanet:369939
+MONDO:0010334, 'severe motor and intellectual disabilities-sensorineural deafness-dystonia syndrome', OMIM:300475, Orphanet:369939/e
+MONDO:0018247, 'CADDS', OMIM:300475, MONDO:includedEntryInOMIM
+MONDO:0018247, 'CADDS', OMIM:300475, Orphanet:369942
+MONDO:0018247, 'CADDS', OMIM:300475, Orphanet:369942/ntbt
+MONDO:0007655, 'fissured tongue', OMIM:137400, DOID:11514
+MONDO:0007655, 'fissured tongue', OMIM:137400, MONDO:equivalentTo
+MONDO:0019107, 'Rh deficiency syndrome', OMIM:268150, DOID:0050641
+MONDO:0019107, 'Rh deficiency syndrome', OMIM:268150, MONDO:equivalentTo
+MONDO:0019107, 'Rh deficiency syndrome', OMIM:268150, Orphanet:71275
+MONDO:0019107, 'Rh deficiency syndrome', OMIM:268150, Orphanet:71275/ntbt
+MONDO:0009549, 'severe early-childhood-onset retinal dystrophy', OMIM:248200, MONDO:equivalentTo
+MONDO:0007264, 'obsolete sudden cardiac death', OMIM:115080, EFO:0004278
+MONDO:0007264, 'obsolete sudden cardiac death', OMIM:115080, MONDO:includedEntryInOMIM
+MONDO:0100042, 'cardiac conduction defect', OMIM:115080, EFO:0004278
+MONDO:0100042, 'cardiac conduction defect', OMIM:115080, MONDO:equivalentTo
+MONDO:0100117, 'obsolete familial sudden death', OMIM:115080, MONDO:includedEntryInOMIM
+MONDO:0012294, 'obsolete drug metabolism, poor, Cyp2C19-related', OMIM:609535, MONDO:obsoleteEquivalent
+MONDO:0958235, 'Ullrich congenital muscular dystrophy 1B', OMIM:620727, MONDO:equivalentTo
+MONDO:0007079, 'alcohol dependence', OMIM:103780, DOID:0050741
+MONDO:0007079, 'alcohol dependence', OMIM:103780, EFO:0003829
+MONDO:0007079, 'alcohol dependence', OMIM:103780, MONDO:equivalentTo
+MONDO:0008273, 'actinic prurigo', OMIM:174770, MONDO:equivalentTo
+MONDO:0008273, 'actinic prurigo', OMIM:174770, Orphanet:330061
+MONDO:0008273, 'actinic prurigo', OMIM:174770, Orphanet:330061/e
+MONDO:0010707, 'Paine syndrome', OMIM:311400, MONDO:equivalentTo
+MONDO:0007157, 'arthrogryposis, distal, type 1A', OMIM:108120, MONDO:equivalentTo
+MONDO:0800200, 'arthrogryposis, distal, type 2B4', OMIM:108120, MONDO:includedEntryInOMIM
+MONDO:0009020, 'macular corneal dystrophy', OMIM:217800, DOID:2565
+MONDO:0009020, 'macular corneal dystrophy', OMIM:217800, MONDO:equivalentTo
+MONDO:0009020, 'macular corneal dystrophy', OMIM:217800, Orphanet:98969
+MONDO:0009020, 'macular corneal dystrophy', OMIM:217800, Orphanet:98969/e
+MONDO:0007481, 'Leri-Weill dyschondrosteosis', OMIM:127300, DOID:0060847
+MONDO:0007481, 'Leri-Weill dyschondrosteosis', OMIM:127300, GARD:0003224
+MONDO:0007481, 'Leri-Weill dyschondrosteosis', OMIM:127300, MONDO:equivalentTo
+MONDO:0007481, 'Leri-Weill dyschondrosteosis', OMIM:127300, Orphanet:240
+MONDO:0007481, 'Leri-Weill dyschondrosteosis', OMIM:127300, Orphanet:240/e
+MONDO:0016008, 'fetal hydantoin syndrome', OMIM:617955, MONDO:includedEntryInOMIM
+MONDO:0060690, 'phenytoin toxicity', OMIM:617955, MONDO:equivalentTo
+MONDO:0011013, 'autosomal dominant hypocalcemia 1', OMIM:601198, DOID:0090107
+MONDO:0011013, 'autosomal dominant hypocalcemia 1', OMIM:601198, MONDO:equivalentTo
+MONDO:0800268, 'atrioventricular septal defect, susceptibility to, 1', OMIM:606215, MONDO:includedEntryInOMIM
+MONDO:0859565, 'atrioventricular septal defect', OMIM:606215, MONDO:equivalentTo
+MONDO:0010321, 'autism, susceptibility to, X-linked 1', OMIM:300425, MONDO:equivalentTo
+MONDO:0010340, 'Asperger syndrome, X-linked, susceptibility to, 1', OMIM:300425, MONDO:includedEntryInOMIM
+MONDO:0008170, 'ovarian cancer', OMIM:167000, DOID:2394
+MONDO:0008170, 'ovarian cancer', OMIM:167000, MONDO:equivalentTo
+MONDO:0007272, 'hereditary hypercarotenemia and vitamin A deficiency', OMIM:115300, MONDO:equivalentTo
+MONDO:0007272, 'hereditary hypercarotenemia and vitamin A deficiency', OMIM:115300, Orphanet:199285
+MONDO:0007272, 'hereditary hypercarotenemia and vitamin A deficiency', OMIM:115300, Orphanet:199285/e
+MONDO:0008060, 'nonsyndromic congenital nail disorder 1', OMIM:161050, DOID:0080079
+MONDO:0008060, 'nonsyndromic congenital nail disorder 1', OMIM:161050, MONDO:equivalentTo
+MONDO:0008060, 'nonsyndromic congenital nail disorder 1', OMIM:161050, Orphanet:79153
+MONDO:0008060, 'nonsyndromic congenital nail disorder 1', OMIM:161050, Orphanet:79153/e
+MONDO:0010767, 'spermatogenic failure, Y-linked, 2', OMIM:415000, MONDO:equivalentTo
+MONDO:0024507, 'aniridia 1', OMIM:106210, MONDO:equivalentTo
+MONDO:0007329, 'cirrhosis, familial', OMIM:215600, MONDO:equivalentTo
+MONDO:0800422, 'cirrhosis, noncryptogenic, susceptibility to', OMIM:215600, MONDO:includedEntryInOMIM
+MONDO:0013763, 'Joubert syndrome 15', OMIM:614464, DOID:0110984
+MONDO:0013763, 'Joubert syndrome 15', OMIM:614464, MONDO:equivalentTo
+MONDO:0011864, 'immunodeficiency, common variable, 1', OMIM:607594, MONDO:equivalentTo
+MONDO:0015517, 'common variable immunodeficiency', OMIM:607594, DOID:12177
+MONDO:0015517, 'common variable immunodeficiency', OMIM:607594, MONDO:includedEntryInOMIM
+MONDO:0015517, 'common variable immunodeficiency', OMIM:607594, Orphanet:1572
+MONDO:0015517, 'common variable immunodeficiency', OMIM:607594, Orphanet:1572/e
+MONDO:0012039, 'myocardial infarction, susceptibility to', OMIM:608446, MONDO:equivalentTo
+MONDO:0008313, 'pelvic organ prolapse, susceptibility to', OMIM:176780, MONDO:equivalentTo
+MONDO:0800222, 'pelvic organ prolapse, susceptibility to, 1', OMIM:176780, MONDO:includedEntryInOMIM
+MONDO:0010784, 'chloramphenicol toxicity', OMIM:515000, MONDO:equivalentTo
+MONDO:0008272, 'polysyndactyly 4', OMIM:174700, MONDO:equivalentTo
+MONDO:0008272, 'polysyndactyly 4', OMIM:174700, Orphanet:93338
+MONDO:0008272, 'polysyndactyly 4', OMIM:174700, Orphanet:93338/e
+MONDO:0800291, 'crossed polydactyly, type I', OMIM:174700, MONDO:includedEntryInOMIM
+MONDO:0007656, 'Gerstmann-Straussler-Scheinker syndrome', OMIM:137440, DOID:4249
+MONDO:0007656, 'Gerstmann-Straussler-Scheinker syndrome', OMIM:137440, MONDO:equivalentTo
+MONDO:0007656, 'Gerstmann-Straussler-Scheinker syndrome', OMIM:137440, Orphanet:356
+MONDO:0007656, 'Gerstmann-Straussler-Scheinker syndrome', OMIM:137440, Orphanet:356/e
+MONDO:0007719, 'diaphragmatic hernia 1', OMIM:142340, MONDO:equivalentTo
+MONDO:0008560, 'thrombophilia due to activated protein C resistance', OMIM:188055, MONDO:equivalentTo
+MONDO:0014690, 'dyskeratosis congenita, autosomal dominant 6', OMIM:616553, DOID:0070023
+MONDO:0014690, 'dyskeratosis congenita, autosomal dominant 6', OMIM:616553, MONDO:equivalentTo
+MONDO:0800370, 'dyskeratosis congenita, autosomal recessive 7', OMIM:616553, MONDO:includedEntryInOMIM
+MONDO:0011458, 'Leber congenital amaurosis 4', OMIM:604393, DOID:0110332
+MONDO:0011458, 'Leber congenital amaurosis 4', OMIM:604393, MONDO:equivalentTo
+MONDO:0054698, 'proteasome-associated autoinflammatory syndrome 1', OMIM:256040, MONDO:equivalentTo
+MONDO:0011871, 'Niemann-Pick disease type B', OMIM:607616, DOID:0070112
+MONDO:0011871, 'Niemann-Pick disease type B', OMIM:607616, MONDO:equivalentTo
+MONDO:0011871, 'Niemann-Pick disease type B', OMIM:607616, Orphanet:77293
+MONDO:0011871, 'Niemann-Pick disease type B', OMIM:607616, Orphanet:77293/e
+MONDO:0007821, 'obsolete immunoglobulin switch sequences', OMIM:147260, MONDO:obsoleteEquivalent
+MONDO:0011849, 'psoriatic arthritis', OMIM:607507, EFO:0003778
+MONDO:0011849, 'psoriatic arthritis', OMIM:607507, MONDO:relatedTo
+MONDO:0100231, 'psoriatic arthritis, susceptibility to, 1', OMIM:607507, MONDO:includedEntryInOMIM
+MONDO:0100232, 'psoriatic arthritis, susceptibility to', OMIM:607507, MONDO:equivalentTo
+MONDO:0011385, 'intervertebral disk degenerative disorder', OMIM:603932, MONDO:equivalentTo
+MONDO:0100201, 'lumbar disk disease', OMIM:603932, MONDO:includedEntryInOMIM
+MONDO:0100202, 'lumbar disk herniation, susceptibility to', OMIM:603932, MONDO:includedEntryInOMIM
+MONDO:0100206, 'lumbar disk degeneration, susceptibility to', OMIM:603932, MONDO:includedEntryInOMIM
+MONDO:0008093, 'nevus, epidermal', OMIM:162900, DOID:0111162
+MONDO:0008093, 'nevus, epidermal', OMIM:162900, MONDO:equivalentTo
+MONDO:0013521, 'dyskeratosis congenita, autosomal dominant 2', OMIM:613989, DOID:0070016
+MONDO:0013521, 'dyskeratosis congenita, autosomal dominant 2', OMIM:613989, MONDO:equivalentTo
+MONDO:0027353, 'autosomal recessive dyskeratosis congenita 4', OMIM:613989, DOID:0070021
+MONDO:0027353, 'autosomal recessive dyskeratosis congenita 4', OMIM:613989, MONDO:includedEntryInOMIM
+MONDO:0011376, 'ventricular fibrillation, paroxysmal familial, type 1', OMIM:603829, MONDO:equivalentTo
+MONDO:0011376, 'ventricular fibrillation, paroxysmal familial, type 1', OMIM:603829, Orphanet:228140
+MONDO:0011376, 'ventricular fibrillation, paroxysmal familial, type 1', OMIM:603829, Orphanet:228140/e
+MONDO:0800409, 'ventricular fibrillation during myocardial infarction, susceptibility to', OMIM:603829, MONDO:includedEntryInOMIM
+MONDO:0009745, 'neuronal ceroid lipofuscinosis 5', OMIM:256731, DOID:0110728
+MONDO:0009745, 'neuronal ceroid lipofuscinosis 5', OMIM:256731, MONDO:equivalentTo
+MONDO:0009745, 'neuronal ceroid lipofuscinosis 5', OMIM:256731, Orphanet:228360
+MONDO:0009745, 'neuronal ceroid lipofuscinosis 5', OMIM:256731, Orphanet:228360/e
+MONDO:0007417, 'Darier disease', OMIM:124200, DOID:2734
+MONDO:0007417, 'Darier disease', OMIM:124200, MONDO:equivalentTo
+MONDO:0007417, 'Darier disease', OMIM:124200, Orphanet:218
+MONDO:0007417, 'Darier disease', OMIM:124200, Orphanet:218/e
+MONDO:0013948, 'peroxisome biogenesis disorder 10A (Zellweger)', OMIM:614882, MONDO:equivalentTo
+MONDO:0007321, 'autosomal dominant chondrodysplasia punctata', OMIM:118650, DOID:0060293
+MONDO:0007321, 'autosomal dominant chondrodysplasia punctata', OMIM:118650, MONDO:equivalentTo
+MONDO:0007321, 'autosomal dominant chondrodysplasia punctata', OMIM:118650, Orphanet:79344
+MONDO:0007321, 'autosomal dominant chondrodysplasia punctata', OMIM:118650, Orphanet:79344/e
+MONDO:0012148, 'obsolete drug metabolism, poor, CYP2D6-related', OMIM:608902, MONDO:obsoleteEquivalent
+MONDO:0008333, 'pseudoxanthoma elasticum, forme fruste', OMIM:177850, MONDO:equivalentTo
+MONDO:0008512, 'syndactyly type 1', OMIM:185900, MONDO:equivalentTo
+MONDO:0008512, 'syndactyly type 1', OMIM:185900, Orphanet:93402
+MONDO:0008512, 'syndactyly type 1', OMIM:185900, Orphanet:93402/e
+MONDO:0012081, '15q11q13 microduplication syndrome', OMIM:608636, MONDO:equivalentTo
+MONDO:0012081, '15q11q13 microduplication syndrome', OMIM:608636, Orphanet:238446
+MONDO:0012081, '15q11q13 microduplication syndrome', OMIM:608636, Orphanet:238446/e
+MONDO:0800417, 'autism, susceptibility to, 4', OMIM:608636, MONDO:includedEntryInOMIM
+MONDO:0008498, 'strabismus, susceptibility to', OMIM:185100, MONDO:equivalentTo
+MONDO:0800226, 'strabismus, susceptibility to, 1', OMIM:185100, MONDO:includedEntryInOMIM
+MONDO:0009757, 'Niemann-Pick disease, type C1', OMIM:257220, DOID:0070113
+MONDO:0009757, 'Niemann-Pick disease, type C1', OMIM:257220, MONDO:equivalentTo
+MONDO:0009412, 'scurvy', OMIM:240400, DOID:13724
+MONDO:0009412, 'scurvy', OMIM:240400, MONDO:equivalentTo
+MONDO:0011851, 'migraine with or without aura, susceptibility to, 6', OMIM:607516, MONDO:equivalentTo
+MONDO:0800335, 'migraine, familial hemiplegic, 4', OMIM:607516, MONDO:includedEntryInOMIM
+MONDO:0010565, 'red color blindness', OMIM:303900, DOID:13910
+MONDO:0010565, 'red color blindness', OMIM:303900, MONDO:equivalentTo
+MONDO:0012419, 'age related macular degeneration 7', OMIM:610149, DOID:0110019
+MONDO:0012419, 'age related macular degeneration 7', OMIM:610149, MONDO:equivalentTo
+MONDO:0009517, 'Donohue syndrome', OMIM:246200, DOID:0050470
+MONDO:0009517, 'Donohue syndrome', OMIM:246200, MONDO:equivalentTo
+MONDO:0009517, 'Donohue syndrome', OMIM:246200, Orphanet:508
+MONDO:0009517, 'Donohue syndrome', OMIM:246200, Orphanet:508/e
+MONDO:0010268, 'X-linked lissencephaly with abnormal genitalia', OMIM:300215, MONDO:equivalentTo
+MONDO:0010268, 'X-linked lissencephaly with abnormal genitalia', OMIM:300215, Orphanet:452
+MONDO:0010268, 'X-linked lissencephaly with abnormal genitalia', OMIM:300215, Orphanet:452/e
+MONDO:0020756, 'migraine, familial hemiplegic, 1', OMIM:141500, MONDO:equivalentTo
+MONDO:0009276, 'Bernard-Soulier syndrome', OMIM:231200, DOID:2217
+MONDO:0009276, 'Bernard-Soulier syndrome', OMIM:231200, MONDO:equivalentTo
+MONDO:0009276, 'Bernard-Soulier syndrome', OMIM:231200, Orphanet:274
+MONDO:0009276, 'Bernard-Soulier syndrome', OMIM:231200, Orphanet:274/e
+MONDO:0010252, 'intellectual disability, X-linked, with panhypopituitarism', OMIM:300123, MONDO:equivalentTo
+MONDO:0010006, 'Sandhoff disease', OMIM:268800, DOID:3323
+MONDO:0010006, 'Sandhoff disease', OMIM:268800, MONDO:equivalentTo
+MONDO:0010006, 'Sandhoff disease', OMIM:268800, Orphanet:796
+MONDO:0010006, 'Sandhoff disease', OMIM:268800, Orphanet:796/e
+MONDO:0011818, 'isolated focal cortical dysplasia type II', OMIM:607341, GARD:0010190
+MONDO:0011818, 'isolated focal cortical dysplasia type II', OMIM:607341, MONDO:equivalentTo
+MONDO:0011818, 'isolated focal cortical dysplasia type II', OMIM:607341, Orphanet:268994
+MONDO:0011818, 'isolated focal cortical dysplasia type II', OMIM:607341, Orphanet:268994/e
+MONDO:0013470, 'generalized epilepsy with febrile seizures plus, type 7', OMIM:613863, MONDO:equivalentTo
+MONDO:0800354, 'febrile seizures, familial, 3b', OMIM:613863, MONDO:includedEntryInOMIM
+MONDO:0013103, 'epilepsy, idiopathic generalized, susceptibility to, 10', OMIM:613060, MONDO:equivalentTo
+MONDO:0010734, 'spatial visualization, aptitude for', OMIM:313000, MONDO:equivalentTo
+MONDO:0011916, 'Charcot-Marie-Tooth disease axonal type 2K', OMIM:607831, DOID:0110167
+MONDO:0011916, 'Charcot-Marie-Tooth disease axonal type 2K', OMIM:607831, MONDO:equivalentTo
+MONDO:0011916, 'Charcot-Marie-Tooth disease axonal type 2K', OMIM:607831, Orphanet:101097
+MONDO:0011916, 'Charcot-Marie-Tooth disease axonal type 2K', OMIM:607831, Orphanet:101097/btnt
+MONDO:0008659, 'transcobalamin I deficiency', OMIM:193090, MONDO:equivalentTo
+MONDO:0008659, 'transcobalamin I deficiency', OMIM:193090, Orphanet:2967
+MONDO:0008659, 'transcobalamin I deficiency', OMIM:193090, Orphanet:2967/e
+MONDO:0013658, 'intellectual disability, autosomal dominant 11', OMIM:614257, DOID:0070041
+MONDO:0013658, 'intellectual disability, autosomal dominant 11', OMIM:614257, MONDO:equivalentTo
+MONDO:0033004, 'polycystic kidney disease 4', OMIM:263200, DOID:0080212
+MONDO:0033004, 'polycystic kidney disease 4', OMIM:263200, MONDO:equivalentTo
+MONDO:0009960, 'inflammatory bowel disease 1', OMIM:266600, DOID:0110892
+MONDO:0009960, 'inflammatory bowel disease 1', OMIM:266600, MONDO:equivalentTo
+MONDO:0011232, 'migraine, familial hemiplegic, 2', OMIM:602481, MONDO:equivalentTo
+MONDO:0007042, 'Saethre-Chotzen syndrome', OMIM:101400, DOID:14768
+MONDO:0007042, 'Saethre-Chotzen syndrome', OMIM:101400, MONDO:equivalentTo
+MONDO:0007042, 'Saethre-Chotzen syndrome', OMIM:101400, Orphanet:794
+MONDO:0007042, 'Saethre-Chotzen syndrome', OMIM:101400, Orphanet:794/e
+MONDO:0012790, 'amyotrophic lateral sclerosis type 10', OMIM:612069, DOID:0060201
+MONDO:0012790, 'amyotrophic lateral sclerosis type 10', OMIM:612069, MONDO:equivalentTo
+MONDO:0800187, 'immunodeficiency 83, susceptibility to viral infections', OMIM:613002, MONDO:equivalentTo
+MONDO:0009215, 'Fanconi anemia complementation group A', OMIM:227650, DOID:0111095
+MONDO:0009215, 'Fanconi anemia complementation group A', OMIM:227650, MONDO:equivalentTo
+MONDO:0010589, 'Aarskog-Scott syndrome, X-linked', OMIM:305400, MONDO:equivalentTo
+MONDO:0010589, 'Aarskog-Scott syndrome, X-linked', OMIM:305400, Orphanet:915
+MONDO:0011842, 'GRN-related frontotemporal lobar degeneration with Tdp43 inclusions', OMIM:607485, DOID:0060672
+MONDO:0011842, 'GRN-related frontotemporal lobar degeneration with Tdp43 inclusions', OMIM:607485, MONDO:equivalentTo
+MONDO:0019806, 'primary progressive aphasia', OMIM:607485, MONDO:includedEntryInOMIM
+MONDO:0100288, 'enhanced S-cone syndrome', OMIM:268100, DOID:0090059
+MONDO:0100288, 'enhanced S-cone syndrome', OMIM:268100, MONDO:equivalentTo
+MONDO:0100288, 'enhanced S-cone syndrome', OMIM:268100, Orphanet:53540
+MONDO:0100288, 'enhanced S-cone syndrome', OMIM:268100, Orphanet:53540/e
+MONDO:0007704, 'osteoarthritis susceptibility 2', OMIM:140600, MONDO:equivalentTo
+MONDO:0010763, 'spermatogenic failure, Y-linked, 1', OMIM:400042, MONDO:equivalentTo
+MONDO:0020790, 'gaze palsy, familial horizontal, with progressive scoliosis 1', OMIM:607313, MONDO:equivalentTo
+MONDO:0013662, 'Barrett esophagus', OMIM:614266, DOID:9206
+MONDO:0013662, 'Barrett esophagus', OMIM:614266, EFO:0000280
+MONDO:0013662, 'Barrett esophagus', OMIM:614266, MONDO:equivalentTo
+MONDO:0008296, 'familial porphyria cutanea tarda', OMIM:176100, MONDO:equivalentTo
+MONDO:0008296, 'familial porphyria cutanea tarda', OMIM:176100, Orphanet:443062
+MONDO:0008296, 'familial porphyria cutanea tarda', OMIM:176100, Orphanet:443062/e
+MONDO:0019799, 'hepatoerythropoietic porphyria', OMIM:176100, MONDO:includedEntryInOMIM
+MONDO:0019799, 'hepatoerythropoietic porphyria', OMIM:176100, Orphanet:95159
+MONDO:0019799, 'hepatoerythropoietic porphyria', OMIM:176100, Orphanet:95159/ntbt
+MONDO:0010947, 'Budd-Chiari syndrome', OMIM:600880, MONDO:equivalentTo
+MONDO:0010947, 'Budd-Chiari syndrome', OMIM:600880, Orphanet:131
+MONDO:0010947, 'Budd-Chiari syndrome', OMIM:600880, Orphanet:131/e
+MONDO:0800322, 'membranous obstruction of inferior vena cava', OMIM:600880, MONDO:includedEntryInOMIM
+MONDO:0010216, 'xeroderma pigmentosum group G', OMIM:278780, DOID:0110849
+MONDO:0010216, 'xeroderma pigmentosum group G', OMIM:278780, MONDO:equivalentTo
+MONDO:0800314, 'xeroderma pigmentosum, type G/Cockayne syndrome', OMIM:278780, MONDO:includedEntryInOMIM
+MONDO:0054581, 'Townes-Brocks syndrome 1', OMIM:107480, MONDO:equivalentTo
+MONDO:0009923, '46,XY disorder of sex development due to 5-alpha-reductase 2 deficiency', OMIM:264600, MONDO:equivalentTo
+MONDO:0009923, '46,XY disorder of sex development due to 5-alpha-reductase 2 deficiency', OMIM:264600, Orphanet:753
+MONDO:0009923, '46,XY disorder of sex development due to 5-alpha-reductase 2 deficiency', OMIM:264600, Orphanet:753/e
+MONDO:0009383, 'transient familial neonatal hyperbilirubinemia', OMIM:237900, MONDO:equivalentTo
+MONDO:0009383, 'transient familial neonatal hyperbilirubinemia', OMIM:237900, Orphanet:2312
+MONDO:0009383, 'transient familial neonatal hyperbilirubinemia', OMIM:237900, Orphanet:2312/e
+MONDO:0100316, 'long QT syndrome 1', OMIM:192500, DOID:0110644
+MONDO:0100316, 'long QT syndrome 1', OMIM:192500, MONDO:equivalentTo
+MONDO:0100316, 'long QT syndrome 1', OMIM:192500, Orphanet:101016
+MONDO:0100316, 'long QT syndrome 1', OMIM:192500, Orphanet:101016/e
+MONDO:0013336, 'chromosome 19p13.13 deletion syndrome', OMIM:613638, DOID:0060426
+MONDO:0013336, 'chromosome 19p13.13 deletion syndrome', OMIM:613638, MONDO:equivalentTo
+MONDO:0013336, 'chromosome 19p13.13 deletion syndrome', OMIM:613638, Orphanet:357001
+MONDO:0013336, 'chromosome 19p13.13 deletion syndrome', OMIM:613638, Orphanet:357001/e
+MONDO:0008266, 'polydactyly, postaxial, type A1', OMIM:174200, MONDO:equivalentTo
+MONDO:0019674, 'postaxial polydactyly type B', OMIM:174200, MONDO:includedEntryInOMIM
+MONDO:0019674, 'postaxial polydactyly type B', OMIM:174200, Orphanet:93335
+MONDO:0019674, 'postaxial polydactyly type B', OMIM:174200, Orphanet:93335/ntbt
+MONDO:0012414, 'neuronal ceroid lipofuscinosis 10', OMIM:610127, DOID:0110725
+MONDO:0012414, 'neuronal ceroid lipofuscinosis 10', OMIM:610127, MONDO:equivalentTo
+MONDO:0012414, 'neuronal ceroid lipofuscinosis 10', OMIM:610127, Orphanet:228337
+MONDO:0012414, 'neuronal ceroid lipofuscinosis 10', OMIM:610127, Orphanet:228337/e
+MONDO:0011225, 'severe combined immunodeficiency due to DCLRE1C deficiency', OMIM:602450, DOID:0090012
+MONDO:0011225, 'severe combined immunodeficiency due to DCLRE1C deficiency', OMIM:602450, MONDO:equivalentTo
+MONDO:0011225, 'severe combined immunodeficiency due to DCLRE1C deficiency', OMIM:602450, Orphanet:275
+MONDO:0011225, 'severe combined immunodeficiency due to DCLRE1C deficiency', OMIM:602450, Orphanet:275/ntbt
+MONDO:0011225, 'severe combined immunodeficiency due to DCLRE1C deficiency', OMIM:602450, https://orcid.org/0000-0002-6601-2165
+MONDO:0012140, 'obsolete pulmonary function', OMIM:608852, MONDO:obsoleteEquivalent
+MONDO:0007116, 'hereditary neurocutaneous angioma', OMIM:106070, MONDO:equivalentTo
+MONDO:0007116, 'hereditary neurocutaneous angioma', OMIM:106070, Orphanet:1062
+MONDO:0007116, 'hereditary neurocutaneous angioma', OMIM:106070, Orphanet:1062/e
+MONDO:0008990, 'cleft larynx, posterior', OMIM:215800, GARD:0004015
+MONDO:0008990, 'cleft larynx, posterior', OMIM:215800, MONDO:equivalentTo
+MONDO:0054699, 'proteasome-associated autoinflammatory syndrome 3', OMIM:617591, MONDO:equivalentTo
+MONDO:0008224, 'hyperkalemic periodic paralysis', OMIM:170500, DOID:14451
+MONDO:0008224, 'hyperkalemic periodic paralysis', OMIM:170500, GARD:0000195
+MONDO:0008224, 'hyperkalemic periodic paralysis', OMIM:170500, MONDO:equivalentTo
+MONDO:0008224, 'hyperkalemic periodic paralysis', OMIM:170500, Orphanet:682
+MONDO:0008224, 'hyperkalemic periodic paralysis', OMIM:170500, Orphanet:682/e
