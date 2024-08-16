@@ -1,0 +1,38 @@
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX oboInOwl: <http://www.geneontology.org/formats/oboInOwl#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX mondo: <http://purl.obolibrary.org/obo/mondo#>
+PREFIX obo: <http://purl.obolibrary.org/obo/>
+
+SELECT DISTINCT ?curie ?label ?synonym ?synonymScopeName ?synonymType ?synonymSourceFixed WHERE {
+    ?class a owl:Class ;
+           rdfs:label ?label .
+    
+    ?class ?synonymScope ?synonym .
+    
+    OPTIONAL {
+        ?axiom a owl:Axiom ;
+               owl:annotatedSource ?class ;
+               owl:annotatedProperty ?synonymScope ;
+               owl:annotatedTarget ?synonym ;
+               oboInOwl:hasSynonymType ?synonymType .
+    }
+    
+    OPTIONAL {
+        ?axiom a owl:Axiom ;
+               owl:annotatedSource ?class ;
+               owl:annotatedProperty ?synonymScope ;
+               owl:annotatedTarget ?synonym ;
+               oboInOwl:hasDbXref ?synonymSource .
+    }
+
+    FILTER(?synonymScope IN (oboInOwl:hasExactSynonym, oboInOwl:hasBroadSynonym, oboInOwl:hasNarrowSynonym, oboInOwl:hasRelatedSynonym))
+    
+    # Use a new variable ?synonymSourceFixed to avoid the in-scope variable issue
+    BIND(COALESCE(?synonymSource, "No Source") AS ?synonymSourceFixed)
+    
+    BIND(REPLACE(STR(?class), "http://purl.obolibrary.org/obo/MONDO_", "MONDO:") AS ?curie)
+    BIND(STRAFTER(STR(?synonymScope), "#") AS ?synonymScopeName)
+    
+}
+ORDER BY ?curie
