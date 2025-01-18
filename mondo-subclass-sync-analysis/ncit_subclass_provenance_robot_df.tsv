@@ -1,0 +1,820 @@
+mondoIRI	mondoLabel	parentClass	ncitSource	ncitSource2
+ID		SC %	>A oboInOwl:source	
+MONDO:0000087	polymicrogyria	MONDO:0002320	MONDO:notVerified	NCIT:C116936
+MONDO:0000334	multinodular goiter	MONDO:0006869	MONDO:notVerified	NCIT:C131438
+MONDO:0000390	vitelliform macular dystrophy	MONDO:0020242	MONDO:notVerified	NCIT:C118788
+MONDO:0000410	funisitis	MONDO:0024575	MONDO:notVerified	NCIT:C97077
+MONDO:0000502	villous adenoma	MONDO:0024276	MONDO:notVerified	NCIT:C7399
+MONDO:0000577	congenital anemia	MONDO:0009332	MONDO:notVerified	NCIT:C35228
+MONDO:0000607	primary cutaneous T-cell non-Hodgkin lymphoma	MONDO:0018898	MONDO:notVerified	NCIT:C3467
+MONDO:0000939	intracranial abscess	MONDO:0005227	MONDO:notVerified	NCIT:C34734
+MONDO:0001036	hypopyon	MONDO:0043885	MONDO:notVerified	NCIT:C50593
+MONDO:0001068	osteomalacia	MONDO:0800486	MONDO:notVerified	NCIT:C26838
+MONDO:0001074	chronic tic disorder	MONDO:0005395	MONDO:notVerified	NCIT:C116768
+MONDO:0001083	Fanconi renotubular syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C3034
+MONDO:0001147	meningocele	MONDO:0002320	MONDO:notVerified	NCIT:C105595
+MONDO:0001168	spastic hemiplegia	MONDO:0006497	MONDO:notVerified	NCIT:C116905
+MONDO:0001180	bullous keratopathy	MONDO:0002261	MONDO:notVerified	NCIT:C26970
+MONDO:0001204	esophagus sarcoma	MONDO:0018078	MONDO:notVerified	NCIT:C5341
+MONDO:0001222	congenital T-cell immunodeficiency	MONDO:0003780	MONDO:notVerified	NCIT:C27872
+MONDO:0001222	congenital T-cell immunodeficiency	MONDO:0003847	MONDO:notVerified	NCIT:C27872
+MONDO:0001224	Angelucci syndrome	MONDO:0001214	MONDO:notVerified	NCIT:C34353
+MONDO:0001279	intraspinal meningioma	MONDO:0016642	MONDO:notVerified	NCIT:C5134/inferred
+MONDO:0001298	congenital mitral valve insufficiency	MONDO:1030008	MONDO:notVerified	NCIT:C197881
+MONDO:0001307	corneal abscess	MONDO:0005227	MONDO:notVerified	NCIT:C26969
+MONDO:0001314	chondrocalcinosis	MONDO:0005066	MONDO:notVerified	NCIT:C34955
+MONDO:0001314	chondrocalcinosis	MONDO:0800486	MONDO:notVerified	NCIT:C34955
+MONDO:0001356	iron deficiency anemia	MONDO:0001357	MONDO:notVerified	NCIT:C84484
+MONDO:0001382	hepatorenal syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C113400
+MONDO:0001386	visual epilepsy	MONDO:0017768	MONDO:notVerified	NCIT:C3980
+MONDO:0001479	cutaneous diphtheria	MONDO:0021201	MONDO:notVerified	NCIT:C34544
+MONDO:0001490	corneal granular dystrophy	MONDO:0003847	MONDO:notVerified	NCIT:C34651
+MONDO:0001549	hemolytic-uremic syndrome	MONDO:0001531	MONDO:notVerified	NCIT:C75545
+MONDO:0001558	Potter sequence	MONDO:0002254	MONDO:notVerified	NCIT:C40435
+MONDO:0001564	binocular vision disease	MONDO:0021084	MONDO:notVerified	NCIT:C34422/inferred
+MONDO:0001568	mixed receptive-expressive language disorder	MONDO:0004750	MONDO:notVerified	NCIT:C92563
+MONDO:0001576	telangiectasis	MONDO:0021658	MONDO:notVerified	NCIT:C28194
+MONDO:0001577	respiratory syncytial virus infectious disease	MONDO:0024352	MONDO:notVerified	NCIT:C3354
+MONDO:0001621	tick-borne relapsing fever	MONDO:0006956	MONDO:notVerified	NCIT:C34976
+MONDO:0001635	bladder squamous papilloma	MONDO:0001825	MONDO:notVerified	NCIT:C39834
+MONDO:0001648	esophageal candidiasis	MONDO:0001649	MONDO:notVerified	NCIT:C27027
+MONDO:0001754	eclampsia	MONDO:0045048	MONDO:notVerified	NCIT:C87167
+MONDO:0001758	paranasal sinus sarcoma	MONDO:0018078	MONDO:notVerified	NCIT:C6849
+MONDO:0001794	Pthirus pubis infestation	MONDO:0021201	MONDO:notVerified	NCIT:C35777
+MONDO:0001823	sick sinus syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C62244
+MONDO:0001824	polyneuropathy	MONDO:0005244	MONDO:notVerified	NCIT:C26951
+MONDO:0001834	visual pathway disorder	MONDO:0021084	MONDO:notVerified	NCIT:C35342
+MONDO:0001881	toxic shock syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C35498
+MONDO:0001901	selective IgG subclass deficiency	MONDO:0045045	MONDO:notVerified	NCIT:C27024
+MONDO:0001922	pyoureter	MONDO:0005227	MONDO:notVerified	NCIT:C35666
+MONDO:0001956	capillary leak syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C62578
+MONDO:0001979	dumping syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C2994
+MONDO:0002083	Richter syndrome	MONDO:0021058	MONDO:notVerified	NCIT:C35424
+MONDO:0002117	pancreas sarcoma	MONDO:0018078	MONDO:notVerified	NCIT:C5715
+MONDO:0002205	vulvar melanoma	MONDO:0006320	MONDO:notVerified	NCIT:C40329
+MONDO:0002211	B cell deficiency	MONDO:0021094	MONDO:notVerified	NCIT:C4799
+MONDO:0002291	cutaneous granular cell tumor	MONDO:0002300	MONDO:notVerified	NCIT:C5617
+MONDO:0002341	granulomatous angiitis	MONDO:0043494	MONDO:notVerified	NCIT:C34653
+MONDO:0002356	pancreas disorder	MONDO:0004335	MONDO:notVerified	NCIT:C26842
+MONDO:0002386	mixed epithelial stromal tumor of the kidney	MONDO:0021043	MONDO:notVerified	NCIT:C37263
+MONDO:0002388	intracystic papillary adenoma	MONDO:0021097	MONDO:notVerified	NCIT:C4191
+MONDO:0002397	liver sarcoma	MONDO:0018078	MONDO:notVerified	NCIT:C4437
+MONDO:0002419	transient tic disorder	MONDO:0005395	MONDO:notVerified	NCIT:C116767
+MONDO:0002423	rectosigmoid junction neoplasm	MONDO:0005335	MONDO:notVerified	NCIT:C4877
+MONDO:0002442	long QT syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C34786
+MONDO:0002448	laryngeal sarcoma	MONDO:0018078	MONDO:notVerified	NCIT:C6020
+MONDO:0002468	hyperimmunoglobulin syndrome	MONDO:0003847	MONDO:notVerified	NCIT:C27579
+MONDO:0002480	endometrioid tumor	MONDO:0021148	MONDO:notVerified	NCIT:C7113
+MONDO:0002481	ovarian neuroendocrine neoplasm	MONDO:0021068	MONDO:notVerified	NCIT:C5237
+MONDO:0002509	non-specific granulomatous orchitis	MONDO:0006882	MONDO:notVerified	NCIT:C27162
+MONDO:0002527	keratoacanthoma	MONDO:0021634	MONDO:notVerified	NCIT:C3146
+MONDO:0002572	aspiration pneumonitis	MONDO:0043905	MONDO:notVerified	NCIT:C34932
+MONDO:0002598	germinoma	MONDO:0006290	MONDO:notVerified	NCIT:C3753
+MONDO:0002676	adult fibrosarcoma	MONDO:0002677	MONDO:notVerified	NCIT:C7809
+MONDO:0002678	pediatric fibrosarcoma	MONDO:0006517	MONDO:notVerified	NCIT:C8088
+MONDO:0002682	cerebral ventricle cancer	MONDO:0021211	MONDO:notVerified	NCIT:C2937
+MONDO:0002691	liver cancer	MONDO:0024477	MONDO:notVerified	NCIT:C34803
+MONDO:0002707	breast mucinous carcinoma	MONDO:0005590	MONDO:notVerified	NCIT:C9131
+MONDO:0002717	spinal cord intramedullary teratoma	MONDO:0021506	MONDO:notVerified	NCIT:C5428
+MONDO:0002840	eosinophilic gastritis	MONDO:0016129	MONDO:notVerified	NCIT:C27052
+MONDO:0002855	ectomesenchymoma	MONDO:0005089	MONDO:notVerified	NCIT:C4716/inferred
+MONDO:0002865	anus sarcoma	MONDO:0018078	MONDO:notVerified	NCIT:C5611
+MONDO:0002871	testicular trophoblastic tumor	MONDO:0002874	MONDO:notVerified	NCIT:C39934
+MONDO:0002957	sarcomatoid basal cell carcinoma	MONDO:0006406	MONDO:notVerified	NCIT:C38111
+MONDO:0002988	cervix melanoma	MONDO:0000544	MONDO:notVerified	NCIT:C40239
+MONDO:0002991	adenocarcinofibroma	MONDO:0001416	MONDO:notVerified	NCIT:C40035
+MONDO:0003002	dysgerminoma	MONDO:0006290	MONDO:notVerified	NCIT:C2996
+MONDO:0003012	sarcomatoid renal cell carcinoma	MONDO:0005549	MONDO:notVerified	NCIT:C27893
+MONDO:0003019	potassium deficiency disease	MONDO:0005137	MONDO:notVerified	NCIT:C34939
+MONDO:0003031	endometrioid stromal and related neoplasms of the cervix	MONDO:0021148	MONDO:notVerified	NCIT:C40218/inferred
+MONDO:0003036	mucoepidermoid carcinoma	MONDO:0020596	MONDO:notVerified	NCIT:C3772
+MONDO:0003051	non specific chronic endometritis	MONDO:0024279	MONDO:notVerified	NCIT:C27625
+MONDO:0003052	granulomatous endometritis	MONDO:0024279	MONDO:notVerified	NCIT:C27626
+MONDO:0003084	uremic neuropathy	MONDO:0005244	MONDO:notVerified	NCIT:C27055
+MONDO:0003089	extrahepatic bile duct mucoepidermoid carcinoma	MONDO:0003090	MONDO:notVerified	NCIT:C5862
+MONDO:0003168	cerebellar pilocytic astrocytoma	MONDO:0021499	MONDO:notVerified	NCIT:C6809
+MONDO:0003208	breast secretory carcinoma	MONDO:0005590	MONDO:notVerified	NCIT:C4189
+MONDO:0003208	breast secretory carcinoma	MONDO:0006256	MONDO:notVerified	NCIT:C4189
+MONDO:0003219	gastroesophageal junction adenocarcinoma	MONDO:0006181	MONDO:notVerified	NCIT:C9296
+MONDO:0003268	mixed glioma	MONDO:0021042	MONDO:notVerified	NCIT:C3903/inferred
+MONDO:0003299	colorectal leiomyoma	MONDO:0005335	MONDO:notVerified	NCIT:C5677/inferred
+MONDO:0003334	demyelinating polyneuropathy	MONDO:0002562	MONDO:notVerified	NCIT:C27062
+MONDO:0003336	acute necrotizing encephalitis	MONDO:0006009	MONDO:notVerified	NCIT:C35383
+MONDO:0003337	acute hemorrhagic encephalitis	MONDO:0006009	MONDO:notVerified	NCIT:C35796
+MONDO:0003361	small intestinal sarcoma	MONDO:0018078	MONDO:notVerified	NCIT:C5335
+MONDO:0003390	glycogen-rich clear cell breast carcinoma	MONDO:0005590	MONDO:notVerified	NCIT:C40368
+MONDO:0003390	glycogen-rich clear cell breast carcinoma	MONDO:0006256	MONDO:notVerified	NCIT:C40368
+MONDO:0003399	pineal region yolk sac tumor	MONDO:0003578	MONDO:notVerified	NCIT:C6752
+MONDO:0003453	conjunctival intraepithelial neoplasm	MONDO:0020204	MONDO:notVerified	NCIT:C6120
+MONDO:0003499	sarcomatoid squamous cell skin carcinoma	MONDO:0005056	MONDO:notVerified	NCIT:C4666
+MONDO:0003504	anal canal neuroendocrine neoplasm	MONDO:0024503	MONDO:notVerified	NCIT:C5603
+MONDO:0003522	male orgasm disorder	MONDO:0000595	MONDO:notVerified	NCIT:C34959
+MONDO:0003532	breast papillary carcinoma	MONDO:0005590	MONDO:notVerified	NCIT:C9134
+MONDO:0003557	optic nerve sheath meningioma	MONDO:0016642	MONDO:notVerified	NCIT:C4538/inferred
+MONDO:0003575	comedocarcinoma	MONDO:0004993	MONDO:notVerified	NCIT:C4188
+MONDO:0003578	extragonadal nonseminomatous germ cell tumor	MONDO:0021656	MONDO:notVerified	NCIT:C8885
+MONDO:0003584	visual cortex disorder	MONDO:0021084	MONDO:notVerified	NCIT:C35275
+MONDO:0003587	pediatric liposarcoma	MONDO:0006517	MONDO:notVerified	NCIT:C8091
+MONDO:0003595	sclerosing liposarcoma	MONDO:0005103	MONDO:notVerified	NCIT:C6507
+MONDO:0003596	spindle cell liposarcoma	MONDO:0005103	MONDO:notVerified	NCIT:C27489
+MONDO:0003603	non-functioning pituitary gland neoplasm	MONDO:0003381	MONDO:notVerified	NCIT:C4009/inferred
+MONDO:0003615	nerve compression syndrome	MONDO:0005244	MONDO:notVerified	NCIT:C27221
+MONDO:0003624	acinic cell breast carcinoma	MONDO:0005590	MONDO:notVerified	NCIT:C40367
+MONDO:0003624	acinic cell breast carcinoma	MONDO:0006256	MONDO:notVerified	NCIT:C40367
+MONDO:0003635	sebaceous breast carcinoma	MONDO:0006256	MONDO:notVerified	NCIT:C40369
+MONDO:0003640	verruciform xanthoma of skin	MONDO:0005236	MONDO:notVerified	NCIT:C4478
+MONDO:0003688	well differentiated papillary mesothelioma	MONDO:0005065	MONDO:notVerified	NCIT:C7635
+MONDO:0003704	uterine corpus diffuse leiomyomatosis	MONDO:0021525	MONDO:notVerified	NCIT:C40170
+MONDO:0003708	extrahepatic bile duct small cell adenocarcinoma	MONDO:0000402	MONDO:notVerified	NCIT:C5845
+MONDO:0003723	blunt duct adenosis of breast	MONDO:0003724	MONDO:notVerified	NCIT:C6941
+MONDO:0003726	apocrine adenosis of breast	MONDO:0003725	MONDO:notVerified	NCIT:C5198
+MONDO:0003754	Brown-Sequard syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C84601
+MONDO:0003761	leptomeningeal melanoma	MONDO:0005105	MONDO:notVerified	NCIT:C5317/inferred
+MONDO:0003761	leptomeningeal melanoma	MONDO:0021322	MONDO:notVerified	NCIT:C5317/inferred
+MONDO:0003780	T-cell immunodeficiency	MONDO:0021094	MONDO:notVerified	NCIT:C27145
+MONDO:0003811	ovarian seromucinous tumor	MONDO:0021043	MONDO:notVerified	NCIT:C4508
+MONDO:0003822	non-invasive bladder papillary urothelial neoplasm	MONDO:0003755	MONDO:notVerified	NCIT:C39831
+MONDO:0003827	transient hypogammaglobulinemia	MONDO:0016463	MONDO:notVerified	NCIT:C27319
+MONDO:0003832	complement deficiency	MONDO:0021094	MONDO:notVerified	NCIT:C4691
+MONDO:0003934	breast apocrine carcinoma	MONDO:0005590	MONDO:notVerified	NCIT:C5141
+MONDO:0003935	oncocytic breast carcinoma	MONDO:0006256	MONDO:notVerified	NCIT:C40366
+MONDO:0003936	invasive tubular breast carcinoma	MONDO:0005590	MONDO:notVerified	NCIT:C9135
+MONDO:0003936	invasive tubular breast carcinoma	MONDO:0006256	MONDO:notVerified	NCIT:C9135
+MONDO:0003959	breast large cell neuroendocrine carcinoma	MONDO:0006256	MONDO:notVerified	NCIT:C40356
+MONDO:0003962	Froelich syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C34625
+MONDO:0003965	Capgras syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C34446
+MONDO:0004001	compartment syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C118422
+MONDO:0004026	skin tag	MONDO:0060765	MONDO:notVerified	NCIT:C3374
+MONDO:0004045	pediatric intraocular retinoblastoma	MONDO:0006517	MONDO:notVerified	NCIT:C9047
+MONDO:0004131	anal verrucous carcinoma	MONDO:0006006	MONDO:notVerified	NCIT:C7470
+MONDO:0004158	pancreatic mucinous-cystic neoplasm with an associated invasive carcinoma	MONDO:0005858	MONDO:notVerified	NCIT:C41246
+MONDO:0004230	adenomatoid tumor	MONDO:0005065	MONDO:notVerified	NCIT:C3762
+MONDO:0004248	pediatric infratentorial ependymoma	MONDO:0020685	MONDO:notVerified	NCIT:C9041
+MONDO:0004249	pediatric supratentorial ependymoma	MONDO:0020687	MONDO:notVerified	NCIT:C9043
+MONDO:0004255	Wolffian adnexal tumor	MONDO:0021629	MONDO:notVerified	NCIT:C40141
+MONDO:0004278	infiltrating bladder urothelial carcinoma sarcomatoid variant	MONDO:0002837	MONDO:notVerified	NCIT:C39824
+MONDO:0004299	infiltrating bladder lymphoepithelioma-like carcinoma	MONDO:0003572	MONDO:notVerified	NCIT:C39821
+MONDO:0004306	childhood intracortical osteosarcoma	MONDO:0002623	MONDO:notVerified	NCIT:C6590
+MONDO:0004345	childhood malignant schwannoma	MONDO:0006517	MONDO:notVerified	NCIT:C8094
+MONDO:0004350	pediatric extraocular retinoblastoma	MONDO:0006517	MONDO:notVerified	NCIT:C9048
+MONDO:0004387	luteoma of pregnancy	MONDO:0024575	MONDO:notVerified	NCIT:C40445
+MONDO:0004447	pituitary stalk meningioma	MONDO:0002997	MONDO:notVerified	NCIT:C5311
+MONDO:0004461	vaginal tubulovillous adenoma	MONDO:0024661	MONDO:notVerified	NCIT:C40258
+MONDO:0004510	inflammatory liposarcoma	MONDO:0005103	MONDO:notVerified	NCIT:C6508
+MONDO:0004525	scabies	MONDO:0021201	MONDO:notVerified	NCIT:C34998
+MONDO:0004557	congenital fibrosarcoma	MONDO:0002677	MONDO:notVerified	NCIT:C4244
+MONDO:0004568	paralytic ileus	MONDO:0004567	MONDO:notVerified	NCIT:C93045
+MONDO:0004588	night blindness	MONDO:0001941	MONDO:notVerified	NCIT:C34850
+MONDO:0004597	pulmonary embolism and infarction	MONDO:0005275	MONDO:notVerified	NCIT:C50714
+MONDO:0004613	acute intestinal ischemia	MONDO:0020675	MONDO:notVerified	NCIT:C34356
+MONDO:0004670	lupus erythematosus	MONDO:0005554	MONDO:notVerified	NCIT:C27153
+MONDO:0004731	central sleep apnea syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C27169
+MONDO:0004787	cervical mullerian papilloma	MONDO:0002363	MONDO:notVerified	NCIT:C40215
+MONDO:0004789	cholangitis	MONDO:0006322	MONDO:notVerified	NCIT:C26718
+MONDO:0004822	bronchiectasis	MONDO:0005002	MONDO:notVerified	NCIT:C84475
+MONDO:0004905	intestinal disaccharidase deficiency	MONDO:0020598	MONDO:notVerified	NCIT:C34731
+MONDO:0004933	hypoplastic left heart syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C98894
+MONDO:0004984	basal-like breast carcinoma	MONDO:0006116	MONDO:notVerified	NCIT:C53558
+MONDO:0004990	breast tumor luminal A or B	MONDO:0006116	MONDO:notVerified	NCIT:C53555
+MONDO:0005015	diabetes mellitus	MONDO:0001933	MONDO:notVerified	NCIT:C2985
+MONDO:0005026	endometrioid adenocarcinoma	MONDO:0001416	MONDO:notVerified	NCIT:C3769
+MONDO:0005033	ganglioneuroma	MONDO:0006316	MONDO:notVerified	NCIT:C3049
+MONDO:0005063	medullary breast carcinoma	MONDO:0005590	MONDO:notVerified	NCIT:C9119
+MONDO:0005063	medullary breast carcinoma	MONDO:0006256	MONDO:notVerified	NCIT:C9119
+MONDO:0005068	myocardial infarction	MONDO:0024643	MONDO:notVerified	NCIT:C27996
+MONDO:0005081	preeclampsia	MONDO:0045048	MONDO:notVerified	NCIT:C85021
+MONDO:0005146	post-traumatic stress disorder	MONDO:0005379	MONDO:notVerified	NCIT:C3389
+MONDO:0005167	fibroma	MONDO:0006209	MONDO:notVerified	NCIT:C3041
+MONDO:0005277	migraine disorder	MONDO:0043218	MONDO:notVerified	NCIT:C89715
+MONDO:0005298	osteoporosis	MONDO:0800486	MONDO:notVerified	NCIT:C3298
+MONDO:0005302	"attention deficit hyperactivity disorder, inattentive type"	MONDO:0007743	MONDO:notVerified	NCIT:C35092
+MONDO:0005348	keloid	MONDO:0006603	MONDO:notVerified	NCIT:C3145
+MONDO:0005377	nephrotic syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C34845
+MONDO:0005382	bone Paget disease	MONDO:0800486	MONDO:notVerified	NCIT:C3292
+MONDO:0005404	myalgic encephalomeyelitis/chronic fatigue syndrome	MONDO:0021094	MONDO:notVerified	NCIT:C3037
+MONDO:0005439	familial hypercholesterolemia	MONDO:0037748	MONDO:notVerified	NCIT:C34704
+MONDO:0005440	embryonal carcinoma	MONDO:0006290	MONDO:notVerified	NCIT:C3752
+MONDO:0005451	eating disorder	MONDO:0005137	MONDO:notVerified	NCIT:C89332
+MONDO:0005453	congenital heart disease	MONDO:0024239	MONDO:notVerified	NCIT:C95834
+MONDO:0005492	urticaria	MONDO:0002406	MONDO:notVerified	NCIT:C3432
+MONDO:0005494	triple-negative breast carcinoma	MONDO:0006116	MONDO:notVerified	NCIT:C71732
+MONDO:0005542	acute coronary syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C53652
+MONDO:0005542	acute coronary syndrome	MONDO:0024643	MONDO:notVerified	NCIT:C53652
+MONDO:0005546	fibromyalgia	MONDO:0700007	MONDO:notVerified	NCIT:C87497
+MONDO:0005563	nut midline carcinoma	MONDO:0005617	MONDO:notVerified	NCIT:C45716
+MONDO:0005567	substance withdrawal syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C35046
+MONDO:0005632	acute chest syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C138179
+MONDO:0005634	acute hemorrhagic conjunctivitis	MONDO:0001214	MONDO:notVerified	NCIT:C34505
+MONDO:0005647	anogenital human papillomavirus infection	MONDO:0005161	MONDO:notVerified	NCIT:C4820
+MONDO:0005709	common cold	MONDO:0001040	MONDO:notVerified	NCIT:C34500
+MONDO:0005722	croup	MONDO:0004777	MONDO:notVerified	NCIT:C26735
+MONDO:0005744	yolk sac tumor	MONDO:0006290	MONDO:notVerified	NCIT:C3011
+MONDO:0005769	geniculate herpes zoster	MONDO:0021666	MONDO:notVerified	NCIT:C84763
+MONDO:0005798	HIV-associated nephropathy	MONDO:0005363	MONDO:notVerified	NCIT:C26918
+MONDO:0005807	idiopathic CD4-positive T-lymphocytopenia	MONDO:0003780	MONDO:notVerified	NCIT:C84780
+MONDO:0005817	Kluver-Bucy syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C84802
+MONDO:0005824	Legionnaires' disease	MONDO:0004652	MONDO:notVerified	NCIT:C128339
+MONDO:0005851	Miller Fisher syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C116958
+MONDO:0005854	mixed connective tissue disease	MONDO:0005554	MONDO:notVerified	NCIT:C84892
+MONDO:0005922	pleural tuberculosis	MONDO:0000986	MONDO:notVerified	NCIT:C26898
+MONDO:0005979	thoracic outlet syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C85188
+MONDO:0005982	tinea infection	MONDO:0021201	MONDO:notVerified	NCIT:C112181
+MONDO:0006005	Venezuelan equine encephalitis	MONDO:0018087	MONDO:notVerified	NCIT:C35121
+MONDO:0006015	Waterhouse-Friderichsen syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C85225
+MONDO:0006033	diffuse intrinsic pontine glioma	MONDO:0003869	MONDO:notVerified	NCIT:C94764
+MONDO:0006071	adenofibroma	MONDO:0000624	MONDO:notVerified	NCIT:C8984
+MONDO:0006086	angiomyxoma	MONDO:0044335	MONDO:notVerified	NCIT:C3254/inferred
+MONDO:0006111	bladder flat intraepithelial lesion	MONDO:0004987	MONDO:notVerified	NCIT:C37266
+MONDO:0006120	C-cell hyperplasia	MONDO:0003240	MONDO:notVerified	NCIT:C46100
+MONDO:0006121	calcifying fibrous tumor	MONDO:0005165	MONDO:notVerified	NCIT:C6488
+MONDO:0006137	cervical intraepithelial neoplasia grade 2/3	MONDO:0022394	MONDO:notVerified	NCIT:C94676
+MONDO:0006146	chondroid hamartoma	MONDO:0006499	MONDO:notVerified	NCIT:C42589
+MONDO:0006153	colon juvenile polyp	MONDO:0006161	MONDO:notVerified	NCIT:C5518
+MONDO:0006154	colon mucosa-associated lymphoid tissue lymphoma	MONDO:0002035	MONDO:notVerified	NCIT:C5498/inferred
+MONDO:0006160	colorectal hamartoma	MONDO:0006231	MONDO:notVerified	NCIT:C96474
+MONDO:0006161	colorectal juvenile polyp	MONDO:0006258	MONDO:notVerified	NCIT:C5681
+MONDO:0006167	combined lung carcinoma	MONDO:0005853	MONDO:notVerified	NCIT:C7591
+MONDO:0006179	desmoplastic ameloblastoma	MONDO:0017795	MONDO:notVerified	NCIT:C39758
+MONDO:0006190	endolymphatic sac tumor	MONDO:0021096	MONDO:notVerified	NCIT:C67560
+MONDO:0006211	fibrous hamartoma of infancy	MONDO:0024478	MONDO:notVerified	NCIT:C3942
+MONDO:0006212	flat urothelial hyperplasia	MONDO:0024483	MONDO:notVerified	NCIT:C27878
+MONDO:0006216	gallbladder adenoma	MONDO:0006180	MONDO:notVerified	NCIT:C7720
+MONDO:0006224	gastric hamartomatous polyp	MONDO:0006231	MONDO:notVerified	NCIT:C4373
+MONDO:0006231	gastrointestinal hamartoma	MONDO:0024292	MONDO:notVerified	NCIT:C96475
+MONDO:0006234	grade III prostatic intraepithelial neoplasia	MONDO:0008315	MONDO:notVerified	NCIT:C3642
+MONDO:0006257	jejunal neuroendocrine tumor G1	MONDO:0002564	MONDO:notVerified	NCIT:C6429/inferred
+MONDO:0006258	juvenile polyp	MONDO:0006231	MONDO:notVerified	NCIT:C3826
+MONDO:0006294	pleural cancer	MONDO:0002037	MONDO:notVerified	NCIT:C3547/inferred
+MONDO:0006306	mixed lobular and ductal breast carcinoma	MONDO:0005853	MONDO:notVerified	NCIT:C5160
+MONDO:0006322	non-neoplastic bile duct disorder	MONDO:0002887	MONDO:notVerified	NCIT:C35774
+MONDO:0006365	Peutz-Jeghers polyp	MONDO:0006231	MONDO:notVerified	NCIT:C4733
+MONDO:0006381	plexiform ameloblastoma	MONDO:0017795	MONDO:notVerified	NCIT:C39753/inferred
+MONDO:0006386	primary peritoneal serous adenocarcinoma	MONDO:0015686	MONDO:notVerified	NCIT:C40023
+MONDO:0006388	prolactin-producing pituitary gland carcinoma	MONDO:0003430	MONDO:notVerified	NCIT:C5962
+MONDO:0006395	rectal tubulovillous adenoma	MONDO:0024661	MONDO:notVerified	NCIT:C5620/inferred
+MONDO:0006397	renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions	MONDO:0005549	MONDO:notVerified	NCIT:C27891
+MONDO:0006423	soft tissue chondroma	MONDO:0044335	MONDO:notVerified	NCIT:C9482/inferred
+MONDO:0006464	thyroid gland mucosa-associated lymphoid tissue lymphoma	MONDO:0007650	MONDO:notVerified	NCIT:C7601
+MONDO:0006487	vaginal adenoid cystic carcinoma	MONDO:0015867	MONDO:notVerified	NCIT:C40261
+MONDO:0006489	vaginal melanoma	MONDO:0000544	MONDO:notVerified	NCIT:C27394
+MONDO:0006491	vulvar lichen sclerosus	MONDO:0001938	MONDO:notVerified	NCIT:C27723
+MONDO:0006493	Warthin tumor	MONDO:0021460	MONDO:notVerified	NCIT:C2854
+MONDO:0006502	acute respiratory distress syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C3353
+MONDO:0006507	hereditary hemochromatosis	MONDO:0001436	MONDO:notVerified	NCIT:C84481
+MONDO:0006520	Achenbach syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C35467
+MONDO:0006549	fibroepithelial polyp of the anus	MONDO:0060765	MONDO:notVerified	NCIT:C4435
+MONDO:0006550	fibroepithelial polyp of urethra	MONDO:0060765	MONDO:notVerified	NCIT:C6170
+MONDO:0006567	kernicterus due to isoimmunization	MONDO:0018477	MONDO:notVerified	NCIT:C101270
+MONDO:0006572	lichen planus	MONDO:0002406	MONDO:notVerified	NCIT:C3189
+MONDO:0006580	miliaria	MONDO:0002254	MONDO:notVerified	NCIT:C34820
+MONDO:0006620	vulva fibroepithelial polyp	MONDO:0060765	MONDO:notVerified	NCIT:C6857
+MONDO:0006665	chronic atrophic gastritis	MONDO:0005001	MONDO:notVerified	NCIT:C7405
+MONDO:0006687	burning mouth syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C62545
+MONDO:0006733	dry eye syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C34553
+MONDO:0006740	empty sella syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C84686
+MONDO:0006755	euthyroid sick syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C113170
+MONDO:0006802	inappropriate ADH syndrome	MONDO:0045072	MONDO:notVerified	NCIT:C3988
+MONDO:0006827	lateral medullary syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C84807
+MONDO:0006840	lymphangiectasis	MONDO:0021658	MONDO:notVerified	NCIT:C97087
+MONDO:0006930	pseudobulbar palsy	MONDO:0003569	MONDO:notVerified	NCIT:C129934
+MONDO:0006939	pyelonephritis	MONDO:0005247	MONDO:notVerified	NCIT:C34965
+MONDO:0006994	tarsal tunnel syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C85183
+MONDO:0006995	tethered spinal cord syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C99080
+MONDO:0007000	Treponema infectious disease	MONDO:0021681	MONDO:notVerified	NCIT:C85197
+MONDO:0007027	metabolic dysfunction-associated steatohepatitis	MONDO:0002251	MONDO:notVerified	NCIT:C84445
+MONDO:0007035	acanthosis nigricans	MONDO:0002406	MONDO:notVerified	NCIT:C26687
+MONDO:0007039	NF2-related schwannomatosis	MONDO:0021061	MONDO:notVerified	NCIT:C3274
+MONDO:0007147	obstructive sleep apnea syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C27168
+MONDO:0007191	Behcet disease	MONDO:0002254	MONDO:notVerified	NCIT:C34416
+MONDO:0007294	central core myopathy	MONDO:0018943	MONDO:notVerified	NCIT:C83010
+MONDO:0007315	cherubism	MONDO:0015356	MONDO:notVerified	NCIT:C84630
+MONDO:0007340	cleidocranial dysplasia 1	MONDO:0002254	MONDO:notVerified	NCIT:C75020
+MONDO:0007363	congenital contractural arachnodactyly	MONDO:0008779	MONDO:notVerified	NCIT:C129865
+MONDO:0007432	cerebral arteriopathy with subcortical infarcts and leukoencephalopathy	MONDO:0002254	MONDO:notVerified	NCIT:C84606
+MONDO:0007542	Camurati-Engelmann disease	MONDO:0002254	MONDO:notVerified	NCIT:C84610
+MONDO:0007566	multiple self-healing squamous epithelioma	MONDO:0015356	MONDO:notVerified	NCIT:C4461
+MONDO:0007571	primary erythermalgia	MONDO:0016028	MONDO:notVerified	NCIT:C125383
+MONDO:0007631	"chromosome 16p12.1 deletion syndrome, 520kb"	MONDO:0002254	MONDO:notVerified	NCIT:C129875
+MONDO:0007644	IgAD1	MONDO:0003739	MONDO:notVerified	NCIT:C123434
+MONDO:0007661	Tourette syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C35078
+MONDO:0007686	gray platelet syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C84741
+MONDO:0007710	facial hemiatrophy	MONDO:0002254	MONDO:notVerified	NCIT:C116916
+MONDO:0007741	congenital hydronephrosis	MONDO:0005510	MONDO:notVerified	NCIT:C102979
+MONDO:0007743	attention deficit-hyperactivity disorder	MONDO:0002025	MONDO:notVerified	NCIT:C97160
+MONDO:0007745	Gilbert syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C84729
+MONDO:0007834	islet cell adenomatosis	MONDO:0001933	MONDO:notVerified	NCIT:C4375
+MONDO:0007863	Kleine-Levin syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C84800
+MONDO:0007899	lichen sclerosus et atrophicus	MONDO:0002406	MONDO:notVerified	NCIT:C26817
+MONDO:0007969	Melkersson-Rosenthal syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C84886
+MONDO:0008006	Mobius syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C84893
+MONDO:0008094	familial multiple nevi flammei	MONDO:0021658	MONDO:notVerified	NCIT:C3840
+MONDO:0008095	nevus anemicus	MONDO:0021658	MONDO:notVerified	NCIT:C3943
+MONDO:0008097	linear nevus sebaceous syndrome	MONDO:0006499	MONDO:notVerified	NCIT:C4678
+MONDO:0008228	pernicious anemia	MONDO:0001700	MONDO:notVerified	NCIT:C2871
+MONDO:0008310	Hutchinson-Gilford progeria syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C34951
+MONDO:0008323	Liddle syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C84827
+MONDO:0008327	exfoliation syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C129025
+MONDO:0008426	Shprintzen-Goldberg syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C124840
+MONDO:0008449	spina bifida	MONDO:0002320	MONDO:notVerified	NCIT:C101214
+MONDO:0008451	"neuronopathy, distal hereditary motor, autosomal dominant 1"	MONDO:0015626	MONDO:notVerified	NCIT:C132826
+MONDO:0008491	stiff-person syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C85170
+MONDO:0008523	Blau syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C116794
+MONDO:0008523	Blau syndrome	MONDO:0007179	MONDO:notVerified	NCIT:C116794
+MONDO:0008538	temporal arteritis	MONDO:0002341	MONDO:notVerified	NCIT:C35065
+MONDO:0008558	autoimmune thrombocytopenic purpura	MONDO:0043768	MONDO:notVerified	NCIT:C3446
+MONDO:0008564	DiGeorge syndrome	MONDO:0001222	MONDO:notVerified	NCIT:C2989
+MONDO:0008575	nicotine dependence	MONDO:0005303	MONDO:notVerified	NCIT:C54203
+MONDO:0008585	HELLP syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C84750
+MONDO:0008661	vitiligo	MONDO:0002406	MONDO:notVerified	NCIT:C26915
+MONDO:0008675	Freeman-Sheldon syndrome	MONDO:0008779	MONDO:notVerified	NCIT:C98931
+MONDO:0008703	acromesomelic dysplasia 2A	MONDO:0019648	MONDO:notVerified	NCIT:C3816
+MONDO:0008758	mitochondrial DNA depletion syndrome 4a	MONDO:0002254	MONDO:notVerified	NCIT:C35257
+MONDO:0008840	ataxia telangiectasia	MONDO:0015131	MONDO:notVerified	NCIT:C2887
+MONDO:0008867	biliary atresia	MONDO:0006322	MONDO:notVerified	NCIT:C34421
+MONDO:0008890	progressive bulbar palsy	MONDO:0002782	MONDO:notVerified	NCIT:C85026
+MONDO:0008939	isolated cerebellar hypoplasia/agenesis	MONDO:0002320	MONDO:notVerified	NCIT:C98890
+MONDO:0009016	band keratopathy	MONDO:0002261	MONDO:notVerified	NCIT:C118765
+MONDO:0009022	"corpus callosum, agenesis of"	MONDO:0002320	MONDO:notVerified	NCIT:C98905
+MONDO:0009025	apparent mineralocorticoid excess	MONDO:0002254	MONDO:notVerified	NCIT:C123231
+MONDO:0009031	craniodiaphyseal dysplasia	MONDO:0002185	MONDO:notVerified	NCIT:C131429
+MONDO:0009044	Crigler-Najjar syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C84656
+MONDO:0009106	diastematomyelia	MONDO:0002320	MONDO:notVerified	NCIT:C98913
+MONDO:0009130	Dyggve-Melchior-Clausen disease	MONDO:0002254	MONDO:notVerified	NCIT:C124844
+MONDO:0009175	eosinophilic fasciitis	MONDO:0004830	MONDO:notVerified	NCIT:C112116
+MONDO:0009237	focal epithelial hyperplasia	MONDO:0005043	MONDO:notVerified	NCIT:C97083
+MONDO:0009276	Bernard-Soulier syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C84595
+MONDO:0009277	glaucoma 3A	MONDO:0020366	MONDO:notVerified	NCIT:C148260/inferred
+MONDO:0009380	Dubin-Johnson syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C34741
+MONDO:0009387	familial lipoprotein lipase deficiency	MONDO:0037748	MONDO:notVerified	NCIT:C84771
+MONDO:0009393	ornithine translocase deficiency	MONDO:0002254	MONDO:notVerified	NCIT:C129029
+MONDO:0009509	Landau-Kleffner syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C84806
+MONDO:0009637	inborn mitochondrial myopathy	MONDO:0002921	MONDO:notVerified	NCIT:C101328
+MONDO:0009661	mucopolysaccharidosis type 6	MONDO:0002254	MONDO:notVerified	NCIT:C61264
+MONDO:0009728	nephronophthisis 1	MONDO:0002254	MONDO:notVerified	NCIT:C74998
+MONDO:0009755	neutrophil actin dysfunction	MONDO:0021583	MONDO:notVerified	NCIT:C3694
+MONDO:0009809	"multicentric osteolysis, nodulosis, and arthropathy"	MONDO:0002254	MONDO:notVerified	NCIT:C123437
+MONDO:0009838	Parana hard-skin syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C126559
+MONDO:0009874	Rabson-Mendenhall syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C131000
+MONDO:0009904	Gitelman syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C84730
+MONDO:0009937	pulmonary venoocclusive disease	MONDO:0005385	MONDO:notVerified	NCIT:C85039
+MONDO:0009971	respiratory distress syndrome in premature infants	MONDO:0002254	MONDO:notVerified	NCIT:C27560
+MONDO:0010002	Rothmund-Thomson syndrome	MONDO:0015356	MONDO:notVerified	NCIT:C3335
+MONDO:0010011	schizencephaly	MONDO:0002320	MONDO:notVerified	NCIT:C99056
+MONDO:0010017	sea-blue histiocyte syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C85062
+MONDO:0010030	Sjogren syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C26883
+MONDO:0010198	Wernicke-Korsakoff syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C35764
+MONDO:0010217	de Sanctis-Cacchione syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C84666
+MONDO:0010264	X-linked adrenal hypoplasia congenita	MONDO:0016241	MONDO:notVerified	NCIT:C123725
+MONDO:0010382	fragile X-associated tremor/ataxia syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C126566
+MONDO:0010518	Wiskott-Aldrich syndrome	MONDO:0015131	MONDO:notVerified	NCIT:C3448
+MONDO:0010543	Barth syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C84585
+MONDO:0010580	immune dysregulation-polyendocrinopathy-enteropathy-X-linked syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C131009
+MONDO:0010627	X-linked lymphoproliferative syndrome	MONDO:0021094	MONDO:notVerified	NCIT:C61246
+MONDO:0010790	MERRF syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C84889
+MONDO:0010911	prolactin-producing pituitary gland adenoma	MONDO:0003430	MONDO:notVerified	NCIT:C3342
+MONDO:0010913	Caroli disease	MONDO:0006322	MONDO:notVerified	NCIT:C84619
+MONDO:0011178	infantile convulsions and choreoathetosis	MONDO:0002254	MONDO:notVerified	NCIT:C126650
+MONDO:0011374	"hypercholesterolemia, familial, 4"	MONDO:0037748	MONDO:notVerified	NCIT:C128114
+MONDO:0011424	Carney triad	MONDO:0021058	MONDO:notVerified	NCIT:C94833
+MONDO:0011441	complex regional pain syndrome type 1	MONDO:0002254	MONDO:notVerified	NCIT:C85042
+MONDO:0011503	cortisone reductase deficiency 1	MONDO:0019052	MONDO:notVerified	NCIT:C131849
+MONDO:0011612	glycine encephalopathy	MONDO:0005560	MONDO:notVerified	NCIT:C84937
+MONDO:0011716	acute hemorrhagic leukoencephalitis	MONDO:0003337	MONDO:notVerified	NCIT:C84535
+MONDO:0011717	hyperinsulinism-hyperammonemia syndrome	MONDO:0001933	MONDO:notVerified	NCIT:C131832
+MONDO:0011740	Carney-Stratakis syndrome	MONDO:0015356	MONDO:notVerified	NCIT:C94831
+MONDO:0011758	Hurler syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C61261
+MONDO:0011759	Hurler-Scheie syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C122782
+MONDO:0011760	Scheie syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C61265
+MONDO:0011827	patent ductus arteriosus	MONDO:0005385	MONDO:notVerified	NCIT:C84492
+MONDO:0011885	tubulointerstitial nephritis and uveitis syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C123021
+MONDO:0011959	sweet syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C85177
+MONDO:0012089	ichthyosis prematurity syndrome	MONDO:0043905	MONDO:notVerified	NCIT:C62590
+MONDO:0012105	granulomatosis with polyangiitis	MONDO:0002462	MONDO:notVerified	NCIT:C123111
+MONDO:0012184	Pierson syndrome	MONDO:0002350	MONDO:notVerified	NCIT:C128145
+MONDO:0012268	AIDS	MONDO:0003780	MONDO:notVerified	NCIT:C2851
+MONDO:0012396	exercise-induced hyperinsulinism	MONDO:0001933	MONDO:notVerified	NCIT:C131839
+MONDO:0012400	cortical dysplasia-focal epilepsy syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C133743
+MONDO:0013081	lymphoproliferative syndrome 1	MONDO:0021094	MONDO:notVerified	NCIT:C126344
+MONDO:0013150	"parkinsonism-dystonia, infantile"	MONDO:0002254	MONDO:notVerified	NCIT:C129866
+MONDO:0013282	alpha 1-antitrypsin deficiency	MONDO:0002254	MONDO:notVerified	NCIT:C84397
+MONDO:0013333	odontoid hypoplasia	MONDO:0005497	MONDO:notVerified	NCIT:C86969
+MONDO:0013343	C1Q deficiency	MONDO:0003832	MONDO:notVerified	NCIT:C119990
+MONDO:0013688	linear and whorled nevoid hypermelanosis	MONDO:0006499	MONDO:notVerified	NCIT:C3924
+MONDO:0013860	idiopathic membranous glomerulonephritis	MONDO:0005376	MONDO:notVerified	NCIT:C123060
+MONDO:0014247	familial episodic pain syndrome with predominantly lower limb involvement	MONDO:0002254	MONDO:notVerified	NCIT:C125390
+MONDO:0014448	"hyperthyroxinemia, familial dysalbuminemic"	MONDO:0004425	MONDO:notVerified	NCIT:C131813
+MONDO:0014493	autoimmune lymphoproliferative syndrome due to CTLA4 haploinsufficiency	MONDO:0007179	MONDO:notVerified	NCIT:C126341
+MONDO:0014888	MIRAGE syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C147530
+MONDO:0015027	familial isolated hyperparathyroidism	MONDO:0015356	MONDO:notVerified	NCIT:C94830
+MONDO:0015069	neuroendocrine tumor of the anal canal	MONDO:0000386	MONDO:notVerified	NCIT:C96540
+MONDO:0015131	combined immunodeficiency	MONDO:0021094	MONDO:notVerified	NCIT:C27871
+MONDO:0015134	constitutional neutropenia	MONDO:0009332	MONDO:notVerified	NCIT:C61242
+MONDO:0015137	periodic fever syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C118240
+MONDO:0015228	pentasomy X	MONDO:0002254	MONDO:notVerified	NCIT:C89802
+MONDO:0015231	Bartter syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C34412
+MONDO:0015249	mitral atresia disorder	MONDO:0003767	MONDO:notVerified	NCIT:C98992
+MONDO:0015249	mitral atresia disorder	MONDO:0005453	MONDO:notVerified	NCIT:C98992
+MONDO:0015263	Brugada syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C142891
+MONDO:0015264	cryptogenic organizing pneumonia	MONDO:0043905	MONDO:notVerified	NCIT:C62586
+MONDO:0015265	bronchiolitis obliterans syndrome	MONDO:0002465	MONDO:notVerified	NCIT:C62580
+MONDO:0015277	medullary thyroid gland carcinoma	MONDO:0002120	MONDO:notVerified	NCIT:C3879
+MONDO:0015340	drug rash with eosinophilia and systemic symptoms	MONDO:0002254	MONDO:notVerified	NCIT:C112208
+MONDO:0015461	short rib-polydactyly syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C85065
+MONDO:0015517	common variable immunodeficiency	MONDO:0016463	MONDO:notVerified	NCIT:C26725
+MONDO:0015530	trigeminal autonomic cephalalgia	MONDO:0043218	MONDO:notVerified	NCIT:C117074
+MONDO:0015628	von Willebrand disease type 2A	MONDO:0024574	MONDO:notVerified	NCIT:C131686
+MONDO:0015629	von Willebrand disease type 2B	MONDO:0024574	MONDO:notVerified	NCIT:C131687
+MONDO:0015630	von Willebrand disease type 2M	MONDO:0024574	MONDO:notVerified	NCIT:C131688
+MONDO:0015631	von Willebrand disease type 2N	MONDO:0024574	MONDO:notVerified	NCIT:C131689
+MONDO:0015635	porokeratotic eccrine ostial and dermal duct nevus	MONDO:0024482	MONDO:notVerified	NCIT:C4740
+MONDO:0015663	diencephalic syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C116955
+MONDO:0015686	primary peritoneal carcinoma	MONDO:0002113	MONDO:notVerified	NCIT:C3538
+MONDO:0015762	progressive familial intrahepatic cholestasis	MONDO:0002254	MONDO:notVerified	NCIT:C84453
+MONDO:0015770	congenital hypogonadotropic hypogonadism	MONDO:0018555	MONDO:notVerified	NCIT:C120162
+MONDO:0015779	"45,X/46,XY mixed gonadal dysgenesis"	MONDO:0001967	MONDO:notVerified	NCIT:C120199
+MONDO:0015863	polyembryoma	MONDO:0006290	MONDO:notVerified	NCIT:C66776
+MONDO:0015892	growth hormone insensitivity syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C129867
+MONDO:0015903	hyperalphalipoproteinemia	MONDO:0037748	MONDO:notVerified	NCIT:C128806
+MONDO:0015943	eosinophilic granulomatosis with polyangiitis	MONDO:0002254	MONDO:notVerified	NCIT:C34481
+MONDO:0015987	scimitar syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C85056
+MONDO:0016008	fetal hydantoin syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C98927
+MONDO:0016011	fetal alcohol syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C84713
+MONDO:0016030	Evans syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C61284
+MONDO:0016085	Cole-Carpenter syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C130985
+MONDO:0016218	Guillain-Barre syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C116345
+MONDO:0016244	atypical hemolytic-uremic syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C123223
+MONDO:0016322	neuroendocrine cell hyperplasia of infancy	MONDO:0005043	MONDO:notVerified	NCIT:C120169
+MONDO:0016349	congenital hydrocephalus	MONDO:0002320	MONDO:notVerified	NCIT:C98876
+MONDO:0016440	elastofibroma dorsi	MONDO:0006209	MONDO:notVerified	NCIT:C4245
+MONDO:0016467	isotretinoin syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C98929
+MONDO:0016532	Lennox-Gastaut syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C84816
+MONDO:0016575	primary ciliary dyskinesia	MONDO:0002254	MONDO:notVerified	NCIT:C84797
+MONDO:0016621	juvenile Huntington disease	MONDO:0007739	MONDO:notVerified	NCIT:C147072
+MONDO:0016713	central nervous system Ewing sarcoma/peripheral primitive neuroectodermal tumor	MONDO:0002714	MONDO:notVerified	NCIT:C129537
+MONDO:0016739	yolk sac tumor of central nervous system	MONDO:0003578	MONDO:notVerified	NCIT:C7011
+MONDO:0016742	mixed germ cell tumor of central nervous system	MONDO:0003113	MONDO:notVerified	NCIT:C7016
+MONDO:0016747	primary melanoma of the central nervous system	MONDO:0006320	MONDO:notVerified	NCIT:C5505
+MONDO:0017078	cephalocele	MONDO:0002320	MONDO:notVerified	NCIT:C84687
+MONDO:0017079	meningoencephalocele	MONDO:0001147	MONDO:notVerified	NCIT:C124517
+MONDO:0017182	familial hyperinsulinism	MONDO:0001933	MONDO:notVerified	NCIT:C131425
+MONDO:0017215	calciphylaxis	MONDO:0002254	MONDO:notVerified	NCIT:C84607
+MONDO:0017278	autoimmune polyendocrinopathy	MONDO:0002254	MONDO:notVerified	NCIT:C129726
+MONDO:0017364	POEMS syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C80303
+MONDO:0017372	congenital varicella syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C116800
+MONDO:0017611	pituitary tumor	MONDO:0005070	MONDO:notVerified	NCIT:C3330/inferred
+MONDO:0017799	Meigs syndrome	MONDO:0021058	MONDO:notVerified	NCIT:C3223
+MONDO:0017807	growing teratoma syndrome	MONDO:0021058	MONDO:notVerified	NCIT:C118370
+MONDO:0017879	hantavirus pulmonary syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C84747
+MONDO:0017885	chromophobe renal cell carcinoma	MONDO:0005549	MONDO:notVerified	NCIT:C4146
+MONDO:0017890	tubulocystic renal cell carcinoma	MONDO:0005549	MONDO:notVerified	NCIT:C126303
+MONDO:0018017	goblet cell carcinoma	MONDO:0021659	MONDO:notVerified	NCIT:C3689
+MONDO:0018024	hydroa vacciniforme	MONDO:0002406	MONDO:notVerified	NCIT:C84766
+MONDO:0018044	idiopathic hypersomnia	MONDO:0005466	MONDO:notVerified	NCIT:C116343
+MONDO:0018068	trisomy 13	MONDO:0002254	MONDO:notVerified	NCIT:C101223
+MONDO:0018072	persistent truncus arteriosus	MONDO:0005453	MONDO:notVerified	NCIT:C98880
+MONDO:0018089	double outlet right ventricle	MONDO:0024239	MONDO:notVerified	NCIT:C98916
+MONDO:0018124	Oncogenic osteomalacia	MONDO:0001068	MONDO:notVerified	NCIT:C67235
+MONDO:0018124	Oncogenic osteomalacia	MONDO:0021073	MONDO:notVerified	NCIT:C67235
+MONDO:0018184	gastric linitis plastica	MONDO:0045054	MONDO:notVerified	NCIT:C3190
+MONDO:0018193	testicular teratoma	MONDO:0010108	MONDO:notVerified	NCIT:C3877
+MONDO:0018229	Stevens-Johnson syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C79484
+MONDO:0018439	eosinophilic colitis	MONDO:0000702	MONDO:notVerified	NCIT:C27053
+MONDO:0018481	undifferentiated carcinoma of esophagus	MONDO:0005580	MONDO:notVerified	NCIT:C27422
+MONDO:0018660	hemophilia	MONDO:0002242	MONDO:notVerified	NCIT:C3093
+MONDO:0018664	ectopia cordis	MONDO:0024239	MONDO:notVerified	NCIT:C111643
+MONDO:0018677	visceral heterotaxy	MONDO:0002254	MONDO:notVerified	NCIT:C117273
+MONDO:0018687	progressive muscular atrophy	MONDO:0004976	MONDO:notVerified	NCIT:C85027
+MONDO:0018689	plasma cell leukemia	MONDO:0005402	MONDO:notVerified	NCIT:C3180
+MONDO:0018772	Joubert syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C74996
+MONDO:0018800	Kallmann syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C75479
+MONDO:0018850	proliferating trichilemmal cyst	MONDO:0003413	MONDO:notVerified	NCIT:C43324/inferred
+MONDO:0018893	Cobb syndrome	MONDO:0015356	MONDO:notVerified	NCIT:C4485
+MONDO:0018901	left ventricular noncompaction	MONDO:0002254	MONDO:notVerified	NCIT:C99544
+MONDO:0018901	left ventricular noncompaction	MONDO:0005453	MONDO:notVerified	NCIT:C99544
+MONDO:0018904	primary membranoproliferative glomerulonephritis	MONDO:0002462	MONDO:notVerified	NCIT:C34644
+MONDO:0018907	craniopharyngioma	MONDO:0002532	MONDO:notVerified	NCIT:C2964
+MONDO:0018912	Cushing syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C2969/inferred
+MONDO:0018927	SUNCT syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C85174
+MONDO:0018937	mucopolysaccharidosis type 3	MONDO:0002254	MONDO:notVerified	NCIT:C61262
+MONDO:0018944	gestational trophoblastic neoplasm	MONDO:0024575	MONDO:notVerified	NCIT:C4699
+MONDO:0018969	craniorachischisis	MONDO:0002320	MONDO:notVerified	NCIT:C98907
+MONDO:0018983	Tolosa-Hunt syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C85193
+MONDO:0019010	congenital isolated hyperinsulinism	MONDO:0007834	MONDO:notVerified	NCIT:C122923
+MONDO:0019037	progressive supranuclear palsy	MONDO:0002254	MONDO:notVerified	NCIT:C85028
+MONDO:0019060	bone neoplasm	MONDO:0003900	MONDO:notVerified	NCIT:C9343
+MONDO:0019124	microscopic polyangiitis	MONDO:0043494	MONDO:notVerified	NCIT:C70549
+MONDO:0019234	peroxisome biogenesis disorder	MONDO:0002254	MONDO:notVerified	NCIT:C85239
+MONDO:0019390	Susac syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C116363
+MONDO:0019436	psoriasis-related juvenile idiopathic arthritis	MONDO:0011849	MONDO:notVerified	NCIT:C114361
+MONDO:0019445	trichofolliculoma	MONDO:0021539	MONDO:notVerified	NCIT:C4112
+MONDO:0019467	CD4+/CD56+ hematodermic neoplasm	MONDO:0002898	MONDO:notVerified	NCIT:C7203
+MONDO:0019468	T-cell prolymphocytic leukemia	MONDO:0005169	MONDO:notVerified	NCIT:C4752
+MONDO:0019469	T-cell large granular lymphocyte leukemia	MONDO:0005169	MONDO:notVerified	NCIT:C4664
+MONDO:0019470	aggressive NK-cell leukemia	MONDO:0005169	MONDO:notVerified	NCIT:C8647
+MONDO:0019470	aggressive NK-cell leukemia	MONDO:0005402	MONDO:notVerified	NCIT:C8647
+MONDO:0019518	Waardenburg-Shah syndrome	MONDO:0018094	MONDO:notVerified	NCIT:C124842
+MONDO:0019610	Zollinger-Ellison syndrome	MONDO:0021058	MONDO:notVerified	NCIT:C3453
+MONDO:0019611	TSH-secreting pituitary adenoma	MONDO:0003837	MONDO:notVerified	NCIT:C8011
+MONDO:0019618	Sheehan syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C35300
+MONDO:0019735	polymyalgia rheumatica	MONDO:0002254	MONDO:notVerified	NCIT:C85018
+MONDO:0019751	autoinflammatory syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C119050
+MONDO:0019790	neuroleptic malignant syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C94829
+MONDO:0019799	hepatoerythropoietic porphyria	MONDO:0015104	MONDO:notVerified	NCIT:C84754
+MONDO:0019808	aortic valve atresia	MONDO:0003803	MONDO:notVerified	NCIT:C98818
+MONDO:0019808	aortic valve atresia	MONDO:0005453	MONDO:notVerified	NCIT:C98818
+MONDO:0019809	congenital aortic valve insufficiency	MONDO:0005648	MONDO:notVerified	NCIT:C103936
+MONDO:0019828	pituitary stalk interruption syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C121150
+MONDO:0019927	growth hormone-producing pituitary gland neoplasm	MONDO:0002082	MONDO:notVerified	NCIT:C7911/inferred
+MONDO:0019944	Eisenmenger syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C84390
+MONDO:0019991	immunotactoid glomerulopathy	MONDO:0002462	MONDO:notVerified	NCIT:C96182
+MONDO:0020066	Ehlers-Danlos syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C34568
+MONDO:0020123	metabolic myopathy	MONDO:0005336	MONDO:notVerified	NCIT:C98985
+MONDO:0020291	hypoplastic right heart syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C99053
+MONDO:0020295	congenital pulmonary veins anomaly	MONDO:0005453	MONDO:notVerified	NCIT:C110942
+MONDO:0020296	congenital arteriovenous fistula	MONDO:0024239	MONDO:notVerified	NCIT:C35377
+MONDO:0020404	shone complex	MONDO:0002254	MONDO:notVerified	NCIT:C99058
+MONDO:0020404	shone complex	MONDO:0024239	MONDO:notVerified	NCIT:C99058
+MONDO:0020453	congenital partial pulmonary venous return anomaly	MONDO:0005453	MONDO:notVerified	NCIT:C99004
+MONDO:0020520	adult pulmonary Langerhans cell histiocytosis	MONDO:0020517	MONDO:notVerified	NCIT:C142833
+MONDO:0020520	adult pulmonary Langerhans cell histiocytosis	MONDO:0021117	MONDO:notVerified	NCIT:C142833
+MONDO:0020572	complex regional pain syndrome type 2	MONDO:0002254	MONDO:notVerified	NCIT:C121572
+MONDO:0020574	central nervous system nongerminomatous germ cell tumor	MONDO:0021656	MONDO:notVerified	NCIT:C100093
+MONDO:0020576	cutaneous vasculitis	MONDO:0018882	MONDO:notVerified	NCIT:C112210
+MONDO:0020579	mucositis	MONDO:0021166	MONDO:notVerified	NCIT:C115965
+MONDO:0020582	benign uterine ligament neoplasm	MONDO:0000624	MONDO:notVerified	NCIT:C126493
+MONDO:0020584	anemia due to enzyme disorder	MONDO:0002280	MONDO:notVerified	NCIT:C35472
+MONDO:0020585	anemia due to erythrocyte enzyme disorder	MONDO:0020584	MONDO:notVerified	NCIT:C131630
+MONDO:0020587	factor XI deficiency	MONDO:0018660	MONDO:notVerified	NCIT:C131739
+MONDO:0020590	mycobacterial infectious disease	MONDO:0005113	MONDO:notVerified	NCIT:C26831
+MONDO:0020592	disorder of pharynx	MONDO:0024623	MONDO:notVerified	NCIT:C26850
+MONDO:0020594	abducens nerve disorder	MONDO:0003569	MONDO:notVerified	NCIT:C27593
+MONDO:0020597	angiokeratoma of scrotum	MONDO:0003143	MONDO:notVerified	NCIT:C7752
+MONDO:0020599	acquired coagulation factor deficiency	MONDO:0002242	MONDO:notVerified	NCIT:C34347
+MONDO:0020600	acute pharyngitis	MONDO:0002258	MONDO:notVerified	NCIT:C34355
+MONDO:0020601	mosquito-borne viral encephalitis	MONDO:0006009	MONDO:notVerified	NCIT:C34823
+MONDO:0020635	anaplastic meningioma	MONDO:0021322	MONDO:notVerified	NCIT:C4051
+MONDO:0020638	superficial spreading melanoma	MONDO:0005012	MONDO:notVerified	NCIT:C9152
+MONDO:0020640	autoimmune encephalitis	MONDO:0007179	MONDO:notVerified	NCIT:C122414
+MONDO:0020646	ocular adnexal lymphoma	MONDO:0018908	MONDO:notVerified	NCIT:C88145
+MONDO:0020649	warty carcinoma of the penis	MONDO:0004433	MONDO:notVerified	NCIT:C6981
+MONDO:0020658	infiltrating ureter transitional cell carcinoma	MONDO:0020654	MONDO:notVerified	NCIT:C39879
+MONDO:0020658	infiltrating ureter transitional cell carcinoma	MONDO:0040678	MONDO:notVerified	NCIT:C39879
+MONDO:0020669	paranasal sinus cancer	MONDO:0005627	MONDO:notVerified	NCIT:C7487
+MONDO:0020673	arterial occlusion	MONDO:0000473	MONDO:notVerified	NCIT:C35318
+MONDO:0020675	ischemic bowel disorder	MONDO:0005053	MONDO:notVerified	NCIT:C35212
+MONDO:0020678	sensorineural hearing loss disorder	MONDO:0005365	MONDO:notVerified	NCIT:C26739
+MONDO:0020679	conductive hearing loss disorder	MONDO:0005365	MONDO:notVerified	NCIT:C27645
+MONDO:0020685	infratentorial ependymal tumor	MONDO:0004245	MONDO:notVerified	NCIT:C131612
+MONDO:0020687	supratentorial ependymal tumor	MONDO:0004245	MONDO:notVerified	NCIT:C131611
+MONDO:0020695	hypotonic cerebral palsy	MONDO:0006497	MONDO:notVerified	NCIT:C116906
+MONDO:0020696	vitamin B12 deficiency	MONDO:0042976	MONDO:notVerified	NCIT:C131684
+MONDO:0020703	erythroid neoplasm	MONDO:0005170	MONDO:notVerified	NCIT:C7064
+MONDO:0020703	erythroid neoplasm	MONDO:0021138	MONDO:notVerified	NCIT:C7064
+MONDO:0020706	Heberden's node	MONDO:0002181	MONDO:notVerified	NCIT:C34671
+MONDO:0020707	central hearing loss	MONDO:0005365	MONDO:notVerified	NCIT:C34662
+MONDO:0020708	brachial amyotrophic diplegia	MONDO:0005559	MONDO:notVerified	NCIT:C133085
+MONDO:0020725	anemia due to chronic disorder	MONDO:0002280	MONDO:notVerified	NCIT:C35659
+MONDO:0020744	Mobitz type I atrioventricular block	MONDO:0000467	MONDO:notVerified	NCIT:C62017
+MONDO:0020757	sporadic hemiplegic migraine	MONDO:0005277	MONDO:notVerified	NCIT:C117011
+MONDO:0020804	basal cell carcinoma	MONDO:0004992	MONDO:notVerified	NCIT:C7586
+MONDO:0020805	benign basal cell neoplasm	MONDO:0020799	MONDO:notVerified	NCIT:C4743
+MONDO:0020809	benign sertoli cell tumor	MONDO:0000383	MONDO:notVerified	NCIT:C67012
+MONDO:0020971	gonococcal urethritis	MONDO:0005297	MONDO:notVerified	NCIT:C26787
+MONDO:0020979	pilosebaceous hamartoma	MONDO:0021539	MONDO:notVerified	NCIT:C5565
+MONDO:0020980	hair nevus	MONDO:0020979	MONDO:notVerified	NCIT:C3074
+MONDO:0021032	herpes zoster with dermatitis of eyelid	MONDO:0021033	MONDO:notVerified	NCIT:C34696
+MONDO:0021033	herpes zoster dermatitis	MONDO:0002406	MONDO:notVerified	NCIT:C35619
+MONDO:0021033	herpes zoster dermatitis	MONDO:0021201	MONDO:notVerified	NCIT:C35619
+MONDO:0021036	keratosis pilaris	MONDO:0005093	MONDO:notVerified	NCIT:C124070/inferred
+MONDO:0021073	paraneoplastic syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C3311
+MONDO:0021075	neoplastic polyp	MONDO:0021074	MONDO:notVerified	NCIT:C7068
+MONDO:0021077	cystic neoplasm	MONDO:0005070	MONDO:notVerified	NCIT:C6784/inferred
+MONDO:0021094	immunodeficiency disease	MONDO:0005046	MONDO:notVerified	NCIT:C3131
+MONDO:0021101	appendix L-cell glucagon-like peptide-producing neuroendocrine tumor	MONDO:0004211	MONDO:notVerified	NCIT:C27445
+MONDO:0021533	intestinal neuroendocrine tumor G1	MONDO:0005369	MONDO:notVerified	NCIT:C4637/inferred
+MONDO:0021546	ependymal tumor of spinal cord	MONDO:0002542	MONDO:notVerified	NCIT:C131526
+MONDO:0021559	non-autoimmune hemolytic anemia	MONDO:0003664	MONDO:notVerified	NCIT:C34853
+MONDO:0021658	vascular ectasia	MONDO:0005385	MONDO:notVerified	NCIT:C45481/inferred
+MONDO:0021660	deep seated dermatophytosis	MONDO:0021201	MONDO:notVerified	NCIT:C35073
+MONDO:0021661	coronary atherosclerosis	MONDO:0005311	MONDO:notVerified	NCIT:C35505
+MONDO:0021718	polyneuritis	MONDO:0001824	MONDO:notVerified	NCIT:C26864
+MONDO:0021718	polyneuritis	MONDO:0002122	MONDO:notVerified	NCIT:C26864
+MONDO:0021777	acute rheumatic heart disease	MONDO:0006955	MONDO:notVerified	NCIT:C34985
+MONDO:0021915	arakawa syndrome 2	MONDO:0002254	MONDO:notVerified	NCIT:C99081
+MONDO:0021977	basaloid follicular hamartoma	MONDO:0006499	MONDO:notVerified	NCIT:C4749/inferred
+MONDO:0022022	bowenoid papulosis	MONDO:0005070	MONDO:notVerified	NCIT:C8374/inferred
+MONDO:0022754	chromosome 17p deletion	MONDO:0020583	MONDO:notVerified	NCIT:C36499
+MONDO:0022772	classic Kaposi sarcoma	MONDO:0005055	MONDO:notVerified	NCIT:C9112/inferred
+MONDO:0023164	viral pericarditis	MONDO:0005904	MONDO:notVerified	NCIT:C128405
+MONDO:0023232	giant cell myocarditis	MONDO:0002815	MONDO:notVerified	NCIT:C97055
+MONDO:0023483	infectious myositis	MONDO:0021167	MONDO:notVerified	NCIT:C26984
+MONDO:0023619	lentigo maligna melanoma	MONDO:0005012	MONDO:notVerified	NCIT:C9151
+MONDO:0023865	corneal infection	MONDO:0003085	MONDO:notVerified	NCIT:C83813
+MONDO:0024239	congenital anomaly of cardiovascular system	MONDO:0004995	MONDO:notVerified	NCIT:C35729/inferred
+MONDO:0024280	polyarticular arthritis	MONDO:0005578	MONDO:notVerified	NCIT:C26996
+MONDO:0024281	juvenile chronic polyarthritis	MONDO:0024280	MONDO:notVerified	NCIT:C26979
+MONDO:0024292	gastrointestinal polyp	MONDO:0004335	MONDO:notVerified	NCIT:C35516
+MONDO:0024316	physiological malfunction arising from mental factor	MONDO:0003117	MONDO:notVerified	NCIT:C35186
+MONDO:0024332	perennial allergic rhinitis	MONDO:0011786	MONDO:notVerified	NCIT:C92189
+MONDO:0024429	Alice in Wonderland syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C116362
+MONDO:0024478	mesenchymal hamartoma	MONDO:0006499	MONDO:notVerified	NCIT:C40427
+MONDO:0024485	papillary urothelial hyperplasia	MONDO:0024483	MONDO:notVerified	NCIT:C27879
+MONDO:0024496	"tumor grade 2 or 3, general grading system"	MONDO:0024489	MONDO:notVerified	NCIT:C94678
+MONDO:0024497	"tumor grade 3 or 4, general grading system"	MONDO:0024489	MONDO:notVerified	NCIT:C14158/inferred
+MONDO:0024504	enterochromaffin cell serotonin-producing pancreatic neuroendocrine tumor	MONDO:0021535	MONDO:notVerified	NCIT:C4446
+MONDO:0024612	manic bipolar affective disorder	MONDO:0004985	MONDO:notVerified	NCIT:C34805
+MONDO:0024613	bipolar depression	MONDO:0002050	MONDO:notVerified	NCIT:C34424
+MONDO:0024613	bipolar depression	MONDO:0004985	MONDO:notVerified	NCIT:C34424
+MONDO:0024614	neurotic depression	MONDO:0002050	MONDO:notVerified	NCIT:C35369
+MONDO:0024622	thyroid gland adenocarcinoma	MONDO:0021069	MONDO:notVerified	NCIT:C27380
+MONDO:0024623	otorhinolaryngologic disease	MONDO:0000001	MONDO:notVerified	NCIT:C118420/inferred
+MONDO:0024633	hypertensive nephropathy	MONDO:0005240	MONDO:notVerified	NCIT:C4757
+MONDO:0024649	optic tract astrocytoma	MONDO:0019781	MONDO:notVerified	NCIT:C7533
+MONDO:0024658	extrahepatic bile duct sarcoma	MONDO:0018078	MONDO:notVerified	NCIT:C5029
+MONDO:0024660	tubular adenoma	MONDO:0004972	MONDO:notVerified	NCIT:C4133
+MONDO:0024661	tubulovillous adenoma	MONDO:0004972	MONDO:notVerified	NCIT:C4143
+MONDO:0024663	primary skin meningioma	MONDO:0002300	MONDO:notVerified	NCIT:C5277
+MONDO:0024674	Pancoast syndrome	MONDO:0021058	MONDO:notVerified	NCIT:C55815
+MONDO:0024676	childhood kidney Wilms tumor	MONDO:0002730	MONDO:notVerified	NCIT:C27730
+MONDO:0024857	immature extragonadal teratoma	MONDO:0003578	MONDO:notVerified	NCIT:C8884
+MONDO:0024863	small size posterior uveal melanoma	MONDO:0006486	MONDO:notVerified	NCIT:C9089
+MONDO:0024864	medium/large size posterior uveal melanoma	MONDO:0006486	MONDO:notVerified	NCIT:C9090
+MONDO:0024868	metastatic carcinoma in the adrenal medulla	MONDO:0003606	MONDO:notVerified	NCIT:C9276
+MONDO:0024888	mesonephric neoplasm	MONDO:0005626	MONDO:notVerified	NCIT:C4295
+MONDO:0030705	Trichomonas prostatitis	MONDO:0002154	MONDO:notVerified	NCIT:C35176
+MONDO:0030706	Trichomonas cystitis	MONDO:0002154	MONDO:notVerified	NCIT:C35405
+MONDO:0030707	Trichomonas balanoposthitis	MONDO:0002154	MONDO:notVerified	NCIT:C35406
+MONDO:0030708	Trichomonas cervicitis	MONDO:0002154	MONDO:notVerified	NCIT:C35588
+MONDO:0037252	thecoma	MONDO:0006055	MONDO:notVerified	NCIT:C3405/inferred
+MONDO:0037742	endometrioid stromal and related neoplasms	MONDO:0021148	MONDO:notVerified	NCIT:C8384
+MONDO:0037858	inherited fatty acid metabolism disorder	MONDO:0002525	MONDO:notVerified	NCIT:C117115
+MONDO:0040676	great vessel cancer	MONDO:0002100	MONDO:notVerified	NCIT:C4575
+MONDO:0040700	orbital dermoid cyst	MONDO:0002378	MONDO:notVerified	NCIT:C4548
+MONDO:0040923	late latent syphilis	MONDO:0005822	MONDO:notVerified	NCIT:C128371
+MONDO:0042494	childhood malignant melanoma	MONDO:0006517	MONDO:notVerified	NCIT:C131506
+MONDO:0042982	GATA2 deficiency with susceptibility to MDS/AML	MONDO:0021094	MONDO:notVerified	NCIT:C126349
+MONDO:0043103	hypothyroidism due to iodide transport defect	MONDO:0018612	MONDO:notVerified	NCIT:C121747
+MONDO:0043219	migraine with brainstem aura	MONDO:0005277	MONDO:notVerified	NCIT:C117013
+MONDO:0043240	hemophilic arthropathy	MONDO:0005578	MONDO:notVerified	NCIT:C27039
+MONDO:0043247	Mallory-Weiss syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C84881
+MONDO:0043251	odontoma	MONDO:0006499	MONDO:notVerified	NCIT:C3287
+MONDO:0043275	TORCH syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C98609
+MONDO:0043280	Wallerian degeneration	MONDO:0005071	MONDO:notVerified	NCIT:C85223
+MONDO:0043287	superior vena cava syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C3396
+MONDO:0043294	linear scleroderma	MONDO:0019562	MONDO:notVerified	NCIT:C116780
+MONDO:0043303	hyperacusis	MONDO:0024422	MONDO:notVerified	NCIT:C116366
+MONDO:0043303	hyperacusis	MONDO:0021205	MONDO:notVerified	NCIT:C116366/inferred
+MONDO:0043320	piriformis syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C85012
+MONDO:0043349	intravascular papillary endothelial hyperplasia	MONDO:0024461	MONDO:notVerified	NCIT:C4391
+MONDO:0043355	collagenous gastritis	MONDO:0004966	MONDO:notVerified	NCIT:C122082
+MONDO:0043358	engraftment syndrome	MONDO:0700222	MONDO:notVerified	NCIT:C63324
+MONDO:0043370	secondary adrenal insufficiency	MONDO:0000004	MONDO:notVerified	NCIT:C62602
+MONDO:0043377	juvenile spondyloarthropathy	MONDO:0005095	MONDO:notVerified	NCIT:C114347
+MONDO:0043472	ectopic ACTH secretion syndrome	MONDO:0021058	MONDO:notVerified	NCIT:C4387/inferred
+MONDO:0043475	Adams-Stokes syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C79765
+MONDO:0043512	traumatic encephalopathy	MONDO:0005560	MONDO:notVerified	NCIT:C35542
+MONDO:0043683	Leriche syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C34773
+MONDO:0043789	serum sickness	MONDO:0002459	MONDO:notVerified	NCIT:C79718
+MONDO:0043875	tumor lysis syndrome	MONDO:0021058	MONDO:notVerified	NCIT:C3425
+MONDO:0043892	prosthesis-related infectious disease	MONDO:0005550	MONDO:notVerified	NCIT:C79705/inferred
+MONDO:0043985	central nervous system lupus	MONDO:0004670	MONDO:notVerified	NCIT:C116919
+MONDO:0044033	posterior leukoencephalopathy syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C78598
+MONDO:0044079	cardio-renal syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C123225
+MONDO:0044113	bullous systemic lupus erythematosus	MONDO:0007915	MONDO:notVerified	NCIT:C117104
+MONDO:0044138	hyalitis	MONDO:0044137	MONDO:notVerified	NCIT:C50587
+MONDO:0044144	panic disorder with agoraphobia	MONDO:0005618	MONDO:notVerified	NCIT:C97194
+MONDO:0044333	alcohol-induced Wernicke-Korsakoff's syndrome	MONDO:0010198	MONDO:notVerified	NCIT:C34366
+MONDO:0044334	connective and soft tissue neoplasm	MONDO:0005070	MONDO:notVerified	NCIT:C3810/inferred
+MONDO:0044336	colorectal signet ring cell carcinoma	MONDO:0005008	MONDO:notVerified	NCIT:C43586
+MONDO:0044351	Schistosoma intercalatum infectious disease	MONDO:0015254	MONDO:notVerified	NCIT:C35364
+MONDO:0044740	salivary gland squamous cell carcinoma	MONDO:0010150	MONDO:notVerified	NCIT:C7991
+MONDO:0044765	steroid-resistant nephrotic syndrome	MONDO:0005377	MONDO:notVerified	NCIT:C122798
+MONDO:0044768	vagus nerve paraganglioma	MONDO:0021052	MONDO:notVerified	NCIT:C8427
+MONDO:0044781	nephrotic syndrome of childhood - steroid sensitive	MONDO:0005377	MONDO:notVerified	NCIT:C122797
+MONDO:0044784	myxoma	MONDO:0044335	MONDO:notVerified	NCIT:C6577/inferred
+MONDO:0044785	desmoplastic melanoma	MONDO:0005012	MONDO:notVerified	NCIT:C37257
+MONDO:0044791	combined hepatocellular carcinoma and cholangiocarcinoma	MONDO:0004970	MONDO:notVerified	NCIT:C3828
+MONDO:0044792	large congenital melanocytic nevus	MONDO:0021583	MONDO:notVerified	NCIT:C3944
+MONDO:0044794	benign melanocytic skin nevus	MONDO:0021583	MONDO:notVerified	NCIT:C7571
+MONDO:0044807	inherited dystonia	MONDO:0003441	MONDO:notVerified	NCIT:C35527
+MONDO:0044811	idiopathic torsion dystonia	MONDO:0003441	MONDO:notVerified	NCIT:C34564
+MONDO:0044874	refractory cytopenia of childhood	MONDO:0044873	MONDO:notVerified	NCIT:C82596
+MONDO:0044877	paraneoplastic cerebellar degeneration	MONDO:0021073	MONDO:notVerified	NCIT:C4685
+MONDO:0044879	pancreatic mucinous-cystic neoplasm	MONDO:0021076	MONDO:notVerified	NCIT:C41247
+MONDO:0044881	hematopoietic and lymphoid cell neoplasm	MONDO:0005570	MONDO:notVerified	NCIT:C27134
+MONDO:0044903	myelofibrosis	MONDO:0003225	MONDO:notVerified	NCIT:C3248
+MONDO:0044917	T-lymphoblastic lymphoma	MONDO:0015760	MONDO:notVerified	NCIT:C6919
+MONDO:0044921	atypical lymphoproliferative disorder	MONDO:0016537	MONDO:notVerified	NCIT:C7764
+MONDO:0044921	atypical lymphoproliferative disorder	MONDO:0060782	MONDO:notVerified	NCIT:C7764
+MONDO:0045045	selective IgG immunodeficiency	MONDO:0003739	MONDO:notVerified	NCIT:C27142
+MONDO:0045048	toxemia of pregnancy	MONDO:0024664	MONDO:notVerified	NCIT:C34943
+MONDO:0045060	intraductal cribriform breast adenocarcinoma	MONDO:0006176	MONDO:notVerified	NCIT:C5138
+MONDO:0045070	digestive system melanoma	MONDO:0006320	MONDO:notVerified	NCIT:C7091
+MONDO:0045072	ectopic hormone secretion syndrome associated with neoplasia	MONDO:0021058	MONDO:notVerified	NCIT:C4065
+MONDO:0054868	meconium ileus	MONDO:0004567	MONDO:notVerified	NCIT:C98979
+MONDO:0056805	benign peripheral nerve granular cell tumor	MONDO:0001406	MONDO:notVerified	NCIT:C5502
+MONDO:0056813	hormone-resistant breast carcinoma	MONDO:0004989	MONDO:notVerified	NCIT:C114932
+MONDO:0056815	liver adenosquamous carcinoma	MONDO:0018531	MONDO:notVerified	NCIT:C118630
+MONDO:0056816	vulvar neuroendocrine carcinoma	MONDO:0002120	MONDO:notVerified	NCIT:C128243
+MONDO:0056817	rectal adenosquamous carcinoma	MONDO:0044937	MONDO:notVerified	NCIT:C43594
+MONDO:0056818	skin adenosquamous carcinoma	MONDO:0002656	MONDO:notVerified	NCIT:C54250
+MONDO:0056819	nasal cavity and paranasal sinus carcinoma	MONDO:0056820	MONDO:notVerified	NCIT:C54293
+MONDO:0060765	fibroepithelial polyp	MONDO:0005079	MONDO:notVerified	NCIT:C3337
+MONDO:0060766	anal polyp	MONDO:0002519	MONDO:notVerified	NCIT:C3957
+MONDO:0060766	anal polyp	MONDO:0024292	MONDO:notVerified	NCIT:C3957
+MONDO:0060768	gingival fibroepithelial polyp	MONDO:0003396	MONDO:notVerified	NCIT:C4693
+MONDO:0060768	gingival fibroepithelial polyp	MONDO:0060765	MONDO:notVerified	NCIT:C4693
+MONDO:0060774	vaginal fibroepithelial polyp	MONDO:0021394	MONDO:notVerified	NCIT:C4948
+MONDO:0060774	vaginal fibroepithelial polyp	MONDO:0060765	MONDO:notVerified	NCIT:C4948
+MONDO:0060777	cervical fibroepithelial polyp	MONDO:0000751	MONDO:notVerified	NCIT:C40200
+MONDO:0060777	cervical fibroepithelial polyp	MONDO:0060765	MONDO:notVerified	NCIT:C40200
+MONDO:0060778	adult Fanconi syndrome	MONDO:0001083	MONDO:notVerified	NCIT:C4377
+MONDO:0060779	acquired Fanconi syndrome	MONDO:0001083	MONDO:notVerified	NCIT:C78296
+MONDO:0060782	premalignant hematological system disease	MONDO:0005570	MONDO:notVerified	NCIT:C27274
+MONDO:0060783	classic congenital adrenal hyperplasia	MONDO:0018479	MONDO:notVerified	NCIT:C131423
+MONDO:0100310	hereditary cerebellar ataxia	MONDO:0000437	MONDO:notVerified	NCIT:C140268
+MONDO:0100370	acute hepatitis B virus infection	MONDO:0005344	MONDO:notVerified	NCIT:C157781
+MONDO:0100371	acute hepatitis C virus infection	MONDO:0005231	MONDO:notVerified	NCIT:C157782
+MONDO:0100373	"acute myeloid leukemia, inv(16)(p13.1;q22)"	MONDO:0018874	MONDO:notVerified	NCIT:C36373
+MONDO:0100374	"acute myeloid leukemia, t(16;16)(p13.1;q22)"	MONDO:0018874	MONDO:notVerified	NCIT:C27759
+MONDO:0100375	"acute myeloid leukemia, t(15;17)(q24;q21)"	MONDO:0018874	MONDO:notVerified	NCIT:C27758
+MONDO:0100376	"acute myeloid leukemia, t(9;11)(p21.3;q23.3)"	MONDO:0018874	MONDO:notVerified	NCIT:C36370
+MONDO:0100377	"acute myeloid leukemia, t(10;11)(p12;q23)"	MONDO:0018874	MONDO:notVerified	NCIT:C132102
+MONDO:0100378	"acute myeloid leukemia, t(10;11)(p11.2;q23)"	MONDO:0018874	MONDO:notVerified	NCIT:C168758
+MONDO:0100379	"acute myeloid leukemia, t(1;11)(q21;q23)"	MONDO:0018874	MONDO:notVerified	NCIT:C168759
+MONDO:0100380	"acute myeloid leukemia, t(4;11)(q21;q23)"	MONDO:0018874	MONDO:notVerified	NCIT:C36365
+MONDO:0100381	"acute myeloid leukemia, t(6;11)(q27;q23)"	MONDO:0018874	MONDO:notVerified	NCIT:C36610
+MONDO:0100383	"acute myeloid leukemia, t(11;19)(q23;p13)"	MONDO:0018874	MONDO:notVerified	NCIT:C168764
+MONDO:0100384	"acute myeloid leukemia, t(11;19)(q23;p13.1)"	MONDO:0018874	MONDO:notVerified	NCIT:C36371
+MONDO:0100385	"acute myeloid leukemia, t(11;19)(q23.3;p13.3)"	MONDO:0018874	MONDO:notVerified	NCIT:C36372
+MONDO:0100386	"acute myeloid leukemia, t(v;11q23.3)"	MONDO:0018874	MONDO:notVerified	NCIT:C36517
+MONDO:0100387	"acute myeloid leukemia, Monosomy 7"	MONDO:0018874	MONDO:notVerified	NCIT:C36411
+MONDO:0100388	"acute myeloid leukemia, Monosomy 5"	MONDO:0018874	MONDO:notVerified	NCIT:C36523
+MONDO:0100389	"acute myeloid leukemia, Trisomy 8"	MONDO:0018874	MONDO:notVerified	NCIT:C36396
+MONDO:0100390	"acute myeloid leukemia, der12p"	MONDO:0018874	MONDO:notVerified	NCIT:C173542
+MONDO:0100391	"acute myeloid leukemia, t(2;12)"	MONDO:0018874	MONDO:notVerified	NCIT:C173543
+MONDO:0100392	"acute myeloid leukemia, t(11;17)"	MONDO:0018874	MONDO:notVerified	NCIT:C175582
+MONDO:0100393	"acute myeloid leukemia, t(8;16)"	MONDO:0018874	MONDO:notVerified	NCIT:C175583
+MONDO:0100394	"acute myeloid leukemia, t(1;22)"	MONDO:0018874	MONDO:notVerified	NCIT:C175584
+MONDO:0100395	"acute myeloid leukemia, t(5;11)(q35;p15)"	MONDO:0018874	MONDO:notVerified	NCIT:C131503
+MONDO:0100396	"acute myeloid leukemia, t(7;12)(q36;p13)"	MONDO:0018874	MONDO:notVerified	NCIT:C122689
+MONDO:0100397	"acute myeloid leukemia, t(9;22)(q34.1;q11.2)"	MONDO:0018874	MONDO:notVerified	NCIT:C13271
+MONDO:0100398	"acute myeloid leukemia, inv(3)(q21.3;q26.2)"	MONDO:0018874	MONDO:notVerified	NCIT:C36407
+MONDO:0100399	"acute myeloid leukemia, t(3;3)(q21.3;q26.2)"	MONDO:0018874	MONDO:notVerified	NCIT:C36406
+MONDO:0100400	"acute myeloid leukemia, t(3;12)(q23;p12.3)"	MONDO:0018874	MONDO:notVerified	NCIT:C168766
+MONDO:0100401	"acute myeloid leukemia, del(5q31-q32)"	MONDO:0018874	MONDO:notVerified	NCIT:C168769
+MONDO:0100402	"acute myeloid leukemia, del(13q14-q21)"	MONDO:0018874	MONDO:notVerified	NCIT:C168770
+MONDO:0100403	"acute myeloid leukemia, loss of chromosome 17p"	MONDO:0018874	MONDO:notVerified	NCIT:C36499
+MONDO:0100405	"acute myeloid leukemia, Non-KMT2A MLLT10 rearrangement positive"	MONDO:0018874	MONDO:notVerified	NCIT:C168771
+MONDO:0100406	"acute myeloid leukemia, inv(16)(p13.3;q24.3)"	MONDO:0018874	MONDO:notVerified	NCIT:C167195
+MONDO:0100407	"acute myeloid leukemia, t(11;15)(p15;q35)"	MONDO:0018874	MONDO:notVerified	NCIT:C131505
+MONDO:0100408	"acute myeloid leukemia, t(16;21)(q24;q22)"	MONDO:0018874	MONDO:notVerified	NCIT:C168773
+MONDO:0100410	"acute myeloid leukemia, t(16;21)(p11;q22)"	MONDO:0018874	MONDO:notVerified	NCIT:C36616
+MONDO:0100412	"acute myeloid leukemia, monoallelic CEBPA gene mutation"	MONDO:0018874	MONDO:notVerified	NCIT:C168774
+MONDO:0100414	"acute myeloid leukemia, CEBPA gene mutation"	MONDO:0018874	MONDO:notVerified	NCIT:C38372
+MONDO:0100415	"acute myeloid leukemia, FLT3 internal tandem duplication"	MONDO:0018874	MONDO:notVerified	NCIT:C67494
+MONDO:0100416	"acute myeloid leukemia, FLT3 tyrosine kinase domain point mutation"	MONDO:0018874	MONDO:notVerified	NCIT:C67495
+MONDO:0100417	"acute myeloid leukemia, WT1 gene mutation"	MONDO:0018874	MONDO:notVerified	NCIT:C146726
+MONDO:0100418	"acute myeloid leukemia, KIT exon 17 mutation"	MONDO:0018874	MONDO:notVerified	NCIT:C116396
+MONDO:0100419	"acute myeloid leukemia, KIT exon 8 mutation"	MONDO:0018874	MONDO:notVerified	NCIT:C128660
+MONDO:0100420	"acute myeloid leukemia, KIT gene mutation"	MONDO:0018874	MONDO:notVerified	NCIT:C39712
+MONDO:0100421	"acute myeloid leukemia, GATA1 gene mutation"	MONDO:0018874	MONDO:notVerified	NCIT:C82340
+MONDO:0100423	"acute myeloid leukemia, PTPN11 gene mutation"	MONDO:0018874	MONDO:notVerified	NCIT:C82612
+MONDO:0100424	"acute myeloid leukemia, NRAS gene mutation"	MONDO:0018874	MONDO:notVerified	NCIT:C41381
+MONDO:0100425	"acute myeloid leukemia, KRAS gene mutation"	MONDO:0018874	MONDO:notVerified	NCIT:C41361
+MONDO:0100480	autoimmune primary adrenal insufficiency	MONDO:0015129	MONDO:notVerified	NCIT:C113814
+MONDO:0100492	Bonnevie-Ullrich syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C34434
+MONDO:0100505	food dermatitis	MONDO:0002406	MONDO:notVerified	NCIT:C34534
+MONDO:0100542	clonal hematopoiesis	MONDO:0060782	MONDO:notVerified	NCIT:C162188
+MONDO:0100543	clonal hematopoiesis of indeterminate potential	MONDO:0100542	MONDO:notVerified	NCIT:C158547
+MONDO:0100544	age-related clonal hematopoiesis	MONDO:0100542	MONDO:notVerified	NCIT:C155821
+MONDO:0200000	uterine ligament adenosarcoma	MONDO:0003612	MONDO:notVerified	NCIT:C102570
+MONDO:0200000	uterine ligament adenosarcoma	MONDO:0005636	MONDO:notVerified	NCIT:C102570
+MONDO:0700048	hand-foot syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C27177
+MONDO:0700081	newborn respiratory distress syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C27560
+MONDO:0700134	bovine neoplasm	MONDO:0700098	MONDO:notVerified	NCIT:C134527
+MONDO:0700139	canine neoplasm	MONDO:0700098	MONDO:notVerified	NCIT:C134526
+MONDO:0700140	canine osteosarcoma	MONDO:0700139	MONDO:notVerified	NCIT:C120045
+MONDO:0700142	canine hemangiosarcoma	MONDO:0700139	MONDO:notVerified	NCIT:C122783
+MONDO:0700143	canine mammary carcinoma	MONDO:0700139	MONDO:notVerified	NCIT:C124249
+MONDO:0700146	canine prostate carcinoma	MONDO:0700139	MONDO:notVerified	NCIT:C128122
+MONDO:0700148	canine transitional cell carcinoma	MONDO:0700139	MONDO:notVerified	NCIT:C128126
+MONDO:0700149	canine sarcoma	MONDO:0700139	MONDO:notVerified	NCIT:C128195
+MONDO:0700150	canine mastocytoma	MONDO:0700139	MONDO:notVerified	NCIT:C129077
+MONDO:0700152	canine hepatocellular carcinoma	MONDO:0700139	MONDO:notVerified	NCIT:C129298
+MONDO:0700153	canine lung adenocarcinoma	MONDO:0700139	MONDO:notVerified	NCIT:C129299
+MONDO:0700154	canine rhabdomyosarcoma	MONDO:0700139	MONDO:notVerified	NCIT:C129300
+MONDO:0700155	canine thyroid adenocarcinoma	MONDO:0700139	MONDO:notVerified	NCIT:C132275
+MONDO:0700156	canine soft tissue sarcoma	MONDO:0700139	MONDO:notVerified	NCIT:C132276
+MONDO:0700157	canine oral squamous cell carcinoma	MONDO:0700139	MONDO:notVerified	NCIT:C132823
+MONDO:0700158	canine pancreatic carcinoma	MONDO:0700139	MONDO:notVerified	NCIT:C134944
+MONDO:0700162	canine granular cell tumor	MONDO:0700139	MONDO:notVerified	NCIT:C158784
+MONDO:0700165	canine thyroid gland medullary carcinoma	MONDO:0700139	MONDO:notVerified	NCIT:C161006
+MONDO:0700168	canine oral melanoma	MONDO:0700139	MONDO:notVerified	NCIT:C185639
+MONDO:0700169	canine cutaneous t-cell lymphoma	MONDO:0700139	MONDO:notVerified	NCIT:C186279
+MONDO:0700189	chicken neoplasm	MONDO:0700098	MONDO:notVerified	NCIT:C135005
+MONDO:0700190	chicken bursal lymphoma	MONDO:0700189	MONDO:notVerified	NCIT:C134556
+MONDO:0800177	frostbite	MONDO:0021178	MONDO:notVerified	NCIT:C34627
+MONDO:0800486	metabolic bone disorder	MONDO:0005381	MONDO:notVerified	NCIT:C97045
+MONDO:8000010	antiphospholipid syndrome	MONDO:0002254	MONDO:notVerified	NCIT:C61283
+MONDO:8000023	type 3 autoimmune lymphoproliferative syndrome	MONDO:0017979	MONDO:notVerified	NCIT:C39577
