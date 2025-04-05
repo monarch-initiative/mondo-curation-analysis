@@ -1,0 +1,41 @@
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?class ?label ?xref
+WHERE {
+  ?class a owl:Class ;
+         rdfs:label ?label ;
+         ?prop ?val .
+
+  FILTER(STR(?val) != "")
+  FILTER(STR(?val) != "-")
+
+  BIND(STRAFTER(STR(?prop), "#") AS ?propLocal)
+
+  FILTER(?propLocal IN ("CUI", "ICD-11", "OMIM", "ORPHA", "SNOMED-CT"))
+
+  BIND(
+    IF(?propLocal = "CUI", CONCAT("UMLS:", STR(?val)),
+    IF(?propLocal = "ICD-11", CONCAT("ICD11:", STR(?val)),
+    IF(?propLocal = "ORPHA", CONCAT("Orphanet:", STR(?val)),
+    IF(?propLocal = "OMIM", CONCAT("OMIM:", STRAFTER(STR(?val), "_")),
+    IF(?propLocal = "SNOMED-CT", CONCAT("SCTID:", STR(?val)),
+    STR(?val)
+    ))))) AS ?xref)
+}
+ORDER BY ?class
+
+
+
+
+# # Check IRIs in the OWL file 
+# PREFIX owl: <http://www.w3.org/2002/07/owl#>
+
+# SELECT DISTINCT ?prop
+# WHERE {
+#   ?class a owl:Class ;
+#          ?prop ?val .
+#   FILTER(isIRI(?prop))
+#   FILTER(STRSTARTS(STR(?class), "#") || STRSTARTS(STR(?class), "http://"))
+# }
+# ORDER BY ?prop
