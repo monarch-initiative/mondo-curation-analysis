@@ -3,6 +3,8 @@ PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX obo: <http://purl.obolibrary.org/obo/>
 PREFIX oboInOwl: <http://www.geneontology.org/formats/oboInOwl#>
 
+# Get all mondo CURIEs and labels for terms that have xrefs
+
 SELECT ?mondo_curie ?mondo_term ?label ?xref
 WHERE {
   ?mondo_term a owl:Class ;

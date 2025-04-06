@@ -1,29 +1,35 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 
+# Get all IRD terms and their references to external ontologies if the property exists
+
 SELECT ?class ?label ?xref
 WHERE {
   ?class a owl:Class ;
-         rdfs:label ?label ;
-         ?prop ?val .
+         rdfs:label ?label .
 
-  FILTER(STR(?val) != "")
-  FILTER(STR(?val) != "-")
+  OPTIONAL {
+    ?class ?prop ?val .
 
-  BIND(STRAFTER(STR(?prop), "#") AS ?propLocal)
+    FILTER(STR(?val) != "")
+    FILTER(STR(?val) != "-")
 
-  FILTER(?propLocal IN ("CUI", "ICD-11", "OMIM", "ORPHA", "SNOMED-CT"))
+    BIND(STRAFTER(STR(?prop), "#") AS ?propLocal)
 
-  BIND(
-    IF(?propLocal = "CUI", CONCAT("UMLS:", STR(?val)),
-    IF(?propLocal = "ICD-11", CONCAT("ICD11:", STR(?val)),
-    IF(?propLocal = "ORPHA", CONCAT("Orphanet:", STR(?val)),
-    IF(?propLocal = "OMIM", CONCAT("OMIM:", STRAFTER(STR(?val), "_")),
-    IF(?propLocal = "SNOMED-CT", CONCAT("SCTID:", STR(?val)),
-    STR(?val)
-    ))))) AS ?xref)
+    FILTER(?propLocal IN ("CUI", "ICD-11", "OMIM", "ORPHA", "SNOMED-CT"))
+
+    BIND(
+      IF(?propLocal = "CUI", CONCAT("UMLS:", STR(?val)),
+      IF(?propLocal = "ICD-11", CONCAT("ICD11:", STR(?val)),
+      IF(?propLocal = "ORPHA", CONCAT("Orphanet:", STR(?val)),
+      IF(?propLocal = "OMIM", CONCAT("OMIM:", IF(CONTAINS(STR(?val), "_"), STRAFTER(STR(?val), "_"), STR(?val))),
+      IF(?propLocal = "SNOMED-CT", CONCAT("SCTID:", STR(?val)),
+      STR(?val)
+      ))))) AS ?xref)
+  }
 }
 ORDER BY ?class
+
 
 
 
