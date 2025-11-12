@@ -1,0 +1,18 @@
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX oboInOwl: <http://www.geneontology.org/formats/oboInOwl#>
+
+# Get all ICD10 mappings to MONDO terms
+
+SELECT DISTINCT ?mondo_curie ?mondo_label ?icd10_xref
+WHERE {
+  ?mondo_term a owl:Class ;
+              oboInOwl:hasDbXref ?icd10_xref ;
+              rdfs:label ?mondo_label .
+  
+  FILTER(STRSTARTS(LCASE(STR(?icd10_xref)), "icd10"))
+  
+  BIND(REPLACE(STR(?mondo_term), "http://purl.obolibrary.org/obo/MONDO_", "MONDO:") AS ?mondo_curie)
+}
+ORDER BY ?icd10_xref
+
