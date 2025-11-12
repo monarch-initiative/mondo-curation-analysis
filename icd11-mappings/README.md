@@ -23,16 +23,12 @@ This directory contains tools to find ICD11 mappings in Mondo and add these into
 2. Upgrade pip and install the required Python packages:
    ```bash
    pip install --upgrade pip
-   pip install pandas
+   pip install -r requirements.txt
    ```
 
-3. (Optional) Save the dependencies for later reuse:
+3. (Optional) If you add dependencies, update the requirements file so others can recreate the environment:
    ```bash
    pip freeze > requirements.txt
-   ```
-   You can then reinstall them with:
-   ```bash
-   pip install -r requirements.txt
    ```
 
 ## Workflow
@@ -66,6 +62,8 @@ The script will:
 - For ICD10 CURIEs: Find associated MONDO terms, then get their ICD11 mappings
 - Add a new column `ICD11_mappings` with comma-separated ICD11 CURIEs (empty string if no mappings found)
 
+The script looks for the input TSV in your current working directory, next to the script itself, or in `icd11-mappings/data/` (by filename) before raising an error.
+
 ### Example
 
 ```bash
@@ -92,6 +90,7 @@ python add_icd11_mappings.py input.tsv -o output/custom_output.tsv
 icd11-mappings/
 ├── README.md
 ├── add_icd11_mappings.py      # Main Python script
+├── requirements.txt           # Python dependencies
 ├── sparql/
 │   ├── extract_mondo_icd11.sparql    # Query for MONDO->ICD11
 │   └── extract_icd10_mondo.sparql    # Query for ICD10->MONDO

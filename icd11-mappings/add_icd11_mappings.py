@@ -105,12 +105,23 @@ def main():
     script_dir = Path(__file__).resolve().parent
     data_dir = script_dir / 'data'
     
-    # Check input file exists
-    input_path = Path(args.input_tsv)
-    if not input_path.is_absolute():
-        input_path = (Path.cwd() / input_path).resolve()
-    if not input_path.exists():
+    # Resolve input file location (support cwd, script dir, data dir)
+    input_arg = Path(args.input_tsv)
+    input_candidates = []
+    if input_arg.is_absolute():
+        input_candidates.append(input_arg)
+    else:
+        input_candidates.extend([
+            (Path.cwd() / input_arg).resolve(),
+            (script_dir / input_arg).resolve(),
+            (data_dir / input_arg.name).resolve(),
+        ])
+    input_path = next((p for p in input_candidates if p.exists()), None)
+    if input_path is None:
         print(f"Error: Input file not found: {args.input_tsv}", file=sys.stderr)
+        print("  Checked locations:")
+        for candidate in input_candidates:
+            print(f"   - {candidate}")
         sys.exit(1)
     
     # Check mapping files exist
